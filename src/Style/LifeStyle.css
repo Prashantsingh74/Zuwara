@@ -1,0 +1,995 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}.patient-profile-view-fzk {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  margin-top: 80px;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY {
+  /* box-sizing: border-box;
+  padding: 2.4rem 10rem 6.4rem 10rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0; */
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .group-182-VD6 {
+  margin-bottom: 4.3rem;
+  width: 100%;
+  height: 6.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .group-182-VD6 .logo-1x8 {
+  width: 6.7997rem;
+  height: 6.5001rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .group-182-VD6 .auto-group-5n8t-kui {
+  box-sizing: border-box;
+  padding: 1.2rem 0rem 0.4rem 31.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .group-182-VD6 .auto-group-5n8t-kui .group-1261154647-HPr {
+  margin: 1.2rem 12.2rem 1.1rem 0rem;
+  height: calc(100% - 2.3rem);
+  display: flex;
+  column-gap: 4.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .group-182-VD6 .auto-group-5n8t-kui .group-1261154647-HPr .home-zZA {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #af2245;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .group-182-VD6 .auto-group-5n8t-kui .group-1261154647-HPr .about-KbS {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .group-182-VD6 .auto-group-5n8t-kui .group-1261154647-HPr .join-as-provider-rrG {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .group-182-VD6 .auto-group-5n8t-kui .group-1261154647-HPr .get-care-1DN {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .group-182-VD6 .auto-group-5n8t-kui .group-179-Yyz {
+  margin: 0.1rem 5.7rem 0rem 0rem;
+  width: 5.6rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .group-182-VD6 .auto-group-5n8t-kui .auto-group-yrjs-g4c {
+  width: 14.9rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 0.8888888889;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .group-1261154838-vDr {
+  /* margin: 0rem 115.1rem 3rem 0rem; */
+  margin-bottom: 10px;
+  width: calc(100% - 115.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .group-1261154838-vDr .group-1261154072-EEY {
+  margin: 0rem 1.64rem 0.1rem 0rem;
+  width: 2.7598rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .group-1261154838-vDr .back-w8x {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz {
+  /* width: 100%;
+  height: 69.1rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0; */
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 {
+  margin-right: 2.3243rem;
+  width: 36.8757rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .frame-1261154254-MiU {
+  box-sizing: border-box;
+  padding: 1.5rem 14.976rem 1.787rem 1.5rem;
+  width: 100%;
+  height: 9.9872rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  border-radius: 1.0243rem;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .frame-1261154254-MiU .auto-group-twhi-swi {
+  margin-right: 1.2rem;
+  box-sizing: border-box;
+  padding: 2.2rem 2.509rem 2.1rem 2.5rem;
+  height: 100%;
+  border: solid 0.1rem #af2245;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .frame-1261154254-MiU .auto-group-twhi-swi .group-1261154953-p6G {
+  width: 1.9909rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .frame-1261154254-MiU .noha-abdullah-jU8 {
+  margin-top: 0.2rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt {
+  box-sizing: border-box;
+  padding-top: 2.4128rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr {
+  margin-bottom: 2.95rem;
+  box-sizing: border-box;
+  padding: 3rem 1.9rem 2.9rem 1.9rem;
+  width: 34.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154793-GsN {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  row-gap: 1.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154793-GsN .auto-group-j5yn-bue {
+  box-sizing: border-box;
+  padding: 1.65rem 11.8rem 1.45rem 4.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154793-GsN .auto-group-j5yn-bue .vector-vwv {
+  margin: 0rem 5.2rem 0.1rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154793-GsN .auto-group-j5yn-bue .records-qoz {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154793-GsN .auto-group-11me-xtc {
+  box-sizing: border-box;
+  padding: 1.6rem 4.2rem 1.5rem 4.2rem;
+  width: 100%;
+  height: 5.7rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154793-GsN .auto-group-11me-xtc .group-1261154888-JBn {
+  width: 15.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154793-GsN .auto-group-11me-xtc .group-1261154888-JBn .icon-eWY {
+  margin: 0rem 4.9rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154793-GsN .auto-group-11me-xtc .group-1261154888-JBn .personal-nMr {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154793-GsN .auto-group-n8ha-Jb6 {
+  box-sizing: border-box;
+  padding: 1.45rem 11.9rem 1.65rem 4.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154793-GsN .auto-group-n8ha-Jb6 .group-1261154885-qb2 {
+  margin: 0rem 5.3rem 0.1rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154793-GsN .auto-group-n8ha-Jb6 .medical-AdJ {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154884-tpC {
+  box-sizing: border-box;
+  padding: 1.7rem 4.2rem 1.2rem 4.2rem;
+  width: 100%;
+  height: 5.7rem;
+  background-color: #af2245;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154884-tpC .group-1261154883-DrU {
+  width: 15.2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154884-tpC .group-1261154883-DrU .vector-Mhn {
+  margin-right: 4.9rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154801-aDr .group-1261154884-tpC .group-1261154883-DrU .life-style-egt {
+  margin-top: 0.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .my-zwrrar-pUt {
+  margin-bottom: 2.15rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154808-Yfn {
+  width: 34.8rem;
+  height: 12.4rem;
+  position: relative;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154808-Yfn .rectangle-39639-5vc {
+  width: 31rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 3.3rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154808-Yfn .my-programs-Qhz {
+  width: 12rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 13.4rem;
+  top: 4.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-ycng-R48 .auto-group-4gsv-EQt .group-1261154808-Yfn .group-1261154897-hwz {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk {
+  box-sizing: border-box;
+  padding: 3.2rem 2.4rem 2.4rem 2.4rem;
+  /* width: calc(100% - 37rem); */
+  /* height: 100%; */
+  border: solid 0.03rem #89898b;
+  box-shadow: -0.4rem 0.7rem 0.4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-qnds-Ctkk{
+  /* width: 100%;
+  height: 93%; */
+  border: solid 0.03rem #89898b;
+  border-radius: 2rem;
+  padding: 3.2rem 2.4rem 2.4rem 2.4rem;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .view-patient-KiU {
+  margin-bottom: 2.4rem;
+  display: flex;
+  /* font-size: 1.6rem; */
+  /* font-weight: 600; */
+  line-height: 1.2562500238;
+  color: #111535;
+  /* font-family: Poppins, 'Source Sans Pro'; */
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC {
+  width: 100%;
+  height: 59rem;
+  position: relative;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .smoking-habits-zJp {
+  width: 12.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.45rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .activity-level-VFa {
+  width: 10.7rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 23.25rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .food-preference-bpQ {
+  width: 13rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 32.45rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .occupation-Jip {
+  width: 9.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 41.55rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .select-dWC {
+  width: 4.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 3.7rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8571428571;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .rectangle-39657-jp8 {
+  width: 80rem;
+  height: 59rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.05rem #89898b;
+  box-sizing: border-box;
+  border-radius: 2rem;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .rectangle-39659-3Zv {
+  width: 75.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 3.5rem;
+  border: solid 0.05rem #af2245;
+  box-sizing: border-box;
+  border-radius: 0.9rem 0.9rem 0 0.1rem;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .rectangle-39660-Z2U {
+  width: 75.9rem;
+  height: 14.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 6.4rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .rectangle-39661-fLQ {
+  width: 75.9rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 7rem;
+  background-color: #af2245;
+  border-radius: 0.4rem;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .days-nvp {
+  width: 6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 7.2rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8571428571;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .day-6wW {
+  width: 5.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 10.1rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.7333333333;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .days-RTz {
+  width: 6.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 12.5rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8571428571;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .i-used-tobut-i-have-quit-whE {
+  width: 16.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 14.9rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8571428571;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .dont-smoke-e5r {
+  width: 8.7rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 17.3rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8571428571;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .group-1261154864-ZCp {
+  width: 75.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 26.3rem;
+  border-radius: 0.4rem;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .group-1261154864-ZCp .select-JAQ {
+  width: 4.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 0.5rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8571428571;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .group-1261154864-ZCp .rectangle-39664-1ac {
+  width: 75.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.05rem #af2245;
+  box-sizing: border-box;
+  border-radius: 0.4rem;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .group-1261154865-X3A {
+  width: 75.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 35.5rem;
+  border-radius: 0.4rem;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .group-1261154865-X3A .select-rbE {
+  width: 4.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 0.5rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8571428571;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .group-1261154865-X3A .rectangle-39664-ZkY {
+  width: 75.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.05rem #af2245;
+  box-sizing: border-box;
+  border-radius: 0.4rem;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .group-1261154866-6Va {
+  width: 75.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 44.6rem;
+  border-radius: 0.4rem;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .group-1261154866-6Va .select-2u2 {
+  width: 4.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 0.5rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8571428571;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .group-1261154866-6Va .rectangle-39664-kq2 {
+  width: 75.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.05rem #af2245;
+  box-sizing: border-box;
+  border-radius: 0.4rem;
+}
+.patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .group-1261154867-V1v {
+  width: 36.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 40rem;
+  top: 51.4rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #8e8e90;
+  box-sizing: border-box;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+  border-radius: 0.6rem;
+}
+.patient-profile-view-fzk .group-1000002072-Etc {
+  box-sizing: border-box;
+  padding: 6.083rem 26.6rem 6.7rem 10rem;
+  width: 100%;
+  height: 33.8rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .group-1261154099-kMA {
+  margin: 0.617rem 22.767rem 1.733rem 0rem;
+  height: calc(100% - 2.35rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .group-1261154099-kMA .group-1261154093-fj2 {
+  margin-bottom: 2.3rem;
+  width: 12.8rem;
+  height: 12.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .group-1261154099-kMA .group-1261154040-QRi {
+  margin-left: 0.05rem;
+  width: 20.2667rem;
+  height: 4.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-kv3e-8cc {
+  margin-right: 8.85rem;
+  width: 12.8166rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-kv3e-8cc .company-HEc {
+  margin-bottom: 2.1167rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-kv3e-8cc .frame-37135-pVS {
+  margin-left: 0.0166rem;
+  width: calc(100% - 0.0166rem);
+  row-gap: 1.2rem;
+  display: flex;
+  flex-direction: column;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-kv3e-8cc .frame-37135-pVS .home-wa4 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-kv3e-8cc .frame-37135-pVS .about-Hdv {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-kv3e-8cc .frame-37135-pVS .join-as-provider-2rQ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-kv3e-8cc .frame-37135-pVS .get-care-ad2 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-kv3e-8cc .frame-37135-pVS .join-us-vgt {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-ube4-fuN {
+  margin: 0rem 12.617rem 3.3rem 0rem;
+  width: 9.8rem;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-ube4-fuN .laboratory-oVn {
+  margin-bottom: 2.1167rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-ube4-fuN .frame-37136-wrt {
+  width: 100%;
+  row-gap: 1.3rem;
+  display: flex;
+  flex-direction: column;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-ube4-fuN .frame-37136-wrt .general-test-h5N {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-ube4-fuN .frame-37136-wrt .blood-test-ELC {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-ube4-fuN .frame-37136-wrt .urine-test-n6p {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-ube4-fuN .frame-37136-wrt .dna-test-vD2 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-drqz-fRW {
+  margin-bottom: 7.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-drqz-fRW .contact-us-p3W {
+  margin-bottom: 2.2167rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-drqz-fRW .item-923489934721-Z16 {
+  margin: 0rem 0rem 0.8rem 0.033rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-drqz-fRW .zwaarahealthcom-U84 {
+  margin: 0rem 0rem 0.9rem 0.033rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.patient-profile-view-fzk .group-1000002072-Etc .auto-group-drqz-fRW .riadh-2343-saudi-arabia-yqW {
+  margin-left: 0.0334rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+
+
+@media only screen and (max-width: 1024px) {
+  /* .patient-profile-view-fzk .auto-group-rktc-ykY {
+    padding: 2.4rem 10rem 6.4rem 1rem;
+  } */
+ 
+  
+}
+@media only screen and (max-width: 820px) {
+
+  .patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .rectangle-39657-jp8 {
+    width: 35rem;
+  }
+ 
+}
+
+@media only screen and (max-width: 768px) {
+  .patient-profile-view-fzk .auto-group-rktc-ykY .auto-group-rv4y-Tsz .auto-group-qnds-Ctk .auto-group-fj9i-sEC .rectangle-39657-jp8 {
+    width: 31rem;
+  }
+
+}
+
+
+.life-style-selectfi{
+  width: 100%;
+  height: 40px;
+  font-size: 15px;
+  border: 1px solid #AF2245;
+  border-radius: 6px;
+}
+
+/*Apply styles to selected option*/
+.life-style-selectfi option:checked{
+  background: #AF2245;
+  color: #FFFFFF;
+  
+}
+
+/* .life-style-selectfi option:hover{
+  background: #AF2245 !important;
+  color: #FFFFFF;
+} */
+
+.life-style-selectfi {
+  -webkit-appearance: none;
+  appearance: none;
+ 
+}
+

@@ -1,0 +1,391 @@
+.vaccination-img {
+  width: 13rem;
+  height: 19rem;
+  margin-right: 3.5rem;
+  object-fit: cover;
+}
+.vaccination-head{
+  margin-top: 60px;
+}
+.children-vaccination-card {
+  border-radius: 5px;
+  border: 1px dashed #9747ff;
+  margin: 0 0rem 2rem 0;
+  /* width: 77.2rem; */
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.vaccination-box {
+  position: relative;
+  margin: 1rem;
+  padding: 1rem 2rem 2rem 1rem;
+  border-radius: 12px;
+  box-shadow: 0px 0px 2px 0.2px #555555;
+}
+
+.no-result-found-msg {
+  /* width: 94rem; */
+  text-align: center;
+}
+
+.children-vaccination {
+  display: flex;
+  /* height: 70%; */
+}
+
+.select_box {
+  width: 3rem;
+  height: 3rem;
+  border: 1px solid #898b9f;
+  border-radius: 6px;
+  position: absolute;
+  /* left: 69rem; */
+  top: 1rem;
+  right: 1rem;
+  z-index: 9;
+  cursor: pointer;
+}
+
+.vaccination-details {
+  margin-top: 2rem;
+  width: 71rem;
+}
+
+.vaccination .group-1261154072 {
+  margin: -5px 16px 0px 0;
+  width: 27.6px;
+  height: 24px;
+}
+
+.vaccination .back {
+  margin-right: 4rem;
+}
+
+.vaccination .rectangle-39545 {
+  border-radius: 5px;
+  background: #af2245;
+  margin-right: 12px;
+  width: 238px;
+  height: 5px;
+}
+
+.vaccination .rectangle-39546 {
+  border-radius: 5px;
+  background: #ffffff;
+  margin-right: 12px;
+  width: 238px;
+  height: 5px;
+}
+
+.vaccination .group-1261154073 {
+  margin-top: 11px;
+  display: flex;
+}
+
+.vaccination .group-1261154093 {
+  margin-bottom: 40px;
+  display: flex;
+}
+
+.vaccination .vaccination-list {
+  margin-bottom: 34px;
+}
+
+.vaccination .group-1 {
+  margin: 0px 16px 0px 0;
+}
+
+.vaccination .selected-location {
+  /* margin-right: 10px; */
+  width: 171px;
+}
+
+.vaccination .line-1 {
+  background: #999999;
+  margin: 0 2rem 0 1rem;
+  width: 1.5px;
+}
+
+.vaccination .saudi-arabia {
+  margin-right: 2rem;
+}
+
+.vaccination .vector-19 {
+  width: 27px;
+}
+
+.vaccination .frame-37119 {
+  border-radius: 5px;
+  background: rgba(175, 34, 69, 0.1);
+  display: flex;
+  margin-right: 16px;
+  padding: 10px 10px 10px 10px;
+}
+
+.vaccination .container-13 {
+  display: flex;
+}
+
+.vaccination .container-17 {
+  background: rgba(175, 34, 69, 0.1);
+  margin-bottom: 44px;
+  padding: 2% 2% 2% 7%;
+  /* padding: 24px 0 66px 100px; */
+}
+
+.vaccination .rectangle-39679 {
+  border-radius: 6px;
+  border: 1px solid #898b9f;
+  width: 28px;
+  height: 28px;
+}
+
+.vaccination .childrens-vaccination-age-2-month {
+  margin: 0 39px 20px 0;
+  text-transform: capitalize;
+}
+
+.vaccination .vaccination-subtext {
+  width: 52rem;
+}
+
+.vaccination .selected-test {
+  margin-bottom: 13px;
+}
+
+.vaccination .group-1261154161 {
+  border-radius: 12px;
+  background: rgba(175, 34, 69, 0.1);
+  padding: 29px 23px;
+}
+
+.vaccination .component-1 {
+  border-radius: 50%;
+  /* background: #ffffff; */
+  position: relative;
+  top: -8.2rem;
+  /* left: 35.7rem; */
+  padding: 2px;
+  width: 24px;
+  height: 24px;
+  border: none;
+}
+
+.vaccination .frame-1261154252 {
+  margin-bottom: 4px;
+}
+
+.vaccination .frame-37121 {
+  border-radius: 5px;
+  margin-top: 2rem;
+  background: var(
+    --gradient,
+    linear-gradient(90deg, #af2245, #882767, #602d8a)
+  );
+  padding: 16px 0;
+  width: 100%;
+  text-align: center;
+  border: none;
+}
+
+.vaccination .container-11 {
+  border-radius: 7px;
+  background: #f6f7f9;
+  padding: 20px;
+}
+
+.vaccination .container-4 {
+  /* margin: 0 100px 24px 100px; */
+  display: flex;
+  margin: auto;
+}
+
+.vaccination .rectangle-396793 {
+  border-radius: 6px;
+  border: 1px solid #898b9f;
+  width: 28px;
+  height: 28px;
+}
+
+.vaccination {
+  padding-top: 3rem;
+}
+.instructions {
+  margin-top: 20px;
+}
+
+.distance .select_boxx {
+  width: 3rem;
+  height: 3rem;
+  border: 1px solid #898b9f;
+  border-radius: 6px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  z-index: 9;
+  cursor: pointer;
+
+}
+.select-location-hover {
+  cursor: pointer;
+}
+
+
+
+/* ================================= akash  */
+
+.select_boxx{
+  width: 3rem;
+  height: 3rem;
+  border: 1px solid #898b9f;
+  border-radius: 6px;
+  position: absolute;
+  top: 22px;
+  right: 22px;
+  /* left: 48rem; */
+  cursor: pointer;
+  z-index: 1;
+
+}
+.shhhh{
+  background-color: #fff !important;
+  padding: 17px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 10px;
+}
+
+.selected-testt {
+  margin-bottom: 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--title-font-family, "Poppins");
+  font-weight: var(--title-font-weight, 600);
+  font-size: var(--title-font-size, 16px);
+  line-height: var(--title-line-height, 1.256);
+  color: #111535;
+}
+.container-111 {
+  border-radius: 7px;
+  background: #f6f7f9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 18px;
+  width: -moz-fit-content;
+  /* width: fit-content; */
+  box-sizing: border-box;
+}
+.frame-371211 {
+  border: none;
+  border-radius: 5px;
+  background: var(--gradient, linear-gradient(90deg, #af2245, #882767, #602d8a));
+  /* margin: 0 8px 0 6px; */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* padding: 16px 0 16px 0.9px; */
+  padding: 16px 0px;
+  width:100%;
+  box-sizing: border-box;
+}
+.frame-12611542522 {
+  position: relative;
+  margin-bottom: 24px;
+  /* padding: 9px 2px 0 0; */
+  box-sizing: border-box;
+}
+.group-12611541611 {
+  border-radius: 12px;
+  background: rgba(175, 34, 69, 0.1);
+  position: relative;
+  padding: 29px 23px 28px 23px;
+  box-sizing: border-box;
+}
+
+.component-11 {
+  border-radius: 50%;
+  /* background: #ffffff; */
+
+  position: absolute;
+  top: -5px;
+  /* left: 34.7rem; */
+  right: 0px;
+
+  padding: 2px;
+  width: 24px;
+  height: 24px;
+  border: none;
+}
+
+@media (max-width: 1200px) {
+  .vaccination .container-13 {
+    flex-direction: column;
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  .vaccination .container-4 {
+    flex-direction: column;
+  }
+
+  .sel-cen-con-btn{
+    text-align: center;
+  }
+  /* .distance .containe {
+    margin-left: -12rem !important;
+  } */
+
+  /* .distance .select_boxx {
+    
+    position: relative;
+    left: 66rem;
+  } */
+}
+@media (max-width: 992px) {
+  .seasonal-selected {
+    flex-direction: column;
+  }
+}
+@media (max-width: 820px) {
+  /* .vaccination .container-4 {
+    flex-direction: column;
+  }
+  .vaccination .container-13 {
+    flex-direction: column;
+    gap: 1rem;
+  } */
+  .distance .sa-container {
+    width: 1018px;
+  }
+  /* .distance .containe {
+    margin-left: -13rem !important;
+  } */
+  /* .distance .select_boxx {
+    top: 0;
+    right: 0;
+    position: absolute;
+    left: 56rem;
+  } */
+  .distance .seanal-card {
+    margin-top: 15px;
+  }
+
+}
+
+@media (max-width: 767px) {
+  .vaccination .back {
+    padding-right: 1rem;
+    margin-right: 0px;
+  }
+  .vaccination .group-1261154093 {
+    margin-bottom: 20px;
+  }
+  .vaccination .vaccination-list {
+    margin-bottom: 20px;
+  }
+}

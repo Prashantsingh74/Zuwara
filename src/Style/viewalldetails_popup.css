@@ -1,0 +1,47 @@
+.Health-Check-Packages button{
+    background-color: white;
+    color: black;
+  }
+  
+  .Health-Check-Packages i{
+    font-weight: 900;
+    font-size: 20px;
+    margin: 0;
+    width: fit-content;
+    cursor: pointer;
+  }
+  
+  .Health-Check-Packages .health-c{
+    cursor: pointer;
+  }
+  
+  .Health-Check-Packages .health-c label{
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 700;
+  }
+  
+  .Health-Check-Packages p{
+    font-size: 13px;
+  }
+  
+  .Health-Check-Packages p span{
+    color: #35AFE2;
+    font-weight: 700;
+  }
+  
+  .Health-Check-Packages .description li{
+    list-style: disc;
+    font-size: 13px;
+    font-weight: 500;
+  }
+  
+  .Health-Check-Packages .description p{
+    font-size: 13px;
+    font-weight: 500;
+  }
+  
+  .Health-Check-Packages .description b{
+    font-size: 13px;
+    color: #002A56
+  }

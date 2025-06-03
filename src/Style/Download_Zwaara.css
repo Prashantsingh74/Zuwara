@@ -1,0 +1,135 @@
+.top120 {
+    margin-top: 120px;
+}
+.img-cover1 {
+    width: calc(2%* 50);
+    height: calc(2%* 50);
+    object-fit: cover;
+    margin-left: 15%;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: calc(2px* -5);
+    margin-left: calc(2px* -5);
+}
+.down-sanar {
+    flex-direction: column;
+    align-items: center;
+}
+.vir-head {
+    display: flex;
+    justify-content: space-between;
+    width: 820px;
+    margin: 0 auto;
+    max-width: 820px;
+}
+.down-sanar h2 {
+    margin-bottom: 30px;
+}
+.h2 {
+    font-size: 44px;
+}
+.down-sanar.vir-head .d-flex {
+    padding: 10px 20px;
+    font-size: 16px;
+    gap: 30px;
+}
+.vir-head .d-flex {
+    background-color: #def2fa;
+    border-radius: 20px;
+}
+.mb30{
+    margin-bottom: 30px;
+}
+.down-sanar.vir-head .d-flex button {
+    font-size: 16px;
+}
+.vir-head .d-flex .active {
+    background: #26A9E0;
+    color: #fff;
+}
+.vir-head .d-flex button {
+    border: none;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.cursor {
+    cursor: pointer;
+    background: transparent;
+    color: blue;
+}
+button{
+    outline: none;
+}
+.down-sanar .app-stores {
+    justify-content: center;
+    gap: 10px;
+}
+.app-stores {
+    display: flex;
+}
+.down-sanar .join-stores a {
+    width: 225px;
+}
+.app-stores a {
+    margin-right: 10px;
+}
+a {
+    text-decoration: none;
+    outline: none;
+    color: #000;
+}
+.w100 {
+    width: calc(2%* 50);
+}
+.down-sanar .join-stores a {
+    width: 225px;
+}
+.app-stores a:last-child {
+    margin-right: 0;
+}
+a {
+    text-decoration: none;
+    outline: none;
+    color: #000;
+}
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px){
+    .top120 {
+        margin-top: 40px;
+    }
+    .col-xs-12 {
+        flex: 0 0 100%;  
+        max-width: 100%;
+        /* margin-right: ;   */
+    }
+    .join-down {
+        margin-bottom: 30px;
+        width: 1160px;
+        margin: 0 auto;
+        max-width: 1160px;
+        width: 100%;
+        overflow: hidden;
+    }
+    .vir-head {
+        display: block;
+        width: 95%;
+    }
+    .vir-head h2 {
+        padding-right: 0;
+    }
+    .h2 {
+        font-size: 20px;
+    }
+    .vir-head .d-flex {
+        justify-content: center;
+        margin-top: 15px;
+    }
+    .vir-head .d-flex button {
+        width: 50%;
+    }
+    .app-stores a {
+        margin-left: 0;
+    }
+}

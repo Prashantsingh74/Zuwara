@@ -1,0 +1,24 @@
+[
+  { 
+    "id": 1,
+    "name": "MAHA GUMAA", 
+    "services": "Physiotherapist",
+    "languages" : "Arabic English",
+    "location": "Taibah Care, Madinah",
+    "facility": "Home Visit",
+    "image": "/images/Group 1261154660.png",
+    "price": "300.00",
+    "telemedicine": "15 Min"
+  },
+  { 
+    "id": 2, 
+    "name": "Asma Alfod", 
+    "services": "Physiotherapist",
+    "languages" : "English Arabic",
+    "location": "Taibha care, Madinah",
+    "facility": "Home Visit",
+    "image": "/images/Group 1261154660.png",
+    "price": "200.00",
+    "telemedicine": "15 Min"
+  }
+]

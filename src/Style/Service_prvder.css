@@ -1,0 +1,135 @@
+.join-serv {
+    text-align: center;
+}
+.top120 {
+    margin-top: 120px;
+}
+.join-serv h2 {
+    margin-bottom: 80px;
+}
+.h2 {
+    font-size: 44px;
+}
+.pjoin-list {
+    display: flex;
+    gap: 20px;
+}
+.pjoin-list li {
+    width: calc(100%/3 - (1 - 1/3)*10px);
+    padding: 0 60px;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+    position: relative;
+}
+.common-title {
+    display: flex;
+    /* gap: 10px;
+    align-items: center; */
+    margin-bottom: 20px;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.icon-bg-lg {
+    width: 88px;
+    height: 72px;
+    font-size: 70px;
+}
+.icon-bg {
+    position: relative;
+    color: #020288;
+}
+.icon-bg-lg.icon-report3:before {
+    font-size: 70px;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+.icon-report3:before {
+    content: "\e981";
+}
+.pjoin-list li i.icon-arrow-right-thick {
+    position: absolute;
+    top: 9px;
+    right: 10px;
+    font-size: 15px;
+    color: #26A9E0;
+}
+.icon-bg-lg.icon-call-center-agent:before {
+    font-size: 70px;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+.icon-bg-lg.icon-correction:before {
+    font-size: 70px;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+.pjoin-list li small {
+    position: absolute;
+    top: -10px;
+    left: -15px;
+    background-color: #26A9E0;
+    color: #fff;
+    width: 25px;
+    height: 25px;
+    line-height: 20px;
+    border-radius: 50%;
+    font-size: 14px;
+}
+.icon-bg-lg::after {
+    width: 74px;
+    height: 72px;
+}   
+.icon-bg:after {
+    content: '';
+    position: absolute;
+    right: 0;
+    left: 8px;
+    top: 0;
+    background: url(https://sanar-assets.com/images/static/v5/icon-bg.svg) no-repeat;
+    background-size: 100%;
+}
+.pb10 {
+    padding-bottom: calc(2px* 5);
+}
+.pt10 {
+    padding-top: calc(7px* 5);
+}
+.h5 {
+    font-size: 22px;
+}
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px){
+    .top120 {
+        margin-top: 40px;
+    }
+    .join-serv {
+        padding-top: 40px;
+    }
+    .join-sanar-card, .join-serv h2 {
+        margin-bottom: 60px;
+    }
+    .pjoin-list{
+        margin-left: 10px;   
+    }
+    .pjoin-list li {
+        padding: 0;
+    }
+    .h5 {
+        font-size: 1rem;
+    }
+    .pjoin-list li i.icon-arrow-right-thick {
+        display: none;
+    }
+}

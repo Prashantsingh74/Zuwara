@@ -1,0 +1,1444 @@
+.vaccination .logo {
+  width: 68px;
+  height: 65px;
+}
+.vaccination .home {
+  margin-right: 13px;
+  width: 87px;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #af2245;
+}
+.vaccination .about {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #111535;
+}
+.vaccination .join-as-provider {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #111535;
+}
+.vaccination .get-care {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #111535;
+}
+.vaccination .group-10 {
+  margin: 24px 0 15px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 470.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vaccination .vector-14 {
+  margin-right: 12px;
+  width: 26px;
+  height: 26px;
+}
+.vaccination .vector-15 {
+  margin: 13px 0 4px 0;
+  width: 18px;
+  height: 9px;
+}
+.vaccination .group-179 {
+  margin: 12px 0 11px 0;
+  display: flex;
+  flex-direction: row;
+  width: 56px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vaccination .login {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 0.889;
+  color: #ffffff;
+}
+.vaccination .container-3 {
+  border-radius: 5px;
+  background: linear-gradient(90deg, #af2245, #882767, #602d8a);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 16px 0 17px 0.7px;
+  width: 149px;
+  box-sizing: border-box;
+}
+.vaccination .container-12 {
+  margin: 12px 0 4px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 262px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vaccination .group-182 {
+  margin: 0 100px 32px 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1240px;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154072 {
+  margin: 1px 16.4px 1px 0;
+  width: 27.6px;
+  height: 24px;
+}
+.vaccination .back {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 18px;
+  color: #333333;
+}
+.vaccination .group-1261154076 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.vaccination .rectangle-39545 {
+  border-radius: 5px;
+  background: #af2245;
+  margin-right: 12px;
+  width: 238px;
+  height: 5px;
+}
+.vaccination .rectangle-39546 {
+  border-radius: 5px;
+  background: #ffffff;
+  margin-right: 12px;
+  width: 238px;
+  height: 5px;
+}
+.vaccination .rectangle-39547 {
+  border-radius: 5px;
+  background: #ffffff;
+  margin-right: 12px;
+  width: 238px;
+  height: 5px;
+}
+.vaccination .rectangle-39548 {
+  border-radius: 5px;
+  background: #ffffff;
+  width: 238px;
+  height: 5px;
+}
+.vaccination .group-1261154073 {
+  margin: 12px 0 10px 0;
+  display: flex;
+  flex-direction: row;
+  width: 988px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154093 {
+  margin-bottom: 40px;
+  /* display: flex;
+  flex-direction: row; */
+  /* justify-content: space-between; */
+  /* align-self: flex-start; */
+  /* width: 1114px; */
+  box-sizing: border-box;
+}
+.vaccination .vaccination-list {
+  margin-bottom: 34px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sub-headings-2-font-family, "Poppins");
+  font-weight: var(--sub-headings-2-font-weight, 600);
+  font-size: var(--sub-headings-2-font-size, 34px);
+  text-transform: var(--sub-headings-2-text-transform, capitalize);
+  color: #111535;
+}
+.vaccination .group-1 {
+  margin: 1px 16.4px 0.2px 0;
+  width: 15.6px;
+  height: 18.8px;
+}
+.vaccination .selected-location {
+  /* margin-right: 10px; */
+  width: 171px;
+  overflow-wrap: break-word;
+  font-family: var(--title-font-family, "Poppins");
+  font-weight: var(--title-font-weight, 600);
+  font-size: var(--title-font-size, 16px);
+  line-height: var(--title-line-height, 1.256);
+  color: #af2245;
+}
+.vaccination .line-1 {
+  background: #999999;
+  margin: 1px 19px 0px 10px;
+  width: 2px;
+  /* height: 19px; */
+}
+.vaccination .saudi-arabia {
+  overflow-wrap: break-word;
+  font-family: var(--title-font-family, "Poppins");
+  font-weight: var(--title-font-weight, 600);
+  font-size: var(--title-font-size, 16px);
+  line-height: var(--title-line-height, 1.256);
+  color: #af2245;
+}
+.vaccination .container-15 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154074 {
+  margin-right: 18.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 307.2px;
+  box-sizing: border-box;
+}
+.vaccination .vector-19 {
+  margin: 3px 0 1px 0;
+  width: 27.8px;
+  height: 16px;
+}
+.vaccination .group-1261154096 {
+  display: flex;
+  flex-direction: row;
+  width: 353.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vaccination .frame-37119 {
+  border-radius: 5px;
+  background: rgba(175, 34, 69, 0.1);
+  display: flex;
+  flex-direction: row;
+  /* padding: 16px 22.2px 17px 24px; */
+  width: 432px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154095 {
+  border-radius: 5px;
+  margin-right: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 432px;
+  box-sizing: border-box;
+}
+.vaccination .search-your-lab-tests-packages {
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #999999;
+}
+.vaccination .search-your-lab-tests-packages {
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #999999;
+}
+.vaccination .frame-37120 {
+  border-radius: 5px;
+  background: #ffffff;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  padding: 15px 0 14px 24px;
+  width: 458px;
+  height: 53px;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154962 {
+  position: relative;
+  width: 46px;
+  height: 37px;
+}
+.vaccination .group-1261154254 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 8px 24px;
+  width: 458px;
+  height: 53px;
+  box-sizing: border-box;
+}
+.vaccination .container-13 {
+  display: flex;
+  /* flex-direction: row;
+  align-self: flex-start; */
+  /* width: 906px; */
+  box-sizing: border-box;
+}
+.vaccination .container-17 {
+  background: rgba(175, 34, 69, 0.1);
+  /* position: relative; */
+  margin-bottom: 44px;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* padding: 24px 0 66px 100px; */
+  /* width: fit-content; */
+  box-sizing: border-box;
+}
+.vaccination .rectangle-39679 {
+  margin-left: 18cm;
+  border-radius: 6px;
+  border: 1px solid #898b9f;
+  width: 28px;
+  height: 28px;
+}
+.vaccination .rectangle-39679 {
+  border-radius: 6px;
+  border: 1px solid #898b9f;
+  width: 28px;
+  height: 28px;
+}
+.vaccination .frame-1261154259 {
+  box-shadow: 0px 4px 15px 0px rgba(85, 85, 85, 0.1),
+    0px -4px 12px 0px rgba(85, 85, 85, 0.06);
+  border-radius: 12px;
+  background: #ffffff;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 16px 16px 276px 0;
+  width: 769px;
+  height: 320px;
+  box-sizing: border-box;
+}
+.vaccination .image-109 {
+  border-radius: 12px;
+  /* background: url('assets/images/Image1098.jpeg'); */
+  margin-right: 35px;
+  width: 150px;
+  height: 194px;
+}
+.vaccination .childrens-vaccination-age-2-month {
+  margin-left: -15cm;
+  margin-top: -0.5cm;
+  /* margin: 0 39.4px 24px 0; */
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.083;
+  text-transform: capitalize;
+  color: #111535;
+}
+.vaccination
+  .the-vaccination-team-will-provide-two-month-old-children-immunizations-against-ipv-dta-phepatitis-bhib-pneumococcal-conjugate-pvc-and-rota {
+  overflow-wrap: break-word;
+  margin-top: 0.5cm;
+  margin-left: -3.5cm;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #898b9f;
+}
+.vaccination .group-1261155014 {
+  margin: 21px 0 51px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.vaccination .container-16 {
+  position: relative;
+  margin: 0 0 29px 19px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vaccination
+  .includes-vaccination-material-dgloves-alcohol-wipes-masks-and-sterilization-for-the-medical-team-vaccination-record-will-be-updated-and-stamped {
+  overflow-wrap: break-word;
+  margin-top: -2.5cm;
+  background: rgba(175, 34, 69, 0.1);
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #af2245;
+}
+.vaccination .group-1261155013 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154982 {
+  border-radius: 5px;
+  /* border: 1px dashed #9747FF; */
+  position: relative;
+  margin-right: 24px;
+  display: flex;
+  flex-direction: column;
+  padding: 38px 41.7px 29px 22px;
+  box-sizing: border-box;
+}
+.vaccination .selected-test {
+  margin-bottom: 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--title-font-family, "Poppins");
+  font-weight: var(--title-font-weight, 600);
+  font-size: var(--title-font-size, 16px);
+  line-height: var(--title-line-height, 1.256);
+  color: #111535;
+}
+.vaccination .pregnancy-test-serum-bhcg {
+  overflow-wrap: break-word;
+  font-family: var(--small-text-font-family, "Poppins");
+  font-weight: var(--small-text-font-weight, 400);
+  font-size: var(--small-text-font-size, 12px);
+  letter-spacing: var(--small-text-letter-spacing, 0.2px);
+  line-height: var(--small-text-line-height, 1.667);
+  color: #af2245;
+}
+.vaccination .group-1261154161 {
+  border-radius: 12px;
+  background: rgba(175, 34, 69, 0.1);
+  position: relative;
+  padding: 29px 23px 28px 23px;
+  box-sizing: border-box;
+}
+.vaccination .vector-37 {
+  width: 20px;
+  height: 20px;
+}
+.vaccination .component-1 {
+  border-radius: 80px;
+  /* background: #FFFFFF; */
+  position: absolute;
+  top: -8px;
+  right: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 2px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.vaccination .frame-1261154252 {
+  position: relative;
+  margin-bottom: 24px;
+  /* padding: 9px 2px 0 0; */
+  box-sizing: border-box;
+}
+.vaccination .continue {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 14px;
+  color: #ffffff;
+}
+.vaccination .frame-37121 {
+  border-radius: 5px;
+  background: var(
+    --gradient,
+    linear-gradient(90deg, #af2245, #882767, #602d8a)
+  );
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 16px 0 16px 0.9px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.vaccination .container-11 {
+  /* border-radius: 7px;
+  background: #f6f7f9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 17px 18px 39px 20px;
+  width: fit-content;
+  box-sizing: border-box; */
+
+  border-radius: 7px;
+  background: #f6f7f9;
+  padding: 20px;
+}
+.vaccination .group-1261154461 {
+  opacity: 0.9;
+  margin-bottom: 78px;
+  display: flex;
+  flex-direction: column;
+  width: 427px;
+  box-sizing: border-box;
+}
+.vaccination .container-4 {
+  /* margin: 0 100px 24px 100px; */
+  display: flex;
+  /* flex-direction: row; */
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vaccination .rectangle-396791 {
+  margin-left: 19cm;
+  border-radius: 6px;
+  border: 1px solid #898b9f;
+  width: 28px;
+  height: 28px;
+}
+/* .vaccination .rectangle-396791 {
+  
+  border-radius: 6px;
+  border: 1px solid #898B9F;
+  width: 28px;
+  height: 28px;
+} */
+.vaccination .frame-12611542591 {
+  box-shadow: 0px 4px 15px 0px rgba(85, 85, 85, 0.1),
+    0px -4px 12px 0px rgba(85, 85, 85, 0.06);
+  border-radius: 12px;
+  background: #ffffff;
+  position: absolute;
+  left: -0cm;
+  top: 10px;
+  /* right: 10px; */
+  padding: 16px 16px 276px 0;
+  width: 769px;
+  height: 15px;
+  /* height: 320px; */
+  box-sizing: border-box;
+}
+.vaccination .image-1091 {
+  border-radius: 12px;
+  /* background: url('assets/images/Image10911.jpeg'); */
+  margin-right: 35px;
+  width: 150px;
+  height: 194px;
+}
+.vaccination .childrens-vaccination-age-4-month {
+  margin-left: -19cm;
+  position: absolute;
+  margin-top: -1cm;
+  /* margin: 0 42.6px 24px 0; */
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.083;
+  text-transform: capitalize;
+  color: #111535;
+}
+.vaccination
+  .vaccine-ipv-dta-phepatitis-bhib-pneumococcal-conjugate-pvc-rota-vaccine-certificate-will-be-updated-by-stamping {
+  /* overflow-wrap: break-word; */
+  margin-top: 0.5cm;
+  margin-left: -5cm;
+  font-size: 16px;
+  /* font-family: 'poppins'; */
+  /* font-family: var(--sdgsdg-font-family, 'Poppins');
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px); */
+  color: #898b9f;
+}
+.vaccination .group-12611550141 {
+  margin: 21px 0 75px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.vaccination .container-6 {
+  position: relative;
+  margin: 0 0 29px 19px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vaccination
+  .includes-vaccination-material-dgloves-alcohol-wipes-masks-and-sterilization-for-the-medical-team-vaccination-record-will-be-updated-and-stamped-1 {
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #af2245;
+}
+.vaccination .group-12611550131 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154983 {
+  border-radius: 5px;
+  /* border: 1px dashed #9747FF; */
+  position: relative;
+  margin: 0 100px 24px 100px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  padding: 38px 35.9px 29px 22px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+/* .vaccination .rectangle-396792 {
+  border-radius: 6px;
+  border: 1px solid #898B9F;
+  width: 28px;
+  height: 28px;
+} */
+.vaccination .rectangle-396792 {
+  border-radius: 6px;
+  margin-left: 19cm;
+  border: 1px solid #898b9f;
+  width: 28px;
+  height: 28px;
+}
+.vaccination .frame-12611542592 {
+  box-shadow: 0px 4px 15px 0px rgba(85, 85, 85, 0.1),
+    0px -4px 12px 0px rgba(85, 85, 85, 0.06);
+  border-radius: 12px;
+  margin-left: -0.001cm;
+  background: #ffffff;
+  position: absolute;
+  top: 10px;
+  /* right: 10px; */
+  padding: 16px 16px 276px 0;
+  width: 769px;
+  height: 320px;
+  box-sizing: border-box;
+}
+.vaccination .image-1092 {
+  border-radius: 12px;
+  /* background: url('assets/images/Image10913.jpeg'); */
+  margin-right: 35px;
+  width: 150px;
+  height: 194px;
+}
+.vaccination .childrens-vaccination-age-6-month {
+  /* margin: 0 52px 24px 0; */
+  margin-top: -1cm;
+  margin-left: -13cm;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.083;
+  text-transform: capitalize;
+  color: #111535;
+}
+.vaccination
+  .the-vaccination-team-will-provide-6-month-old-children-immunizations-against-opv-ipv-dta-phepatitis-bhib-pneumococcal-conjugate-pvc-vaccine-certificate-will-be-updated-by-stamping {
+  /* overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, 'Poppins');
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px); */
+  font-size: 16px;
+  margin-top: 1cm;
+  margin-left: -4cm;
+  color: #898b9f;
+}
+.vaccination .group-12611550142 {
+  margin: 21px 0 51px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.vaccination .container-9 {
+  position: relative;
+  margin: 0 0 29px 19px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vaccination
+  .includes-vaccination-material-dgloves-alcohol-wipes-masks-and-sterilization-for-the-medical-team {
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #af2245;
+}
+.vaccination .group-12611550132 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154984 {
+  border-radius: 5px;
+  /* border: 1px dashed #9747FF; */
+  position: relative;
+  margin: 0 100px 24px 100px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  padding: 38px 27.5px 29px 22px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+/* .vaccination .rectangle-396793 {
+  border-radius: 6px;
+  margin-left: 19cm;
+  border: 1px solid #898B9F;
+  width: 28px;
+  height: 28px;
+}   */
+.vaccination .rectangle-396793 {
+  border-radius: 6px;
+  margin-left: 19cm;
+  border: 1px solid #898b9f;
+  width: 28px;
+  height: 28px;
+}
+.vaccination .frame-12611542593 {
+  box-shadow: 0px 4px 15px 0px rgba(85, 85, 85, 0.1),
+    0px -4px 12px 0px rgba(85, 85, 85, 0.06);
+  border-radius: 12px;
+  background: #ffffff;
+  position: absolute;
+  top: 10px;
+  /* right: 10px; */
+  padding: 16px 16px 276px 0;
+  width: 769px;
+  height: 320px;
+  box-sizing: border-box;
+}
+.vaccination .image-1093 {
+  border-radius: 12px;
+  /* background: url('assets/images/Image10914.jpeg') 50% / cover no-repeat; */
+  margin-right: 35px;
+  width: 150px;
+  height: 194px;
+}
+.vaccination .childrens-vaccination-age-9-month {
+  margin-top: -1cm;
+  margin-left: -19cm;
+  /* margin: 0 12.4px 24px 0; */
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.083;
+  text-transform: capitalize;
+  color: #111535;
+}
+.vaccination
+  .vaccine-measles-meningococcal-conjugate-quadrivalent-mcv-4-vaccine-certificate-will-be-updated-by-stamping {
+  /* overflow-wrap: break-word; */
+  margin-left: -5cm;
+  font-size: 16px;
+  margin-top: 1cm;
+  width: 681px;
+  /* font-family: var(--sdgsdg-font-family, 'Poppins');
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px); */
+  color: #898b9f;
+}
+.vaccination .group-12611550143 {
+  margin: 21px 0 75px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.vaccination .container-7 {
+  position: relative;
+  margin: 0 0 29px 19px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vaccination
+  .includes-vaccination-material-dgloves-alcohol-wipes-masks-and-sterilization-for-the-medical-team-vaccination-record-will-be-updated-and-stamped-2 {
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #af2245;
+}
+.vaccination .group-12611550133 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154985 {
+  border-radius: 5px;
+  /* border: 1px dashed #9747FF; */
+  position: relative;
+  margin: 0 100px 24px 100px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  padding: 38px 67.7px 29px 22px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+/* .vaccination .rectangle-396794 {
+  border-radius: 6px;
+  border: 1px solid #898B9F;
+  width: 28px;
+  height: 28px;
+} */
+.vaccination .rectangle-396794 {
+  border-radius: 6px;
+  margin-left: 19cm;
+  border: 1px solid #898b9f;
+  width: 28px;
+  height: 28px;
+}
+.vaccination .frame-12611542594 {
+  box-shadow: 0px 4px 15px 0px rgba(85, 85, 85, 0.1),
+    0px -4px 12px 0px rgba(85, 85, 85, 0.06);
+  border-radius: 12px;
+  background: #ffffff;
+  position: absolute;
+  top: 10px;
+  /* right: 10px; */
+  padding: 16px 16px 276px 0;
+  width: 769px;
+  height: 320px;
+  box-sizing: border-box;
+}
+.vaccination .image-1094 {
+  border-radius: 12px;
+  /* background: url('assets/images/Image10910.jpeg') 50% / cover no-repeat; */
+  margin-right: 35px;
+  width: 150px;
+  height: 194px;
+}
+.vaccination .childrens-vaccination-age-1-year {
+  margin-bottom: 24px;
+  margin-top: -1cm;
+  margin-left: -20cm;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.083;
+  text-transform: capitalize;
+  color: #111535;
+}
+.vaccination
+  .the-vaccination-team-will-provide-1-year-old-children-immunizations-against-pcv-opvmcv-4-mmr {
+  margin-right: 36.3px;
+  width: 742px;
+  font-size: 16px;
+  margin-left: -5cm;
+  /* overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, 'Poppins');
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px); */
+  color: #898b9f;
+}
+.vaccination .group-12611550144 {
+  margin: 21px 0px 75px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.vaccination .container-5 {
+  position: relative;
+  margin: 0 19px 29px 19px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vaccination
+  .includes-vaccination-material-dgloves-alcohol-wipes-masks-and-sterilization-for-the-medical-team-vaccination-record-will-be-updated-and-stamped-3 {
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #af2245;
+}
+.vaccination .group-12611550134 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154986 {
+  border-radius: 5px;
+  /* border: 1px dashed #9747FF; */
+  position: relative;
+  margin: 0 100px 24px 100px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  padding: 38px 0 29px 22px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vaccination .rectangle-396795 {
+  border-radius: 6px;
+  border: 1px solid #898b9f;
+  width: 28px;
+  height: 28px;
+}
+.vaccination .rectangle-396795 {
+  border-radius: 6px;
+  border: 1px solid #898b9f;
+  width: 28px;
+  height: 28px;
+}
+.vaccination .frame-12611542595 {
+  box-shadow: 0px 4px 15px 0px rgba(85, 85, 85, 0.1),
+    0px -4px 12px 0px rgba(85, 85, 85, 0.06);
+  border-radius: 12px;
+  background: #ffffff;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 16px 16px 276px 0;
+  width: 769px;
+  height: 320px;
+  box-sizing: border-box;
+}
+.vaccination .image-1095 {
+  border-radius: 12px;
+  /* background: url('assets/images/Image1095.jpeg') 50% / cover no-repeat; */
+  margin-right: 35px;
+  width: 150px;
+  height: 194px;
+}
+.vaccination .childrens-vaccination-age-18-month {
+  margin: 0 1.2px 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.083;
+  text-transform: capitalize;
+  color: #111535;
+}
+.vaccination
+  .the-vaccination-team-will-provide-18-month-old-children-immunizations-against-dta-phib-opv-hep-avaricella-mmr {
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #898b9f;
+}
+.vaccination .group-12611550145 {
+  margin: 21px 0 75px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.vaccination .container {
+  position: relative;
+  margin: 0 0 29px 19px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vaccination
+  .includes-vaccination-material-dgloves-alcohol-wipes-masks-and-sterilization-for-the-medical-team-vaccination-record-will-be-updated-and-stamped-4 {
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #af2245;
+}
+.vaccination .group-12611550135 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154987 {
+  border-radius: 5px;
+  border: 1px dashed #9747ff;
+  position: relative;
+  margin: 0 100px 24px 100px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  padding: 38px 69px 29px 22px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vaccination .rectangle-396796 {
+  border-radius: 6px;
+  border: 1px solid #898b9f;
+  width: 28px;
+  height: 28px;
+}
+.vaccination .rectangle-396796 {
+  border-radius: 6px;
+  border: 1px solid #898b9f;
+  width: 28px;
+  height: 28px;
+}
+.vaccination .frame-12611542596 {
+  box-shadow: 0px 4px 15px 0px rgba(85, 85, 85, 0.1),
+    0px -4px 12px 0px rgba(85, 85, 85, 0.06);
+  border-radius: 12px;
+  background: #ffffff;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 16px 16px 276px 0;
+  width: 769px;
+  height: 320px;
+  box-sizing: border-box;
+}
+.vaccination .image-1096 {
+  border-radius: 12px;
+  /* background: url('assets/images/Image1092.jpeg') 50% / cover no-repeat; */
+  margin-right: 35px;
+  width: 150px;
+  height: 194px;
+}
+.vaccination .childrens-vaccination-age-2-years {
+  margin-bottom: 24px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.083;
+  text-transform: capitalize;
+  color: #111535;
+}
+.vaccination
+  .the-vaccination-team-will-provide-2-years-old-children-immunizations-against-hep-a {
+  margin-right: 42.2px;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #898b9f;
+}
+.vaccination .group-12611550146 {
+  margin: 21px 0 75px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.vaccination .container-8 {
+  position: relative;
+  margin: 0 19px 29px 19px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vaccination
+  .includes-vaccination-material-dgloves-alcohol-wipes-masks-and-sterilization-for-the-medical-team-vaccination-record-will-be-updated-and-stamped-5 {
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #af2245;
+}
+.vaccination .group-12611550136 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154988 {
+  border-radius: 5px;
+  border: 1px dashed #9747ff;
+  position: relative;
+  margin: 0 100px 86px 100px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  padding: 38px 0 29px 22px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vaccination .logo-1 {
+  width: 128px;
+  height: 122px;
+}
+.vaccination .group-12611540931 {
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  width: 128px;
+  height: 122px;
+  box-sizing: border-box;
+}
+.vaccination .vector-38 {
+  width: 9.2px;
+  height: 15px;
+}
+.vaccination .evafacebook-fill {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 9.2px;
+  height: 15px;
+  box-sizing: border-box;
+}
+.vaccination .fb {
+  box-shadow: -1.7px -1.7px 3.3px 0px rgba(245, 245, 245, 0.25),
+    1.7px 1.7px 3.3px 0px rgba(169, 169, 169, 0.21);
+  border-radius: 20.8px;
+  background: #ffffff;
+  position: relative;
+  margin-right: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 13.3px 16.7px 13.3px 15.8px;
+  width: 41.7px;
+  height: 41.7px;
+  box-sizing: border-box;
+}
+.vaccination .vector-39 {
+  width: 17.5px;
+  height: 14.3px;
+}
+.vaccination .eisc-twitter {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 17.5px;
+  height: 14.3px;
+  box-sizing: border-box;
+}
+.vaccination .twitter {
+  box-shadow: -1.7px -1.7px 3.3px 0px rgba(245, 245, 245, 0.25),
+    1.7px 1.7px 3.3px 0px rgba(169, 169, 169, 0.21);
+  border-radius: 20.8px;
+  background: #ffffff;
+  position: relative;
+  margin-right: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 14.3px 12.3px 13px 11.8px;
+  width: 41.7px;
+  height: 41.7px;
+  box-sizing: border-box;
+}
+.vaccination .vector-40 {
+  width: 16px;
+  height: 13.8px;
+}
+.vaccination .akar-iconsvimeo-fill {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 16px;
+  height: 13.8px;
+  box-sizing: border-box;
+}
+.vaccination .vimeo {
+  box-shadow: -1.7px -1.7px 3.3px 0px rgba(245, 245, 245, 0.25),
+    1.7px 1.7px 3.3px 0px rgba(169, 169, 169, 0.21);
+  border-radius: 20.8px;
+  background: #ffffff;
+  position: relative;
+  margin-right: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 14.8px 13.2px 13.1px 12.4px;
+  width: 41.7px;
+  height: 41.7px;
+  box-sizing: border-box;
+}
+.vaccination .vector-41 {
+  width: 16px;
+  height: 16px;
+}
+.vaccination .ciblinkedin-in {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.vaccination .linkedin {
+  box-shadow: -1.7px -1.7px 3.3px 0px rgba(245, 245, 245, 0.25),
+    1.7px 1.7px 3.3px 0px rgba(169, 169, 169, 0.21);
+  border-radius: 20.8px;
+  background: #ffffff;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 11.7px 12.8px 14px 12.8px;
+  width: 41.7px;
+  height: 41.7px;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154040 {
+  margin-left: 0.5px;
+  display: flex;
+  flex-direction: row;
+  width: 202.7px;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154099 {
+  margin: 6.2px 0 17.3px 0;
+  display: flex;
+  flex-direction: column;
+  width: 203.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vaccination .company {
+  margin-bottom: 22.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--title-font-family, "Poppins");
+  font-weight: var(--title-font-weight, 600);
+  font-size: var(--title-font-size, 16px);
+  line-height: var(--title-line-height, 1.256);
+  color: #ffffff;
+}
+.vaccination .home-1 {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+.vaccination .about-1 {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+.vaccination .join-as-provider-1 {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+.vaccination .get-care-1 {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+.vaccination .join-us {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+.vaccination .frame-37135 {
+  margin-left: 0.2px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vaccination .container-1 {
+  margin-right: 89.3px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.vaccination .laboratory {
+  margin: 0 8.3px 22.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--title-font-family, "Poppins");
+  font-weight: var(--title-font-weight, 600);
+  font-size: var(--title-font-size, 16px);
+  line-height: var(--title-line-height, 1.256);
+  color: #ffffff;
+}
+.vaccination .general-test {
+  margin-bottom: 13px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+.vaccination .blood-test {
+  margin: 0 18.2px 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+.vaccination .urine-test {
+  margin-bottom: 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+.vaccination .dna-test {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+.vaccination .frame-37136 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vaccination .container-2 {
+  margin: 0 126.7px 33px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.vaccination .contact-us {
+  overflow-wrap: break-word;
+  font-family: var(--title-font-family, "Poppins");
+  font-weight: var(--title-font-weight, 600);
+  font-size: var(--title-font-size, 16px);
+  line-height: var(--title-line-height, 1.256);
+  color: #ffffff;
+}
+.vaccination .fdoc-pages {
+  margin-bottom: 23.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.vaccination .container {
+  margin: 0 0.3px 8px 0.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+.vaccination .zwaarahealth-com {
+  margin: 0 0.3px 9px 0.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+.vaccination .riadh-2343-saudi-arabia {
+  margin-left: 0.3px;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+.vaccination .container-14 {
+  margin-bottom: 78px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.vaccination .container-10 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.vaccination .group-1261154923 {
+  background: linear-gradient(90deg, #af2245, #882767, #602d8a);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 60.8px 0 67px 100px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 767px) {
+  .vaccination .group-1261154093 {
+    margin-bottom: 20px;
+  }
+  .vaccination .vaccination-list {
+    margin-bottom: 20px;
+  }
+}

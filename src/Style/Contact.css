@@ -1,0 +1,97 @@
+#contus{
+  margin: 10rem 0;
+}
+
+.contact-form {
+  /* max-width: 600px; */
+  /* margin: 10rem 0; */
+  padding: 4rem;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  /* background-color: #f9f9f9; */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.contact-form p {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* .contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #af2245;
+  border-radius: 5px;
+  box-sizing: border-box;
+} */
+
+.contact-form button {
+  width: 100%;
+  border: none;
+}
+.contact-sec-2 {
+height: 100%;
+  border-radius: 6px;
+  padding: 1rem 2rem;
+  box-shadow: 0px 0px 6px #ccc;
+}
+.drop-icon-con{
+  margin-left: 8.5rem;
+}
+
+
+@media(max-width: 1024px){
+  .contactus-mob{
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
+
+
+@media(max-width: 1200px ) and (min-width: 992px) {
+  .drop-icon-con{
+    margin-left: 5rem;
+  }
+}
+
+
+@media(max-width: 992px){
+
+  .contact-sec-2{
+    /* margin: 1rem 5rem 3rem 5rem; */
+    /* padding: 2rem 6rem; */
+    margin-top: 20px;
+  }
+
+  .contactus-mob{
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  .contalig{
+    margin-top: 40px;
+  }
+  .contact-form {
+    margin: 10rem 0rem 0rem 0rem;
+  }
+  .contact-sec-2 {
+    margin: 5rem 0 5rem 0;
+  }
+}
+
+@media(max-width: 600px){
+  .contact-form {
+    margin: 2rem 0rem 0rem 0rem;
+}
+}

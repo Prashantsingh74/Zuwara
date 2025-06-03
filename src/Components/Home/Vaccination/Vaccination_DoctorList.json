@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "image": "https://sanar-assets.com/mis/d5dab52a2fce74b7e9e06e37ec2cb355.jpeg",
+        "center": "Taibah Care",
+        "Location": "Home Visit",
+        "price": 600
+    },
+    {
+        "id": 2,
+        "image": "https://sanar-assets.com/mis/d5dab52a2fce74b7e9e06e37ec2cb355.jpeg",
+        "center": "Taibah Care2",
+        "Location": "Home Visit",
+        "price": 800
+    }
+]

@@ -1,0 +1,64 @@
+.custom-img-cover {
+  /* width: 30rem; */
+  height: 17rem;
+  border-radius: 6px;
+}
+.sa-content {
+  box-sizing: border-box;
+  padding: 2px * 15 0 0;
+}
+
+.card-container-width {
+  min-width:55rem;
+}
+
+.custom-container {
+  display: flex;
+  align-items: center;
+}
+
+.caregiver-card {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 6px !important;
+  border: none !important;
+}
+
+@media (max-width: 1024px) {
+  .custom-container {
+    flex-direction: column;
+  }
+  .card-container-width {
+    width: 100%;
+  }
+  .care-box-container {
+    width: 100%;
+  }
+  .custom-img-cover {
+    /* width: 45rem; */
+    height: 25rem;
+  }
+  .caregiver-duration {
+    display: flex;
+    gap: 3rem;
+    margin-top: 2rem;
+  }
+  .nursing-task-hRe .group-1261155501-1WC {
+    padding: 3rem 11rem 7rem 8rem;
+  }
+}
+
+@media (max-width: 540px) {
+  .custom-img-cover {
+    max-width: 24.5rem;
+    max-height: 17rem;
+  }
+  .d-none-sm {
+    display: none;
+  }
+  .sel-caregiver-task {
+    flex-direction: column;
+  }
+  .line_indicator_container{
+    display: none;
+  }
+}

@@ -1,0 +1,13 @@
+table {
+  width: 100%;
+  border-collapse: collapse !important; /* Ensures borders don't double up */
+}
+th,
+td {
+  border: 1px solid black !important; /* Border for the cells */
+  padding: 8px !important;
+  text-align: left !important;
+}
+th {
+  background-color: #f2f2f2 !important;
+}

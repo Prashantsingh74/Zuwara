@@ -1,0 +1,1568 @@
+input {
+  border: none;
+}
+
+.nursing-task-hRe {
+  margin-top: 9rem;
+}
+
+.nursing-task-hRe .group-1261155501-1WC {
+  /* padding: 3rem 12rem 7rem 12rem; */
+  padding: 2% 2% 2% 7%;
+  background-color: rgba(175, 34, 69, 0.1);
+}
+
+.caregiver-working-card {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 2rem;
+  /* margin: 30px 8rem; */
+  border-radius: 6px;
+}
+
+.care-box-container {
+  box-shadow: 1px 1px 5px #888b9e;
+  border-radius: 6px;
+}
+
+.nursing-task-hRe .group-182-bG8 {
+  margin: 0 10rem;
+  width: calc(100% - 20rem);
+  height: 6.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-182-bG8 .logo-iLk {
+  width: 6.7997rem;
+  height: 6.5001rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-182-bG8 .auto-group-utcp-TJL {
+  box-sizing: border-box;
+  padding: 1.2rem 0rem 0.4rem 26.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-182-bG8 .auto-group-utcp-TJL .group-10-nLc {
+  margin: 1.2rem 17.3rem 1.1rem 0rem;
+  height: calc(100% - 2.3rem);
+  display: flex;
+  column-gap: 4.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-182-bG8 .auto-group-utcp-TJL .group-10-nLc .home-W1i {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-182-bG8 .auto-group-utcp-TJL .group-10-nLc .about-2Vr {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-182-bG8
+  .auto-group-utcp-TJL
+  .group-10-nLc
+  .join-as-provider-Arx {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-182-bG8
+  .auto-group-utcp-TJL
+  .group-10-nLc
+  .get-care-VeL {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-182-bG8 .auto-group-utcp-TJL .group-179-Erp {
+  margin: 0.1rem 5.7rem 0rem 0rem;
+  width: 5.6rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-182-bG8 .auto-group-utcp-TJL .auto-group-3ife-xnp {
+  width: 14.9rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 0.8888888889;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-1261155501-1WC .group-1261154093-w8x {
+  /* margin: 0rem 12.6rem 4rem 0rem;
+  width: calc(100% - 12.6rem); */
+  height: 2.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .group-1261154093-w8x
+  .group-1261154076-3Bz {
+  margin-right: 3.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .group-1261154093-w8x
+  .group-1261154076-3Bz
+  .group-1261154072-Boz {
+  margin: 0rem 1.64rem 0.1rem 0rem;
+  width: 2.7598rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .group-1261154093-w8x
+  .group-1261154076-3Bz
+  .back-WLU {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-1261155501-1WC .group-1261154093-w8x .frame-37129-eBn {
+  /* margin: 1.2rem 0rem 1rem 0rem;
+  height: calc(100% - 2.2rem);
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+  flex-shrink: 0; */
+  display: flex;
+  width: 80%;
+  gap: 1rem;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .group-1261154093-w8x
+  .frame-37129-eBn
+  .rectangle-39545-ZJk {
+  width: 50%;
+  height: 0.5rem;
+  background-color: #af2245;
+  border-radius: 0.5rem;
+  /* flex-shrink: 0; */
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .group-1261154093-w8x
+  .frame-37129-eBn
+  .rectangle-39546-tbv {
+  width: 50%;
+  height: 0.5rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  /* flex-shrink: 0; */
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .group-1261154093-w8x
+  .frame-37129-eBn
+  .rectangle-39547-qGG {
+  width: 23.8rem;
+  height: 0.5rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .group-1261154093-w8x
+  .frame-37129-eBn
+  .rectangle-39548-Zxx {
+  width: 23.8rem;
+  height: 0.5rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-1261155501-1WC .nursing-tasks-7Ug {
+  margin-bottom: 3.4rem;
+  font-size: 3.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-1261155501-1WC .auto-group-7ivg-qfa {
+  /* margin-right: 33.4rem; */
+  width: calc(100% - 33.4rem);
+  height: 5.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .auto-group-7ivg-qfa
+  .group-1261154095-Axk {
+  margin-right: 1.6rem;
+  width: 43.2rem;
+  height: 100%;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .auto-group-7ivg-qfa
+  .group-1261154095-Axk
+  .group-1261154098-vBE {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.5rem;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .auto-group-7ivg-qfa
+  .group-1261154095-Axk
+  .group-1261154098-vBE
+  .frame-37119-HGg {
+  box-sizing: border-box;
+  padding: 1.6rem 2.22rem 1.6rem 2.4rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  border-radius: 0.5rem;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .auto-group-7ivg-qfa
+  .group-1261154095-Axk
+  .group-1261154098-vBE
+  .frame-37119-HGg
+  .group-bHN {
+  margin: 0rem 1.644rem 0.022rem 0rem;
+  width: 1.5556rem;
+  height: 1.8778rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .auto-group-7ivg-qfa
+  .group-1261154095-Axk
+  .group-1261154098-vBE
+  .frame-37119-HGg
+  .group-1261154097-Wv8 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .auto-group-7ivg-qfa
+  .group-1261154095-Axk
+  .group-1261154098-vBE
+  .frame-37119-HGg
+  .group-1261154097-Wv8
+  .group-1261154074-g3v {
+  margin-right: 1.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .auto-group-7ivg-qfa
+  .group-1261154095-Axk
+  .group-1261154098-vBE
+  .frame-37119-HGg
+  .group-1261154097-Wv8
+  .group-1261154074-g3v
+  .selected-location-E5S {
+  margin-right: 3.7rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .auto-group-7ivg-qfa
+  .group-1261154095-Axk
+  .group-1261154098-vBE
+  .frame-37119-HGg
+  .group-1261154097-Wv8
+  .group-1261154074-g3v
+  .line-1-9iC {
+  height: 2.5rem;
+  width: 2px;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .auto-group-7ivg-qfa
+  .group-1261154095-Axk
+  .group-1261154098-vBE
+  .frame-37119-HGg
+  .group-1261154097-Wv8
+  .group-1261154074-g3v
+  .saudi-arabia-V1N {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .auto-group-7ivg-qfa
+  .group-1261154095-Axk
+  .group-1261154098-vBE
+  .frame-37119-HGg
+  .group-1261154097-Wv8
+  .vector-ppL {
+  margin-top: 0.1rem;
+  width: 2.7796rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-1261155501-1WC .auto-group-7ivg-qfa .frame-37120-KFJ {
+  box-sizing: border-box;
+  padding: 0.8rem 2.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .auto-group-7ivg-qfa
+  .frame-37120-KFJ
+  .search-your-lab-tests-packages-GAY {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #999999;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155501-1WC
+  .auto-group-7ivg-qfa
+  .frame-37120-KFJ
+  .group-1261154962-xZA {
+  width: 4.6rem;
+  height: 3.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-1261155500-U1i {
+  margin: 0 10rem;
+  width: calc(100% - 20rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-1261155500-U1i .auto-group-jpet-DEC {
+  width: 100%;
+  height: 26.8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .frame-1261154259-xxU {
+  margin-right: 7.8rem;
+  width: 73.5rem;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 -0.4rem 1.2rem rgba(85, 85, 85, 0.0599999987),
+    0 0.4rem 1.5rem rgba(85, 85, 85, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .frame-1261154259-xxU
+  .rectangle-39681-iAx {
+  width: 73.5rem;
+  height: 12.8rem;
+  position: absolute;
+  left: 0;
+  top: 14rem;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .frame-1261154259-xxU
+  .group-1261154995-3U8 {
+  width: 71.3rem;
+  height: 22.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 2.4rem;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .frame-1261154259-xxU
+  .group-1261154995-3U8
+  .group-1261155036-NmJ {
+  margin: 0rem 0.3rem 1.6rem 0rem;
+  width: calc(100% - 0.3rem);
+  display: flex;
+  align-items: center;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .frame-1261154259-xxU
+  .group-1261154995-3U8
+  .group-1261155036-NmJ
+  .injection-home-iv-therapy-uWL {
+  margin: 0.1rem 46.7rem 0rem 0rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .frame-1261154259-xxU
+  .group-1261154995-3U8
+  .group-1261155036-NmJ
+  .rectangle-39679-btx {
+  width: 2.8rem;
+  height: 2.8rem;
+  border: solid 0.1rem #888b9e;
+  box-sizing: border-box;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .frame-1261154259-xxU
+  .group-1261154995-3U8
+  .the-nurse-injects-a-drug-or-solution-directly-into-the-vein-or-through-iv-cannula-the-nurse-will-confirm-allergy-history-prior-to-give-iv-treatment-hide-details-KKA {
+  margin-bottom: 4rem;
+  max-width: 62.6rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #888b9e;
+  font-family: Poppins, "Source Sans Pro";
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .frame-1261154259-xxU
+  .group-1261154995-3U8
+  .the-nurse-injects-a-drug-or-solution-directly-into-the-vein-or-through-iv-cannula-the-nurse-will-confirm-allergy-history-prior-to-give-iv-treatment-hide-details-KKA
+  .the-nurse-injects-a-drug-or-solution-directly-into-the-vein-or-through-iv-cannula-the-nurse-will-confirm-allergy-history-prior-to-give-iv-treatment-hide-details-KKA-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .frame-1261154259-xxU
+  .group-1261154995-3U8
+  .includes-syringe-and-iv-tube-will-be-brought-possibility-to-check-allergy-from-the-prescribed-medication-by-taking-a-drug-allergy-test-solutions-and-drugs-to-be-injected-are-not-included-instructions-the-patient-must-present-a-medical-prescription-that-includes-the-medication-name-and-dosages-SwW {
+  margin-left: 0.3rem;
+  max-width: 71rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .group-1261154461-Zek {
+  opacity: 0.9;
+  width: 42.7rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .group-1261154461-Zek
+  .selected-test-hkx {
+  margin-bottom: 1.2rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .group-1261154461-Zek
+  .auto-group-topq-SCk {
+  box-sizing: border-box;
+  padding: 1.7rem 1.8rem 1.7rem 2rem;
+  width: 100%;
+  height: 22.9rem;
+  background-color: #f6f7f9;
+  border-radius: 0.7rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .group-1261154461-Zek
+  .auto-group-topq-SCk
+  .group-1261154475-AuS {
+  width: 100%;
+  height: 17.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .group-1261154461-Zek
+  .auto-group-topq-SCk
+  .group-1261154475-AuS
+  .main-selected-element-KXS {
+  margin-bottom: 3.4rem;
+  width: 100%;
+  height: 8.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .group-1261154461-Zek
+  .auto-group-topq-SCk
+  .group-1261154475-AuS
+  .main-selected-element-KXS
+  .group-1261154161-4E8 {
+  box-sizing: border-box;
+  padding: 2.3rem 2.4rem 2.2rem 2.3rem;
+  width: 38.7rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.9rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  border-radius: 1.2rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .group-1261154461-Zek
+  .auto-group-topq-SCk
+  .group-1261154475-AuS
+  .main-selected-element-KXS
+  .group-1261154161-4E8
+  .pregnancy-test-serum-bhcg-7iC {
+  margin-right: 7.6rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: 0.024rem;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .group-1261154461-Zek
+  .auto-group-topq-SCk
+  .group-1261154475-AuS
+  .main-selected-element-KXS
+  .group-1261154161-4E8
+  .group-1171275053-cur {
+  height: 100%;
+  display: flex;
+  column-gap: 1.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .group-1261154461-Zek
+  .auto-group-topq-SCk
+  .group-1261154475-AuS
+  .main-selected-element-KXS
+  .group-1261154161-4E8
+  .group-1171275053-cur
+  .group-1171275049-9un {
+  width: 3.2rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2259999381;
+  color: #111535;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-color: rgba(27, 43, 58, 0.1000000015);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .group-1261154461-Zek
+  .auto-group-topq-SCk
+  .group-1261154475-AuS
+  .main-selected-element-KXS
+  .group-1261154161-4E8
+  .group-1171275053-cur
+  .item-1-CdA {
+  margin-top: 0.3rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2228587189;
+  color: #1b2b3a;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .group-1261154461-Zek
+  .auto-group-topq-SCk
+  .group-1261154475-AuS
+  .main-selected-element-KXS
+  .group-1261154161-4E8
+  .group-1171275053-cur
+  .group-371-irQ {
+  width: 3.2rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2259999381;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-color: #af2245;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .group-1261154461-Zek
+  .auto-group-topq-SCk
+  .group-1261154475-AuS
+  .main-selected-element-KXS
+  .component-1-AyJ {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 8rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-jpet-DEC
+  .group-1261154461-Zek
+  .auto-group-topq-SCk
+  .group-1261154475-AuS
+  .frame-37121-VEt {
+  margin: 0rem 0.8rem 0rem 0.6rem;
+  width: calc(100% - 1.4rem);
+  height: 5.3rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe .group-1261155500-U1i .auto-group-deyl-Ucc {
+  box-sizing: border-box;
+  padding-top: 1.6rem;
+  width: 100%;
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261154999-1cY {
+  box-sizing: border-box;
+  padding: 2.4rem 1.5rem 4.8rem 1rem;
+  width: 73.5rem;
+  height: 16.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-image: url('../assets/frame-1261154259-PTz.png'); */
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261154999-1cY
+  .group-1261154997-8hA {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261154999-1cY
+  .group-1261154997-8hA
+  .group-1261154996-hVN {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261154999-1cY
+  .group-1261154997-8hA
+  .group-1261154996-hVN
+  .group-1261154994-s8x {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261154999-1cY
+  .group-1261154997-8hA
+  .group-1261154996-hVN
+  .group-1261154994-s8x
+  .group-1261154995-EEQ {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261154999-1cY
+  .group-1261154997-8hA
+  .group-1261154996-hVN
+  .group-1261154994-s8x
+  .group-1261154995-EEQ
+  .group-1261155037-zUU {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261154999-1cY
+  .group-1261154997-8hA
+  .group-1261154996-hVN
+  .group-1261154994-s8x
+  .group-1261154995-EEQ
+  .group-1261155037-zUU
+  .wound-care-M48 {
+  margin: 0.1rem 58rem 0rem 0rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261154999-1cY
+  .group-1261154997-8hA
+  .group-1261154996-hVN
+  .group-1261154994-s8x
+  .group-1261154995-EEQ
+  .group-1261155037-zUU
+  .rectangle-39679-Tsr {
+  width: 2.8rem;
+  height: 2.8rem;
+  border: solid 0.1rem #888b9e;
+  box-sizing: border-box;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261154999-1cY
+  .group-1261154997-8hA
+  .group-1261154996-hVN
+  .group-1261154994-s8x
+  .group-1261154995-EEQ
+  .the-nurse-performs-wound-cleaning-and-dressing-including-bedsores-pressure-ulcers-more-details-axU {
+  max-width: 63.8rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #888b9e;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261154999-1cY
+  .group-1261154997-8hA
+  .group-1261154996-hVN
+  .group-1261154994-s8x
+  .group-1261154995-EEQ
+  .the-nurse-performs-wound-cleaning-and-dressing-including-bedsores-pressure-ulcers-more-details-axU
+  .the-nurse-performs-wound-cleaning-and-dressing-including-bedsores-pressure-ulcers-more-details-axU-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155000-d3a {
+  box-sizing: border-box;
+  padding: 2.4rem 1.5rem 2.4rem 1rem;
+  width: 73.5rem;
+  height: 16.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155000-d3a
+  .group-1261154997-wpx {
+  margin-bottom: 4.8rem;
+  width: 100%;
+  height: 6.8rem;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155000-d3a
+  .group-1261154997-wpx
+  .group-1261154996-hJL {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155000-d3a
+  .group-1261154997-wpx
+  .group-1261154996-hJL
+  .group-1261154994-4eg {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155000-d3a
+  .group-1261154997-wpx
+  .group-1261154996-hJL
+  .group-1261154994-4eg
+  .group-1261154995-q9e {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155000-d3a
+  .group-1261154997-wpx
+  .group-1261154996-hJL
+  .group-1261154994-4eg
+  .group-1261154995-q9e
+  .group-1261155038-b8p {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155000-d3a
+  .group-1261154997-wpx
+  .group-1261154996-hJL
+  .group-1261154994-4eg
+  .group-1261154995-q9e
+  .group-1261155038-b8p
+  .removal-of-stitches-k1i {
+  margin: 0.1rem 52.1rem 0rem 0rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155000-d3a
+  .group-1261154997-wpx
+  .group-1261154996-hJL
+  .group-1261154994-4eg
+  .group-1261154995-q9e
+  .group-1261155038-b8p
+  .rectangle-39679-r4k {
+  width: 2.8rem;
+  height: 2.8rem;
+  border: solid 0.1rem #888b9e;
+  box-sizing: border-box;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155000-d3a
+  .group-1261154997-wpx
+  .group-1261154996-hJL
+  .group-1261154994-4eg
+  .group-1261154995-q9e
+  .the-nurse-will-remove-stitches-from-injuries-and-post-surgical-wounds-more-details-mBi {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #888b9e;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155000-d3a
+  .group-1261154997-wpx
+  .group-1261154996-hJL
+  .group-1261154994-4eg
+  .group-1261154995-q9e
+  .the-nurse-will-remove-stitches-from-injuries-and-post-surgical-wounds-more-details-mBi
+  .the-nurse-will-remove-stitches-from-injuries-and-post-surgical-wounds-more-details-mBi-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155001-pJQ {
+  box-sizing: border-box;
+  padding: 2.4rem 1.5rem 2.4rem 1rem;
+  width: 73.5rem;
+  height: 16.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155001-pJQ
+  .group-1261154997-wP2 {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155001-pJQ
+  .group-1261154997-wP2
+  .group-1261154996-JjN {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155001-pJQ
+  .group-1261154997-wP2
+  .group-1261154996-JjN
+  .group-1261154994-5VE {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155001-pJQ
+  .group-1261154997-wP2
+  .group-1261154996-JjN
+  .group-1261154994-5VE
+  .group-1261154995-Ed2 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155001-pJQ
+  .group-1261154997-wP2
+  .group-1261154996-JjN
+  .group-1261154994-5VE
+  .group-1261154995-Ed2
+  .group-1261155039-Q1i {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155001-pJQ
+  .group-1261154997-wP2
+  .group-1261154996-JjN
+  .group-1261154994-5VE
+  .group-1261154995-Ed2
+  .group-1261155039-Q1i
+  .nebulisation-MSk {
+  margin: 0.1rem 57.9rem 0rem 0rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155001-pJQ
+  .group-1261154997-wP2
+  .group-1261154996-JjN
+  .group-1261154994-5VE
+  .group-1261154995-Ed2
+  .group-1261155039-Q1i
+  .rectangle-39679-57r {
+  width: 2.8rem;
+  height: 2.8rem;
+  border: solid 0.1rem #888b9e;
+  box-sizing: border-box;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155001-pJQ
+  .group-1261154997-wP2
+  .group-1261154996-JjN
+  .group-1261154994-5VE
+  .group-1261154995-Ed2
+  .the-nurse-will-assist-you-through-a-session-in-which-you-will-be-able-to-inhale-medicine-as-a-spray-through-a-mask-shortness-of-breath-and-the-airway-will-be-improved-with-this-treatment-more-details-bM6 {
+  max-width: 64.1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #888b9e;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155001-pJQ
+  .group-1261154997-wP2
+  .group-1261154996-JjN
+  .group-1261154994-5VE
+  .group-1261154995-Ed2
+  .the-nurse-will-assist-you-through-a-session-in-which-you-will-be-able-to-inhale-medicine-as-a-spray-through-a-mask-shortness-of-breath-and-the-airway-will-be-improved-with-this-treatment-more-details-bM6
+  .the-nurse-will-assist-you-through-a-session-in-which-you-will-be-able-to-inhale-medicine-as-a-spray-through-a-mask-shortness-of-breath-and-the-airway-will-be-improved-with-this-treatment-more-details-bM6-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155002-xzG {
+  box-sizing: border-box;
+  padding: 2.4rem 1.5rem 2.4rem 1rem;
+  width: 73.5rem;
+  height: 16.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155002-xzG
+  .group-1261154997-VDW {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155002-xzG
+  .group-1261154997-VDW
+  .group-1261154996-FiU {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155002-xzG
+  .group-1261154997-VDW
+  .group-1261154996-FiU
+  .group-1261154994-DvC {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155002-xzG
+  .group-1261154997-VDW
+  .group-1261154996-FiU
+  .group-1261154994-DvC
+  .group-1261154995-C7v {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.6rem;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155002-xzG
+  .group-1261154997-VDW
+  .group-1261154996-FiU
+  .group-1261154994-DvC
+  .group-1261154995-C7v
+  .group-1261155040-Yha {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155002-xzG
+  .group-1261154997-VDW
+  .group-1261154996-FiU
+  .group-1261154994-DvC
+  .group-1261154995-C7v
+  .group-1261155040-Yha
+  .oxygen-therapy-Vsi {
+  margin: 0.1rem 54.8rem 0rem 0rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155002-xzG
+  .group-1261154997-VDW
+  .group-1261154996-FiU
+  .group-1261154994-DvC
+  .group-1261154995-C7v
+  .group-1261155040-Yha
+  .rectangle-39679-otQ {
+  width: 2.8rem;
+  height: 2.8rem;
+  border: solid 0.1rem #888b9e;
+  box-sizing: border-box;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155002-xzG
+  .group-1261154997-VDW
+  .group-1261154996-FiU
+  .group-1261154994-DvC
+  .group-1261154995-C7v
+  .a-15-30-minute-oxygen-treatment-session-will-be-provided-by-the-nurse-to-treat-shortness-of-breath-dyspnea-and-low-blood-oxygen-levels-hypoxemiamore-details-L7e {
+  max-width: 63.2rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #888b9e;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+
+.nursing-task-hRe
+  .group-1261155500-U1i
+  .auto-group-deyl-Ucc
+  .group-1261155002-xzG
+  .group-1261154997-VDW
+  .group-1261154996-FiU
+  .group-1261154994-DvC
+  .group-1261154995-C7v
+  .a-15-30-minute-oxygen-treatment-session-will-be-provided-by-the-nurse-to-treat-shortness-of-breath-dyspnea-and-low-blood-oxygen-levels-hypoxemiamore-details-L7e
+  .a-15-30-minute-oxygen-treatment-session-will-be-provided-by-the-nurse-to-treat-shortness-of-breath-dyspnea-and-low-blood-oxygen-levels-hypoxemiamore-details-L7e-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+}
+
+/* Corporatewlness.css */
+
+/* Base styles */
+.sa-container {
+  padding: 20px;
+}
+
+/* .sa-card-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+} */
+
+/* Tablet styles */
+@media (max-width: 1024px) {
+  .nursing-task-hRe {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .group-1261155501-1WC {
+    /* flex-direction: column; */
+    align-items: center;
+  }
+
+  .group-1261154093-w8x {
+    /* flex-direction: column; */
+    align-items: center;
+  }
+
+  .frame-37120-mUp {
+    width: 100%;
+    padding: 0 20px;
+  }
+
+  .sa-row {
+    flex-direction: column;
+    margin-top: 0;
+    margin-left: 0;
+    align-items: center;
+  }
+
+  .sa-col8,
+  .sa-col4 {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .sa-col4 {
+    display: flex;
+    justify-content: center;
+  }
+
+  .sa-selected-data {
+    width: 100%;
+    max-width: 400px;
+  }
+
+  .sa-btn-primary {
+    width: 100%;
+  }
+}
+
+/* Smaller screen styles (optional) */
+@media (max-width: 768px) {
+  .sa-container {
+    padding: 10px;
+  }
+
+  .frame-37120-mUp input {
+    width: 100%;
+    height: 40px;
+  }
+}
+
+@media (max-width: 500px) {
+  .nursing-task-hRe .group-1261155501-1WC .nursing-tasks-7Ug {
+    margin-bottom: 1rem;
+    font-size: 25px;
+  }
+  .nursing-task-hRe .group-1261155501-1WC .group-1261154093-w8x .frame-37129-eBn {
+    display: none;
+  }
+}

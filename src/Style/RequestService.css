@@ -1,0 +1,457 @@
+.sa-req-ser-form {
+  padding-top: 30px;
+}
+.sa-container {
+  width: 1160px;
+  margin: 0 auto;
+  max-width: 1160px;
+}
+* {
+  /* -webkit-box-sizing: border-box; */
+  box-sizing: border-box;
+}
+
+div {
+  display: block;
+}
+.sa-btn-back {
+  display: inline-block;
+  font-size: 2px * 9;
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  margin: 0 0 2px * 10;
+  line-height: 2px * 10;
+  vertical-align: middle;
+  background: transparent;
+  margin-right: 15px;
+  color: #000;
+}
+.sa-btn-back i {
+  vertical-align: middle;
+  font-size: 2px * 14;
+  font-weight: 300;
+  margin-right: 15px;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  font-family: "icomoon" !important;
+
+  font-style: normal;
+  /* font-weight: normal; */
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  /* -moz-osx-font-smoothing: grayscale; */
+}
+.icon-arrow-left:before {
+  content: "\e9d9";
+}
+
+.wellnes-header {
+  color: #0000;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h1,
+.h2,
+h3,
+h4,
+h5,
+.h6 {
+  margin: 0;
+  /* color: var(--sa-custom-v1);
+    font-weight: 600; */
+}
+* {
+  /* -webkit-box-sizing: border-box; */
+  box-sizing: border-box;
+}
+
+h4 {
+  display: block;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+.sa-d-none,
+.sa-dialog .sa-dialog-back-btn,
+.sa-mob-block,
+.sa-nav-mob,
+.sa-doc-det-block,
+.sa-mob-flex .sa-edit-pro i {
+  display: none;
+}
+h5,
+.h5 {
+  font-size: 2px * 8;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h1,
+.h2,
+h3,
+h4,
+h5,
+.h6 {
+  margin: 0;
+  color: #002a56;
+  font-weight: 600;
+}
+.sa-prog-grid {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.sa-prog-grid p {
+  width: 100px;
+}
+
+p {
+  margin: 2px * 2 + 1px 0;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.sa-prog-bar {
+  width: calc(100% - 100px);
+  background-color: #dde0e6;
+  height: 4px;
+  border-radius: 10px;
+  position: relative;
+}
+.sa-prog-bar-per {
+  width: 50%;
+  background-image: linear-gradient(to right, #4fe765, #26a9e0);
+  height: 4px;
+  border-radius: 10px;
+}
+.sa-wellnes-form {
+  background: #edfff0;
+  padding: 30px;
+  border-radius: 20px;
+}
+.sa-wellnes-form-in {
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+}
+.sa-row {
+  /* display: -ms-flexbox; */
+  display: flex;
+  /* -ms-flex-wrap: wrap; */
+  flex-wrap: wrap;
+  margin-right: 2px * -5;
+  margin-left: 2px * -5;
+}
+.sa-form-group {
+  position: relative;
+  margin-bottom: 2px * 10;
+  display: block;
+}
+
+.sa-req-ser-form label,
+.sa-note-count {
+  color: #656565;
+  font-weight: 400;
+}
+.sa-form-group label,
+label {
+  /* color: #474554; */
+  display: block;
+  line-height: normal;
+  margin-bottom: 5px;
+  font-size: 2px * 6 + 1px;
+  /* font-weight: normal; */
+}
+label,
+input {
+  transition: all 0.2s;
+  touch-action: manipulation;
+}
+label {
+  cursor: default;
+}
+.sa-form-control {
+  background: #fff;
+  height: 2px * 20;
+  line-height: 2px * 20;
+  color: #000;
+  border: 1px solid #aca9bb;
+  padding: 0 35px 0 15px;
+  width: 2px * 50;
+  border-radius: 2px * 3;
+  box-sizing: border-box;
+  -moz-appearance: none;
+  appearance: none;
+  white-space: normal;
+  text-overflow: ellipsis;
+}
+
+label,
+input {
+  transition: all 0.2s;
+}
+button,
+.truncate,
+input {
+  font-family: avenir;
+  outline: none;
+}
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+user agent stylesheet input[type="text" i] {
+  writing-mode: horizontal-tb !important;
+  padding-block: 1px;
+  padding-inline: 2px;
+}
+.sa-form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.sa-form-group label {
+  margin-bottom: 5px; /* Adjust the value as needed for spacing between label and input */
+}
+@media only screen and (max-width: 1366px),
+  only screen and (max-device-width: 1366px) {
+  .sa-col-md6 {
+    /* -ms-flex: 0 0 50%; */
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+.sa-gutter5 {
+  margin-right: 2px * -2.5;
+  margin-left: 2px * -2.5;
+}
+.sa-gutter5 [class*="col-"] {
+  padding-right: 2px * 2 + 1px;
+  padding-left: 2px * 2 + 1px;
+}
+@media only screen and (max-width: 1366px),
+  only screen and (max-device-width: 1366px) {
+  .sa-col-md5 {
+    /* -ms-flex: 0 0 41.666667%; */
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+  }
+}
+.sa-form-group {
+  position: relative;
+  margin-bottom: 2px * 10;
+  display: block;
+}
+
+.sa-form-img {
+  width: 30px;
+  right: auto;
+  left: 10px;
+  top: 5px;
+}
+.sa-form-icon {
+  position: absolute;
+
+  pointer-events: none;
+  cursor: pointer;
+  color: #000;
+  font-size: 16px;
+}
+* {
+  box-sizing: border-box;
+}
+
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+.sa-inp-flag {
+  padding-left: 50px;
+  cursor: pointer;
+}
+button,
+.truncate,
+input {
+  font-family: avenir;
+  outline: none;
+}
+input[type="text" i] {
+  writing-mode: horizontal-tb !important;
+  padding-block: 1px;
+  padding-inline: 2px;
+}
+.sa-form-icon {
+  position: absolute;
+  right: 15px;
+  top: 12px;
+  pointer-events: none;
+  cursor: pointer;
+  color: #000;
+  font-size: 16px;
+}
+[class^="icon-"],
+[class*=" icon-"] {
+  font-family: "icomoon" !important;
+
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-down-arrow:before {
+  content: "\e92f";
+}
+textarea {
+  min-height: 2px * 50;
+  resize: none;
+}
+.sa-note-text {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sa-req-ser-form label,
+.sa-note-count {
+  color: #656565;
+  font-weight: 400;
+}
+
+.sa-gutter5 {
+  margin-right: 2px * -2.5;
+  margin-left: 2px * -2.5;
+}
+.sa-row {
+  display: flex;
+
+  flex-wrap: wrap;
+}
+.sa-gutter5 [class*="col-"] {
+  padding-right: 2px * 2 + 1px;
+  padding-left: 2px * 2 + 1px;
+}
+.sa-form-group {
+  position: relative;
+  margin-bottom: 2px * 10;
+  display: block;
+}
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+.sa-d-f-jend {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.sa-btn-transparent {
+  background: transparent;
+  border: none;
+  margin: 0;
+  padding: 0;
+  color: #000;
+  cursor: pointer;
+  height: unset;
+  line-height: unset;
+}
+.sa-otp-ref {
+  background: #edf8ff;
+  border-radius: 4px;
+  width: 35px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+  font-size: 20px;
+}
+.icon-reload:before {
+  content: "\eae8";
+}
+
+.sa-w100 {
+  width: 2% * 50;
+}
+.sa-btn-lg {
+  padding: 0 25px;
+  font-size: 2px * 8;
+  line-height: 2px * 25;
+  height: 2px * 25;
+  border-radius: 2px * 5;
+}
+.sa-btn-primary {
+  color: #fff;
+  background-color: #26a9e0;
+}
+.sa-wellnes-form-btn {
+  width: 30%;
+  margin: 30px auto 0;
+}
+
+.button-decor {
+  text-align: center; /* Center the button within the container */
+}
+.button-style {
+  background-color: blue; /* Set the background color to blue */
+  color: white; /* Set the text color to white */
+  border: none; /* Remove the button border */
+  padding: 10px 20px; /* Adjust padding for better appearance */
+  cursor: pointer; /* Change cursor on hover to indicate interactivity */
+  border-radius: 5px; /* Optional: Add border-radius for rounded corners */
+}
+
+.sa-w100 {
+  width: 2% * 50;
+}
+.sa-btn-lg {
+  padding: 0 25px;
+  font-size: 2px * 8;
+  line-height: 2px * 25;
+  height: 2px * 25;
+  border-radius: 2px * 5;
+}
+
+.sa-btn-primary {
+  color: #fff;
+  background-color: #26a9e0;
+}
+.sa-btn-primary:hover {
+  color: #fff;
+  background-image: linear-gradient(to right, #fff), #4ed4f2;
+}
+.form-container {
+  width: "auto";
+  margin: "auto";
+}
+.form-field {
+  width: "50%";
+  margin: "auto";
+}

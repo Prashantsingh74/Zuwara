@@ -1,0 +1,94 @@
+.cb-banner {
+  background: linear-gradient(to right, #d8ebe3, #e0c1da);
+  margin-top: 9rem;
+}
+
+.text_gradient {
+  background: linear-gradient(90deg, #af2245, #882767, #602d8a);
+  color: var(--gradient, transparent);
+  -webkit-background-clip: text;
+}
+
+.banner_img_size {
+  /* height: 36rem; */
+  width: 30rem;
+}
+
+.cardb_img_size {
+  height: 23rem;
+  width: 24rem;
+}
+
+.cardbt_img_size {
+  height: 49rem;
+  width: 24rem;
+}
+
+/* styles.css */
+.custom-section {
+  margin-top: 5%;
+}
+
+.busines-page {
+  display: flex;
+  justify-content: space-between;
+}
+
+.business-banner {
+  display: flex;
+  justify-content: center;
+}
+
+.take-care-emp {
+  margin: 30px 1.3rem;
+}
+
+
+@media (min-width: 1024px) {
+  .content-column {
+    flex: 1 1 auto;
+    order: 2;
+    margin: 0 20px;
+  }
+
+  .banner-column {
+    flex: 0 0 auto;
+    order: 3;
+  }
+}
+
+@media (max-width: 820px) {
+  .busines-page {
+    flex-wrap: wrap;
+  }
+
+  .content-column {
+    flex: 1 1 100%;
+    order: 2;
+    margin-top: 8%;
+  }
+  .cardb_img_size {
+    height: 23rem;
+    width: 31rem;
+  }
+  .cardbt_img_size {
+    height: 49rem;
+    width: 31rem;
+  }
+  .business-banner {
+    flex-wrap: wrap;
+  }
+}
+
+
+@media (max-width: 600px) {
+  .busi-care {
+    padding: 1.3rem;
+  }
+  .take-care-emp {
+    margin: 30px 1.3rem;
+  }
+  .cb-banner {
+    margin-top: 3rem;
+  }
+}

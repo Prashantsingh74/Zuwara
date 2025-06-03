@@ -1,0 +1,156 @@
+.notific-body {
+    width: 350px;   
+    height: 400px;
+    padding: calc(2px* 10);
+    background: #FFF;
+    position: absolute;
+    top: 62px;
+    z-index: 103;
+    border-radius: 8px;
+    left: 84%;
+    transform: translateX(-50%);
+    box-shadow: 0 0 50px #f0f0f0;
+}
+.notific-body:before {
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #FFF;
+    content: '';
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.mob-block {
+    display: none;
+}
+.dialog-close-lft {
+    left: -60px;
+    right: auto;
+    top: 15px;
+}
+.dialog-close {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    background: #FFF;
+    border: none;
+    border-radius: 15px;
+    width: 50px;
+    height: 50px;
+    line-height: 30px;
+    font-size: 20px;
+}
+.btn-back {
+    display: block;
+    padding: 0;
+    margin: 0 0 calc(2px* 10);
+    margin-right: 15px;
+    color: #000;
+}
+button {
+    font-family: 'Avenir';
+    outline: none;
+}
+.notific-content {
+    top: calc(2px* 10);
+    overflow: hidden;
+    position: absolute;
+    right: 10px;
+    left: calc(2px* 10);
+    bottom: calc(2px* 10);
+    overflow-y: auto;
+    padding-right: 10px;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.notification-img-cover {
+    width: calc(2%* 50);
+    height: calc(2%* 50);
+    object-fit: cover;
+    margin-left: 1%;
+}
+.ctr{
+    text-align: center;
+    color: #26A9E0;
+    font-size: x-large;
+    font-weight: bold;
+}
+.nav li {
+    display: inline-flex;
+    align-items: center;
+    margin-right: calc(2px* 15);
+    cursor: pointer;
+}
+.notific-list li {
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    color: #000;
+    font-size: 14px;
+}
+.tit {
+    margin-bottom: calc(2px* 10);
+    text-align: left;
+}
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px){
+    .top-space50 {
+        padding-top: 50px;
+    }
+    .nav li {
+        margin-right: 0;
+    }
+    .mob-block {
+        display: block;
+    }
+    .dialog-close {
+        left: 5px;
+        right: auto;
+        font-size: calc(2px* 10);
+        padding: 0;
+        top: 12px;
+        z-index: 3;
+        margin: 0;
+        border: none;
+        border-radius: unset;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .btn-back i {
+        z-index: 3;
+        position: fixed;
+        top: 18px;
+        left: 15px;
+        background: #FFF;
+        font-size: 20px;
+        width: 20px;
+    }
+    .dialog-close i {
+        border: none;
+        padding: 0;
+    }
+    .btn-back .icon-arrow-left:before {
+        content: "\e91d";
+    }
+    .tit {
+        margin-bottom: 10px;
+    }
+    .mob-header {
+        padding: 15px 0 15px 40px;
+        text-align: left;
+        font-weight: 500;
+        position: fixed;
+        z-index: 2;
+        top: 0;
+        left: 0;
+        right: 0;
+        background: #FFF;
+        color: #000;
+    }
+}

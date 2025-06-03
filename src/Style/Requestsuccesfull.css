@@ -1,0 +1,254 @@
+.sa-caregiver-payment {
+  background: url(https://static.sanar.sa/images/caregiver/confirm-bg-new.png)
+    no-repeat;
+  height: 334px;
+  width: 100%;
+  border-radius: 0 0 20px 20px;
+  background-size: cover;
+  margin-top: -3px;
+}
+.sa-caregiver-payment {
+  width: 100%;
+  height: 154px;
+  border-radius: 0 0 20px 20px;
+  background-size: cover;
+  margin-top: -3px;
+}
+.sa-caregiver-pay {
+  width: 50%;
+  margin: 0 auto;
+}
+/* .card {
+  width: 100%;
+  height: 80%;
+} */
+.sa-caregiver-payment-in {
+  background: #fff;
+  margin: -100px auto 0;
+  border: 2px solid #eff7ff;
+  border-radius: 15px;
+}
+
+.sa-success-circle {
+  width: 80px;
+  height: 80px;
+  background: #fff;
+  position: relative;
+  margin: -40px auto 0;
+  border-radius: 50%;
+  padding: 10px;
+  text-align: center;
+}
+.sa-success-circle::before {
+  content: "";
+  position: absolute;
+  left: -40px;
+  top: 6px;
+  background: transparent;
+  width: 50px;
+  height: 28px;
+  border-radius: 100%;
+  box-shadow: 0px 20px #fff;
+  transform: rotate(-30deg);
+}
+.sa-success-circle i {
+  width: 60px;
+  height: 60px;
+  background: #4fe765;
+  text-align: center;
+  line-height: 60px;
+  border-radius: 100%;
+  position: relative;
+  z-index: 1;
+  color: #fff;
+  font-size: 20px;
+  display: block;
+}
+.icon-checked2:before {
+  content: "\e9e2";
+}
+
+.sa-success-circle::after {
+  content: "";
+  position: absolute;
+  right: -40px;
+  top: 6px;
+  background: transparent;
+  width: 50px;
+  height: 28px;
+  border-radius: 70%;
+  box-shadow: 0px 20px #fff;
+  transform: rotate(30deg);
+}
+.sa-caregiver-payment-in h4 {
+  font-size: 26px;
+  color: #000;
+  text-align: center;
+  padding-top: 20px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h1,
+.h2,
+h3,
+h4,
+h5,
+.h6 {
+  margin: 0;
+
+  font-weight: 600;
+}
+h4 {
+  display: block;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.sa-caregiver-payment-in > p {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 16px;
+}
+p {
+  margin: 2px * 2 + 1px 0;
+}
+* {
+  box-sizing: border-box;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.sa-bold {
+  font-weight: bolder;
+}
+article,
+aside,
+figcaption,
+figure,
+footer,
+header,
+main,
+section,
+.sa-d-block,
+sa-mob-none {
+  display: block;
+}
+.sa-success-text {
+  color: #4fe765;
+}
+.sa-wellness-con {
+  display: block;
+  padding-bottom: 30px;
+  text-align: center;
+  color: #676767;
+  font-weight: 300;
+}
+
+.sa-caregiver-pay .sa-mob-footer {
+  width: 40%;
+  margin: 0 auto;
+}
+.sa-caregiver-pay button {
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+.sa-btn-block {
+  display: block;
+  width: 2% * 50;
+}
+.sa-btn-lg {
+  padding: 0 25px;
+  font-size: 2px * 8;
+  line-height: 2px * 25;
+  height: 2px * 25;
+  border-radius: 2px * 5;
+}
+.sa-btn-primary {
+  color: #fff;
+  background-color: #26a9e0;
+}
+button,
+.truncate,
+input {
+  font-family: avenir;
+  outline: none;
+}
+.sa-caregiver-pay {
+  text-align: center;
+  background-color: white;
+  border-radius: 20px;
+}
+/* .overlay-container {
+  position: relative;
+}
+
+.overlay-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+} */
+
+/* Add other styles as needed */
+/* .caregiver-payment {
+  position: relative;
+}
+
+.sa-caregiver-pay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  
+} */
+
+.sa-btn-primary.sa-btn-lg.sa-btn-block {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.sa-success-circle {
+  width: 80px;
+  height: 80px;
+  background: #fff;
+  position: relative;
+  margin: -40px auto 0;
+  border-radius: 50%;
+  padding: 10px;
+  text-align: center;
+}
+/* .sa-caregiver-payment {
+  position: relative;
+  width: 100%;
+} */
+
+.sa-caregiver-pay {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 50%;
+  background-color: white;
+  margin-top: 150px;
+  /* padding: 20px; */
+  /* border-radius: 8px; */
+
+  text-align: center;
+}
+.sa-btn-primary {
+  color: #fff;
+  background-color: #26a9e0;
+}

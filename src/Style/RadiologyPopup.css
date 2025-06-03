@@ -1,0 +1,70 @@
+.popup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+  }
+  
+  
+  .popup-content {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%;
+    border-radius: 10px;
+    position: relative; 
+  }
+  
+  /* Close button */
+  .close-btn {
+    color: #aaa;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .close-btn:hover,
+  .close-btn:focus {
+    color: black;
+    text-decoration: none;
+  }
+
+  .selected-details {
+    color: #af2245;
+    margin-bottom: 2rem;
+  }
+
+  .selected-details-text {
+    color: #898b9f;
+    list-style: disc;
+    font-family: poppins;
+    font-size: 14px;
+    margin-top: 1rem;
+    line-height: 25px;
+  }
+
+  .instruction-text {
+    margin-left: -2rem;
+  }
+
+.selected-details-popup {
+  background-color: #f7e8ec;
+  padding: 1.5rem 2rem 1.5rem 3rem;
+  border-radius: 6px;
+}
+
+@media (max-width: 767px) {
+  .popup-content {
+    width: 80%;
+  }
+}
+  

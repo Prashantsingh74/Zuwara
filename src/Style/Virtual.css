@@ -1,0 +1,128 @@
+.z-virtual {
+  margin-left: 120px;
+}
+
+.z-medical-service li {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  gap: 10px;
+  display: flex;
+  align-items: baseline;
+  color: #474554;
+  font-weight: 300;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.z-icon-bg {
+  position: relative;
+  color: #4fe765;
+  margin-left: 100px;
+}
+
+@media only screen and (max-device-width: 768px) {
+  .z-medical-service li {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: -72px;
+    gap: 10px;
+    display: flex;
+    align-items: baseline;
+    color: #474554;
+    font-weight: 300;
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  .z-icon-bg {
+    position: relative;
+    color: #4fe765;
+    margin-left: 100px;
+  }
+}
+
+@media (max-width: 820px) {
+  .card-text {
+    font-weight: 400;
+  }
+  .z-virtual {
+    margin-left: 50px;
+  }
+}
+
+@media (max-width: 500px) {
+  .z-virtual {
+    margin-left: 0px;
+  }
+}
+
+/* .common-title{
+    align-items: flex-start;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+ 
+@media only screen and (max-device-width: 800px) {
+    .mobile-title{
+        margin-left: -50px;
+        align-items: center;
+    }
+   
+    .mob-medical-services li{
+        right: 5px;
+    }
+ 
+    .z-mob{
+        margin-left: 30px;
+        font-weight: 200;
+        color: #474554;
+        font-family: 'Times New Roman', Times, serif;
+    }
+}
+ 
+.common-title h1{
+    width: calc(100% - 88px);
+    margin-top: 8px;
+}
+ 
+.z-virtual{
+    margin-top: 50px;
+}
+ 
+.z-icon-bg-lg{
+    width: 88px;
+    height: 72px;
+    font-size: 70px;
+}
+ 
+.z-icon-bg{
+    position: relative;
+    color: #020288;
+    margin-left: 100px;
+}
+ 
+.z-virtual {
+    margin-left: 150px;
+    font-weight: 200;
+    color: #474554;
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
+.z-medical-service{
+    margin-left: 100px;
+    margin-top: 20px
+}
+ 
+.z-medical-service li{
+    margin-bottom: 10px;
+    gap: 10px;
+    display: flex;
+    align-items: baseline;
+    color: #474554;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
+.z-medical-service i{
+    font-size: 15px;
+    color: #4FE765;
+} */

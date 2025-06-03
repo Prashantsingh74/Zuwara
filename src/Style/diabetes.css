@@ -1,0 +1,1236 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+/* body {
+  width: 144rem;
+} */
+.diabetes-Nm2 {
+  box-sizing: border-box;
+  padding-top: 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.diabetes-Nm2 .group-182-tDa {
+  margin: 0rem 10rem 3.2rem 10rem;
+  width: calc(100% - 20rem);
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-182-tDa .logo-bNt {
+  width: 6.7998rem;
+  height: 6.4002rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-182-tDa .auto-group-2mlg-Kpg {
+  box-sizing: border-box;
+  padding: 1.2rem 0rem 0.3rem 31.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-182-tDa .auto-group-2mlg-Kpg .group-10-ec4 {
+  margin: 1.2rem 12.2rem 1.1rem 0rem;
+  height: calc(100% - 2.3rem);
+  display: flex;
+  column-gap: 4.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-182-tDa .auto-group-2mlg-Kpg .group-10-ec4 .home-N2G {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #af2245;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-182-tDa .auto-group-2mlg-Kpg .group-10-ec4 .about-Vcg {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-182-tDa .auto-group-2mlg-Kpg .group-10-ec4 .join-as-provider-SXv {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-182-tDa .auto-group-2mlg-Kpg .group-10-ec4 .get-care-Ayi {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-182-tDa .auto-group-2mlg-Kpg .group-179-7tx {
+  margin: 0.1rem 5.7rem 0rem 0rem;
+  width: 5.6rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-182-tDa .auto-group-2mlg-Kpg .auto-group-lqt2-qa4 {
+  width: 14.9rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 0.8888888889;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p {
+  box-sizing: border-box;
+  padding: 2.6rem 10rem 4.5rem 10rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .group-1261154093-ovC {
+  margin: 0rem 38.7rem 4.1rem 0rem;
+  width: calc(100% - 38.7rem);
+  height: 2.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .group-1261154093-ovC .group-1261154076-8Bn {
+  margin-right: 10.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .group-1261154093-ovC .group-1261154076-8Bn .group-1261154072-4bE {
+  margin: 0rem 1.64rem 0.1rem 0rem;
+  width: 2.7599rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .group-1261154093-ovC .group-1261154076-8Bn .back-apU {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .group-1261154093-ovC .group-1261154073-jBa {
+  margin: 1.21rem 0rem 1.292rem 0rem;
+  height: calc(100% - 2.502rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .group-1261154093-ovC .group-1261154073-jBa .rectangle-39545-r1J {
+  margin-right: 1.0913rem;
+  width: 15.7066rem;
+  height: 0.198rem;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .group-1261154093-ovC .group-1261154073-jBa .rectangle-39546-xKE {
+  margin-right: 1.0913rem;
+  width: 15.7066rem;
+  height: 0.198rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .group-1261154093-ovC .group-1261154073-jBa .rectangle-39547-h1v {
+  margin-right: 1.0912rem;
+  width: 15.7066rem;
+  height: 0.198rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .group-1261154093-ovC .group-1261154073-jBa .rectangle-39548-SEQ {
+  width: 15.7066rem;
+  height: 0.198rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .auto-group-7s5a-arQ {
+  margin-right: 51.6rem;
+  width: calc(100% - 51.6rem);
+  height: 5.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .auto-group-7s5a-arQ .diabetes-KZ6 {
+  margin: 0rem 12.7rem 0.4rem 0rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 0.3350815773;
+  text-transform: uppercase;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .auto-group-7s5a-arQ .group-1261154972-jsi {
+  box-sizing: border-box;
+  padding: 0.8rem 2.4rem;
+  width: 45.8rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-37120-MhW.png');
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .auto-group-7s5a-arQ .group-1261154972-jsi .group-1261154971-Gse {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .auto-group-7s5a-arQ .group-1261154972-jsi .group-1261154971-Gse .search-your-lab-tests-packages-RkY {
+  margin-right: 12.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #999999;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .auto-group-7s5a-arQ .group-1261154972-jsi .group-1261154971-Gse .line-1-9Ak {
+  margin-right: 2.2rem;
+  width: 0rem;
+  height: 3.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-zlhs-V8p .auto-group-7s5a-arQ .group-1261154972-jsi .group-1261154971-Gse .vector-scY {
+  margin-top: 0.1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa {
+  box-sizing: border-box;
+  padding: 4.6rem 10rem 9.7rem 10rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N {
+  margin-bottom: 4.6rem;
+  width: 100%;
+  height: 65.7rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 {
+  margin-right: 14.9rem;
+  width: 66.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .auto-group-riqi-n7E {
+  box-sizing: border-box;
+  padding-bottom: 7.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .auto-group-riqi-n7E .packages-hjz {
+  margin-bottom: 5.4rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 0.3350815773;
+  text-transform: uppercase;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .auto-group-riqi-n7E .group-1261154463-oHE {
+  margin-right: 22.8rem;
+  width: calc(100% - 22.8rem);
+  height: 11.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .auto-group-riqi-n7E .group-1261154463-oHE .group-1261154200-LY4 {
+  margin-right: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.4rem 3.9rem 0.3rem 4rem;
+  width: 21rem;
+  height: 100%;
+  background-color: rgba(149, 105, 159, 0.1000000015);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .auto-group-riqi-n7E .group-1261154463-oHE .group-1261154200-LY4 .group-1261154165-Tcg {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .auto-group-riqi-n7E .group-1261154463-oHE .group-1261154200-LY4 .group-1261154165-Tcg .medical-monitoring-of-human-health-1PJ {
+  margin: 0rem 0.128rem 1rem 0rem;
+  width: 7.3723rem;
+  height: 7rem;
+  position: relative;
+  background-size: 105.312% 110.412%;
+  background-position: 0rem -0.4068rem;
+  background-image: url('../assets/medical-monitoring-of-human-health-48C.png');
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .auto-group-riqi-n7E .group-1261154463-oHE .group-1261154200-LY4 .group-1261154165-Tcg .diabetes-periodic-test-gEY {
+  font-size: 1.0052rem;
+  font-weight: 700;
+  line-height: 1.624999917;
+  text-transform: uppercase;
+  color: #af2245;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .auto-group-riqi-n7E .group-1261154463-oHE .group-1261154199-yDe {
+  box-sizing: border-box;
+  padding: 1.3rem 4.9rem 0.4rem 5rem;
+  width: 21rem;
+  height: 100%;
+  background-color: rgba(148, 165, 163, 0.1000000015);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .auto-group-riqi-n7E .group-1261154463-oHE .group-1261154199-yDe .group-1261154169-J12 {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .auto-group-riqi-n7E .group-1261154463-oHE .group-1261154199-yDe .group-1261154169-J12 .woman-sitting-in-front-of-a-mirror-brushing-her-hair-3zC {
+  margin: 0rem 0rem 1rem 0.021rem;
+  width: 7.5208rem;
+  height: 7rem;
+  position: relative;
+  background-size: 126.316% 135.714%;
+  background-position: -1.0417rem -1.3333rem;
+  background-image: url('../assets/woman-sitting-in-front-of-a-mirror-brushing-her-hair-Hkp.png');
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .auto-group-riqi-n7E .group-1261154463-oHE .group-1261154199-yDe .group-1261154169-J12 .diabetes-annually-Kgp {
+  font-size: 1.0052rem;
+  font-weight: 700;
+  line-height: 1.624999917;
+  text-transform: uppercase;
+  color: #af2245;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .individual-test-zHA {
+  margin-bottom: 5.4rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 0.3350815773;
+  text-transform: uppercase;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 {
+  margin: 0rem 0rem 4.4rem 0.2rem;
+  height: 24.4rem;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-gwrt-q2t {
+  width: 21rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-gwrt-q2t .group-1261154182-mhE {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.8rem 0.5rem 1.9rem;
+  width: 100%;
+  height: 11.4rem;
+  box-shadow: 0.5rem 0.8rem 3.2rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-gwrt-q2t .group-1261154182-mhE .group-1261154422-tmr {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-gwrt-q2t .group-1261154182-mhE .group-1261154422-tmr .group-1261154178-rCt {
+  margin: 0rem 5.8rem 1.7rem 5.5rem;
+  box-sizing: border-box;
+  padding: 1.4rem 0.97rem 1.3rem 1rem;
+  width: calc(100% - 11.3rem);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-xFv.png');
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-gwrt-q2t .group-1261154182-mhE .group-1261154422-tmr .group-1261154178-rCt .group-1261154175-xWp {
+  width: 4.0304rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-gwrt-q2t .group-1261154182-mhE .group-1261154422-tmr .cumulative-sugar-test-hba1c-67E {
+  font-size: 1.0052rem;
+  font-weight: 700;
+  line-height: 1.624999917;
+  text-transform: uppercase;
+  color: #af2245;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-gwrt-q2t .group-1261154432-MYx {
+  box-sizing: border-box;
+  padding: 1.3rem 7.5rem 0.4rem 7.5rem;
+  width: 100%;
+  height: 11.4rem;
+  box-shadow: 0.5rem 0.8rem 3.2rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-gwrt-q2t .group-1261154432-MYx .group-1261154431-Gfv {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-gwrt-q2t .group-1261154432-MYx .group-1261154431-Gfv .group-1261154426-pSY {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.4rem 0.97rem 1.3rem 1rem;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-d3i.png');
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-gwrt-q2t .group-1261154432-MYx .group-1261154431-Gfv .group-1261154426-pSY .group-1261154175-x2x {
+  width: 4.0304rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-gwrt-q2t .group-1261154432-MYx .group-1261154431-Gfv .lipase-V2t {
+  font-size: 1.0052rem;
+  font-weight: 700;
+  line-height: 1.624999917;
+  text-transform: uppercase;
+  color: #af2245;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-och2-aa8 {
+  width: 21rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-och2-aa8 .group-1261154435-jT2 {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.5rem 6.3rem 0.6rem 6.5rem;
+  width: 100%;
+  height: 11.4rem;
+  box-shadow: 0.5rem 0.8rem 3.2rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-och2-aa8 .group-1261154435-jT2 .group-1261154434-T88 {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-och2-aa8 .group-1261154435-jT2 .group-1261154434-T88 .group-1261154177-1QY {
+  margin: 0rem 1.1rem 1.6rem 1.1rem;
+  box-sizing: border-box;
+  padding: 1.4rem 0.97rem 1.3rem 1rem;
+  width: calc(100% - 2.2rem);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-3tQ.png');
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-och2-aa8 .group-1261154435-jT2 .group-1261154434-T88 .group-1261154177-1QY .group-1261154175-KRE {
+  width: 4.0304rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-och2-aa8 .group-1261154435-jT2 .group-1261154434-T88 .glucose-fbs--3c8 {
+  font-size: 1.0052rem;
+  font-weight: 700;
+  line-height: 1.624999917;
+  text-transform: uppercase;
+  color: #af2245;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-och2-aa8 .group-1261154430-Y36 {
+  box-sizing: border-box;
+  padding: 1.3rem 5.8rem 0.4rem 5.8rem;
+  width: 100%;
+  height: 11.4rem;
+  box-shadow: 0.5rem 0.8rem 3.2rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-och2-aa8 .group-1261154430-Y36 .group-1261154429-UBe {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-och2-aa8 .group-1261154430-Y36 .group-1261154429-UBe .group-1261154425-d4Y {
+  margin: 0rem 1.6rem 2rem 1.8rem;
+  box-sizing: border-box;
+  padding: 1.4rem 0.97rem 1.3rem 1rem;
+  width: calc(100% - 3.4rem);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-Cmz.png');
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-och2-aa8 .group-1261154430-Y36 .group-1261154429-UBe .group-1261154425-d4Y .group-1261154175-wL8 {
+  width: 4.0304rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .auto-group-och2-aa8 .group-1261154430-Y36 .group-1261154429-UBe .amylase-serum-5SL {
+  font-size: 1.0052rem;
+  font-weight: 700;
+  line-height: 1.624999917;
+  text-transform: uppercase;
+  color: #af2245;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .group-1261154437-mpx {
+  box-sizing: border-box;
+  padding: 1.5rem 6.3rem 0.6rem 6.4rem;
+  width: 21rem;
+  height: 11.4rem;
+  box-shadow: 0.5rem 0.8rem 3.2rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .group-1261154437-mpx .group-1261154446-JZz {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .group-1261154437-mpx .group-1261154446-JZz .group-1261154423-r5i {
+  margin: 0rem 1.1rem 1.6rem 1.2rem;
+  box-sizing: border-box;
+  padding: 1.4rem 0.97rem 1.3rem 1rem;
+  width: calc(100% - 2.3rem);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-YBe.png');
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .group-1261154437-mpx .group-1261154446-JZz .group-1261154423-r5i .group-1261154175-kwn {
+  width: 4.0304rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154442-uf2 .group-1261154437-mpx .group-1261154446-JZz .glucose-rbs--6Vr {
+  font-size: 1.0052rem;
+  font-weight: 700;
+  line-height: 1.624999917;
+  text-transform: uppercase;
+  color: #af2245;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154445-bSc {
+  margin: 0rem 16.9rem 0rem 12rem;
+  box-sizing: border-box;
+  padding: 1.6rem 11.484rem 1.6rem 11.5rem;
+  width: calc(100% - 28.9rem);
+  height: 5.3rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-37122-JFW.png');
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154445-bSc .group-1261154444-Vnt {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154445-bSc .group-1261154444-Vnt .more-test-results-evg {
+  margin-right: 1.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .auto-group-rbfj-Fd6 .group-1261154462-SFe .group-1261154445-bSc .group-1261154444-Vnt .vector-o2t {
+  margin-top: 0.2rem;
+  width: 1.2161rem;
+  height: 0.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn {
+  width: 42.7rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .selected-test-hXa {
+  margin-bottom: 1.6rem;
+  font-size: 1.605rem;
+  font-weight: 600;
+  line-height: 1.0177711424;
+  text-transform: capitalize;
+  color: #111535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG {
+  box-sizing: border-box;
+  padding: 1.7rem 1.8rem 2.7rem 2rem;
+  width: 100%;
+  height: 39.7rem;
+  background-color: #f6f7f9;
+  border-radius: 0.7rem;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-iBn {
+  margin-bottom: 0.7rem;
+  width: 100%;
+  height: 8.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-iBn .group-1261154161-TQG {
+  box-sizing: border-box;
+  padding: 2.3rem 2.4rem 2.2rem 2.3rem;
+  width: 38.7rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.9rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  border-radius: 1.2rem;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-iBn .group-1261154161-TQG .pregnancy-test-serum-bhcg-kuA {
+  margin-right: 4.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: 0.024rem;
+  color: #af2245;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-iBn .group-1261154161-TQG .group-1171275053-4ur {
+  height: 100%;
+  display: flex;
+  column-gap: 1.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-iBn .group-1261154161-TQG .group-1171275053-4ur .group-1171275049-p8L {
+  width: 3.2rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2259999381;
+  color: #111535;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-color: rgba(27, 43, 58, 0.1000000015);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-iBn .group-1261154161-TQG .group-1171275053-4ur .item-1-UCt {
+  margin-top: 0.3rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2228587189;
+  color: #1b2b3a;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-iBn .group-1261154161-TQG .group-1171275053-4ur .group-371-nDa {
+  width: 3.2rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2259999381;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-color: #af2245;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-iBn .component-1-djz {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 8rem;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Mfz {
+  margin-bottom: 0.7rem;
+  width: 100%;
+  height: 8.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Mfz .group-1261154161-tfv {
+  box-sizing: border-box;
+  padding: 2.3rem 2.4rem 2.2rem 2.3rem;
+  width: 38.7rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.9rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  border-radius: 1.2rem;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Mfz .group-1261154161-tfv .pregnancy-test-serum-bhcg-zix {
+  margin-right: 4.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: 0.024rem;
+  color: #af2245;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Mfz .group-1261154161-tfv .group-1171275053-WSQ {
+  height: 100%;
+  display: flex;
+  column-gap: 1.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Mfz .group-1261154161-tfv .group-1171275053-WSQ .group-1171275049-eoW {
+  width: 3.2rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2259999381;
+  color: #111535;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-color: rgba(27, 43, 58, 0.1000000015);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Mfz .group-1261154161-tfv .group-1171275053-WSQ .item-1-XcQ {
+  margin-top: 0.3rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2228587189;
+  color: #1b2b3a;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Mfz .group-1261154161-tfv .group-1171275053-WSQ .group-371-G4C {
+  width: 3.2rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2259999381;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-color: #af2245;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Mfz .component-1-igt {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 8rem;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Sct {
+  margin-bottom: 2.8rem;
+  width: 100%;
+  height: 8.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Sct .group-1261154161-PY8 {
+  box-sizing: border-box;
+  padding: 2.3rem 2.4rem 2.2rem 2.3rem;
+  width: 38.7rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.9rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  border-radius: 1.2rem;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Sct .group-1261154161-PY8 .pregnancy-test-serum-bhcg-6Be {
+  margin-right: 4.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: 0.024rem;
+  color: #af2245;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Sct .group-1261154161-PY8 .group-1171275053-c9z {
+  height: 100%;
+  display: flex;
+  column-gap: 1.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Sct .group-1261154161-PY8 .group-1171275053-c9z .group-1171275049-MdN {
+  width: 3.2rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2259999381;
+  color: #111535;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-color: rgba(27, 43, 58, 0.1000000015);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Sct .group-1261154161-PY8 .group-1171275053-c9z .item-1-2Uc {
+  margin-top: 0.3rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2228587189;
+  color: #1b2b3a;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Sct .group-1261154161-PY8 .group-1171275053-c9z .group-371-xNG {
+  width: 3.2rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2259999381;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-color: #af2245;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .main-selected-element-Sct .component-1-DZ6 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 8rem;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .auto-group-b6jy-i7N .group-1261154461-YPn .auto-group-xick-SEG .group-1261154475-xyJ .frame-37121-XZn {
+  margin: 0rem 0.8rem 0rem 0.6rem;
+  width: calc(100% - 1.4rem);
+  height: 5.3rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .auto-group-4ngu-yfa .group-1261154443-M32 {
+  margin-right: 44.7839rem;
+  width: 1.2161rem;
+  height: 0.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA {
+  box-sizing: border-box;
+  padding: 6.083rem 26.6rem 6.7rem 10rem;
+  width: 100%;
+  height: 33.8rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .group-1261154099-Nip {
+  margin: 0.617rem 22.767rem 1.733rem 0rem;
+  height: calc(100% - 2.35rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .group-1261154099-Nip .group-1261154093-gzQ {
+  margin-bottom: 2.3rem;
+  width: 12.8rem;
+  height: 12.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .group-1261154099-Nip .group-1261154040-cdA {
+  margin-left: 0.05rem;
+  width: 20.2667rem;
+  height: 4.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-vswv-YWp {
+  margin-right: 8.85rem;
+  width: 12.8167rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-vswv-YWp .company-6HS {
+  margin-bottom: 2.1167rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-vswv-YWp .frame-37135-d2U {
+  margin-left: 0.0167rem;
+  width: calc(100% - 0.0167rem);
+  row-gap: 1.2rem;
+  display: flex;
+  flex-direction: column;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-vswv-YWp .frame-37135-d2U .home-jrC {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-vswv-YWp .frame-37135-d2U .about-5v4 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-vswv-YWp .frame-37135-d2U .join-as-provider-2qJ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-vswv-YWp .frame-37135-d2U .get-care-a68 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-vswv-YWp .frame-37135-d2U .join-us-ii8 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-eh7a-4mz {
+  margin: 0rem 12.617rem 3.3rem 0rem;
+  width: 9.8rem;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-eh7a-4mz .laboratory-1BS {
+  margin-bottom: 2.1167rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-eh7a-4mz .frame-37136-9He {
+  width: 100%;
+  row-gap: 1.3rem;
+  display: flex;
+  flex-direction: column;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-eh7a-4mz .frame-37136-9He .general-test-HPr {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-eh7a-4mz .frame-37136-9He .blood-test-pua {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-eh7a-4mz .frame-37136-9He .urine-test-a84 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-eh7a-4mz .frame-37136-9He .dna-test-vSp {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-9mhw-UDS {
+  margin-bottom: 7.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-9mhw-UDS .contact-us-Qsn {
+  margin-bottom: 2.2167rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-9mhw-UDS .item-923489934721-xPW {
+  margin: 0rem 0rem 0.8rem 0.033rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-9mhw-UDS .zwaarahealthcom-4xL {
+  margin: 0rem 0rem 0.9rem 0.033rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.diabetes-Nm2 .group-1000002072-sXA .auto-group-9mhw-UDS .riadh-2343-saudi-arabia-PUp {
+  margin-left: 0.0333rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

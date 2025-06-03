@@ -1,0 +1,79 @@
+.z-footer-bg {
+  /* background: #002a56; */
+  background-image: linear-gradient(90deg, #af2245, #882767, #602d8a);
+  /* border-top: 5px solid; */
+  padding: 3.125rem 0 1.25rem 0;
+  color: #fff;
+  /* border-image-source: linear-gradient(25deg, #4fe765 0%, #26a9e0 100%); */
+  border-image-slice: 5;
+}
+
+.z-title-line {
+  margin-bottom: 0.8rem;
+  /* border-bottom: 2px solid #4fe765; */
+  color: inherit;
+  display: inline-block;
+}
+
+.z-ftr-lg.z-footer-logo {
+  width: 120px;
+}
+.z-footer-list a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.z-footer-list a:hover {
+  /* color: #12dd0b; */
+  /* text-decoration: underline #4fe765 3px solid; */
+}
+
+.z-social-media i {
+  width: 41px;
+  height: 41px;
+  line-height: 2.1;
+  border-radius: 100%;
+  color: #fff;
+  text-align: center;
+  margin-right: 13px;
+  font-size: 20px;
+  background: #ffffff20;
+}
+
+.z-linkedin:hover {
+  background-color: #0e76a8;
+}
+
+.z-instagram:hover {
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 100%
+  );
+}
+
+.z-twitter:hover {
+  background-color: #1da1f2;
+}
+
+.z-whatsapp:hover {
+  background-color: #25d366;
+}
+
+.z-youtube:hover {
+  background-color: #dd282b;
+}
+
+.z-facebook:hover {
+  background-color: #4267b2;
+}
+li {
+  list-style-type: none;
+}
+
+.fottlink{
+  cursor: pointer;
+}

@@ -1,0 +1,30 @@
+.calender-css::-webkit-scrollbar {
+  display: none;
+}
+.calender-css .bg-red {
+  background-color: #af2245;
+  color: white;
+  border-radius: 5px;
+  padding: 3px;
+}
+.calender-css .color-red {
+  color: #af2245;
+}
+.calender-css p {
+  margin: 0;
+  font-size: 15px;
+  font-family: Poppins, "Source Sans Pro";
+  font-weight: 400;
+  color: #000;
+  cursor: pointer;
+  font-style: normal;
+}
+.horizontal-cale-date {
+  width: 400px;
+}
+
+@media (max-width: 500px) {
+  .horizontal-cale-date {
+    width: 300px;
+  }
+}

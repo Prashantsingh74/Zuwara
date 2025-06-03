@@ -1,0 +1,212 @@
+#search::placeholder {
+  font-size: 20px;
+  text-align: center;
+  color: #999;
+}
+
+#search {
+  text-align: center;
+  color: #000;
+}
+.group-1261154201-c36 {
+  display: grid;
+  grid-template-columns: repeat(
+    3,
+    1fr
+  ); /* Create three columns with equal width */
+  grid-gap: 10px; /* Adjust the gap between the columns */
+}
+
+.group-1261154200-goe {
+  box-sizing: border-box; /* Include padding and border in the width calculation */
+  padding: 10px; /* Adjust the padding as needed */
+  box-sizing: border-box;
+}
+.search-container {
+  text-align: center;
+}
+
+.search-form {
+  display: flex;
+  max-width: 800px;
+  max-height: 60px;
+  margin: 0 auto;
+  /* margin-top: 30px; */
+}
+
+.search-input {
+  flex: 1;
+  padding: 10px;
+  font-size: 14px;
+  /* border: 1px solid #ccc; */
+  border-radius: 11px 0 0 11px;
+  border-right: 0;
+}
+.zw_lab_health_package .card {
+  cursor: pointer;
+}
+.zw_lab_health_package .search-button {
+  background: white;
+  /* border-left: 0; */
+}
+.zw_lab_health_package .zw_card {
+  width: 30%;
+  padding: 0px;
+  margin: 5px;
+  display: flex;
+  background-color: rgba(175, 34, 69, 0.1);
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  /* height: 15rem; */
+}
+.zw_lab_health_package .button-see-all {
+  width: 100%;
+  max-height: 50px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  background-color: white;
+}
+.zw_lab_health_package .zw_card.zw_card_feature {
+  background-color: #fff;
+  box-shadow: 5px 8px 32px rgb(0 0 0 / 10%);
+}
+
+.sps-dialog-closed {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: none;
+  border: none;
+}
+.sps-dialog-closed i {
+  appearance: none;
+  color: #ff2626;
+  vertical-align: text-top;
+  border: 2px solid #ff2626;
+
+  padding: 5px;
+  border-radius: 50%;
+  background: white;
+  font-size: 10px;
+}
+.search-button {
+  color: #fff;
+  padding: 10px 15px;
+  font-size: 16px;
+  border: none;
+  border-left: 2px solid #999999;
+  border-radius: 0 11px 11px 0;
+  cursor: pointer;
+}
+
+.search-icon {
+  margin-right: 10px;
+  width: 50px;
+}
+.button-see-all {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  width: 65rem;
+  height: 5rem;
+  border: solid 0.1rem #602d8a;
+  border-radius: 5px;
+  box-shadow: 0.5rem 0.8rem 3.2rem rgba(0, 0, 0, 0.1000000015);
+}
+.main-selected-element-4zQ {
+  position: relative;
+}
+
+.group-1171275049-xTW,
+.group-371-jsa {
+  cursor: pointer;
+  margin: 0 5px; /* Add margin for spacing */
+}
+.image-ourtest {
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-top: 0px;
+}
+
+@media (max-width: 1024px) {
+  .lab-search {
+    flex-direction: column;
+  }
+}
+
+/* .button-see-all1 {
+  margin-top: 10px;
+  padding: 50px;
+  text-align: center;
+  width: 65rem;
+  height: 5rem;
+  border: solid 0.1rem #602d8a;
+  border-radius: 5px;
+  box-shadow: 0.5rem 0.8rem 3.2rem rgba(0, 0, 0, 0.1000000015);
+}
+.card-body2 {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card1 {
+  width: 20rem;
+  display: flex;
+  flex-direction: column;
+  height: 11.5rem;
+  margin-left: 8px;
+  margin-top: 20px;
+  margin-right: 7px;
+  box-shadow: 0.5rem 0.8rem 3.2rem rgba(0, 0, 0, 0.1000000015);
+}
+
+.title-ourfeatured {
+  margin-top: 10px;
+  color: #af2245;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.ourfeatured-section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.heading-ourfeatured {
+  margin-top: 10px;
+  font-size: 45px;
+  font-family: poppiens, sans-serif;
+}
+.card2 {
+  width: 20rem;
+  padding: 20px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(175, 34, 69, 0.1);
+  border-radius: 20px;
+  height: 15rem;
+}
+.title-mostpackage {
+  margin-top: 10px;
+  color: #af2245;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.card-body1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading-mostpackage {
+  margin-top: 10px;
+  font-size: 45px;
+  font-family: poppiens, sans-serif;
+} */

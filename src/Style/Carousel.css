@@ -1,0 +1,55 @@
+.carousel-item {
+  transition: transform 0.5s ease;
+}
+
+.carousel-item.active-slide {
+  transform: translateY(-25px);
+}
+
+/* .zw_teatimonial .zw_tes_des {
+  padding: 27px 20px;
+  border-radius: 10px;
+} */
+
+.slick-slide img {
+  display: inline !important;
+}
+
+.zw_tes_des {
+  position: relative;
+  padding: 27px 20px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.quote-img {
+  position: absolute;
+  width: 20px;
+  height: auto;
+}
+
+.quote-img:first-child {
+  top: 33px;  
+  left: 10px; 
+}
+
+.quote-img2 {
+  /* bottom:33px;
+  right:10px */
+  position: absolute;
+  width: 14px; 
+  height: 13px;
+}
+.quote-img2:last-child {
+
+  bottom: 50px;  /* Adjust vertical position as needed */
+  right: 7px; /* Place open quote in the right corner */
+}
+
+.slick-arrow {
+  display: none !important;
+}
+.slick-prev {
+  display: none !important;
+
+}

@@ -1,0 +1,146 @@
+* {
+    box-sizing: border-box;
+}
+.about-us, .join-prvder {
+    position: relative;
+    background-image: url(https://sanar-assets.com/images/static/new-theme/about-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.prvder-tit h1 {
+    text-align: center;
+    padding-top: 80px;
+    font-weight: 900;
+}
+.h1 {
+    font-size: 54px;
+    margin: 0;
+    color: #002A56;
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.join-trst {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0 30px;
+    gap: 25px;
+}
+.d-flex {
+    display: -webkit-flex;
+}
+.join-trst figure img {
+    width: 50px;
+    height: 50px;
+    border: 3px solid #fff;
+    border-radius: 50px;
+    margin-right: -10px;
+    object-fit: cover;
+}
+.mob-block{
+    display: none;
+}
+.h2{
+    font-size: 54px;
+}
+
+
+@media screen and (max-width: 768px){
+    .mob-none{
+        display: none;
+    }
+    .join-serv {
+        padding-top: 40px;
+    }
+    .top120 {
+        margin-top: 40px;
+    }
+    .static h2 {
+        font-size: 18px;
+    }
+    .join-serv h2 {
+        margin-bottom: 40px;
+        /* margin-right: 580px; */
+        /* font-size: 80px; */
+    }
+    .pjoin-list {
+        margin-left: 10px; 
+        /* flex-direction: column; */
+    }
+    .pjoin-list li {
+        padding: 0;
+    }
+    .icon-bg {
+        gap: 15px;
+        width: 45px;
+    }
+    .h5 {
+        font-size: 1rem;
+    }
+    .join-prvder {
+        display: none;
+    }
+    .sa-mob-block{
+        display: block;
+    }
+}
+.sa-btn-back {
+    font-size: calc(2px* 9);
+    cursor: pointer;
+    border: none;
+    padding: 0;
+    margin: 0 0 calc(2px* 10);
+    line-height: calc(2px* 10);
+    vertical-align: middle;
+    background: transparent;
+    color: #000;
+    display: none;
+}
+.sa-tit{
+    display: none;
+}
+.sa-btn-back i {
+    vertical-align: middle;
+    font-weight: 300;
+    margin-right: 15px;
+}
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px){
+    .sa-btn-back i {
+        z-index: 3;
+        position: fixed;
+        top: 18px;
+        left: 10px;
+        background: #FFF;
+        font-size: 20px;
+        width: 20px;
+        font-size: 21px;
+        margin-left: 4px;
+    }
+    .sa-btn-back .icon-arrow-left:before {
+        content: "\e91d";
+    }
+    .sa-tit {
+        margin-bottom: 10px;
+    }
+    .sa-mob-header {
+        padding: 15px 0 15px 40px;
+        text-align: left;
+        font-weight: 500;
+        position: fixed;
+        z-index: 2;
+        top: 0;
+        left: 0;
+        right: 0;
+        background: #FFF;
+        color: #000;
+        font-size: 25px;
+        margin-top: -2px;
+    }
+    .sa-mob-block {
+        display: block;
+    }
+
+}

@@ -1,0 +1,150 @@
+.top120 {
+    margin-top: 120px;
+}
+.gutter50 {
+    margin-right: -50px;
+    margin-left: -50px;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+figure {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+.img-cover {
+    width: calc(2%* 50);
+    height: calc(2%* 50);
+    object-fit: cover;
+    margin-left: 13%;
+}
+.mb20 {
+    margin-bottom: calc(2px* 10);
+}
+.success-text {
+    color: #4FE765;
+}
+.h4 {
+    font-size: 28px;
+}
+.h2 {
+    font-size: 44px;
+}
+.glob-prgh p {
+    font-weight: 300;
+    color: #474554;
+}
+.mb30 {
+    margin-bottom: 30px;
+}
+p {
+    margin: calc(2px* 2 + 1px) 0;
+}
+.ml30 {
+    margin-left: 30px;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.join-doc-list li {
+    margin-bottom: 30px;
+}
+.gap30 {
+    gap: 30px;
+}
+.common-title {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.icon-bg {
+    font-size: 30px;
+    width: 50px;
+    height: 48px;
+    position: relative;
+    color: #020288;
+}
+.icon-bg.icon-date-time:before{
+    position: absolute;
+    /* top: 0; */
+    left: 0px;
+    font-size: 50px;
+}
+.icon-date-time:before {
+    content: "\e971";
+}
+.icon-bg:after {
+    content: '';
+    position: absolute;
+    right: 0;
+    left: 8px;
+    top: 0;
+    background: url(https://sanar-assets.com/images/static/v5/icon-bg.svg) no-repeat;
+    background-size: 100%;
+    width: 54px;
+    height: 52px;
+}
+.join-doc-list li h5 {
+    margin-bottom: 20px;
+}
+.h5 {
+    font-size: 22px;
+}
+.pl85 {
+    padding-left: calc(2px*40 + 5px);
+}
+.text-right {
+    text-align: right;
+}
+.btn-lg {
+    padding: 0 25px;
+    font-size: calc(2px* 8);
+    line-height: calc(2px* 25);
+    height: calc(2px* 25);
+    border-radius: calc(2px* 5);
+}
+.btn-primary {
+    color: #FFF;
+    background-color: #26A9E0;
+}
+:is(.btn,.btn-block,.btn-primary) {
+    display: block;
+    font-weight: 400;
+    text-align: center;
+    /* vertical-align: middle; */
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: background 0.8s;
+}
+button {
+    outline: none;
+}
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px){
+    .sa-col-xs-12{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .gutter50 [class*=col] {
+        padding-right: calc(2px*10);
+        padding-left: calc(2px*10);
+    }
+    .h4 {
+        font-size: calc(2px* 9);
+    }
+    .static h2 {
+        font-size: 18px;
+    }
+    .join-doc-list li h5 {
+        margin-bottom: 14px;
+    }
+    .join-doc-list button {
+        width: 100%;
+    }
+}

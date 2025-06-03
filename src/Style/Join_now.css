@@ -1,0 +1,100 @@
+.join-sanar-card {
+    background: url(https://sanar-assets.com/images/static/new-theme/serviceproviderbg.svg) no-repeat;
+    color: #FFF;
+    position: relative;
+    margin-bottom: 80;
+    height: 420px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.top120 {
+    margin-top: 120px;
+    margin-bottom: 80px;
+}
+.join-sanar-card h2 {
+    color: #FFF;
+    font-size: 42px;
+    margin-bottom: 15px;
+}
+.join-sanar-card p {
+    color: #FFF;
+    margin: 0 auto 30px;
+}
+.glob-prgh p {
+    font-weight: 300;
+    color: #474554;
+}
+.join-sanar-card .btn-plain {
+    width: unset;
+}
+.join-sanar-card button {
+    background-color: #fff;
+    color: #11a1de;
+}
+.btn-plain {
+    background: #FFF;
+    border: 1px solid;
+}
+.btn-lg {
+    padding: 0 25px;
+    font-size: calc(2px* 8);
+    line-height: calc(2px* 25);
+    height: calc(2px* 25);
+    border-radius: calc(2px* 5);
+}
+:is(.btn,.btn-block,.btn-primary) {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    cursor: pointer;
+    transition: background 0.8s;
+}
+button {
+    outline: none;
+}
+.join-sanar-card button i {
+    margin-right: 10px;
+}
+.pr10 {
+    padding-right: calc(2px* 5);
+}
+.icon-welfare:before {
+    content: "\eacc";
+}
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px){
+    .join-sanar-card {
+        margin-bottom: 40px;
+    }
+    .top120 {
+        margin-top: 40px;
+    }
+    .join-sanar-card {
+        background-size: 100% 100%;
+        height: unset;
+    }
+    .join-sanar-card h2 {
+        width: unset;
+        font-size: 16px;
+        margin-bottom: 10px;
+        padding: 0;
+        background: transparent;
+    }
+    .join-sanar-card p {
+        width: unset;
+        margin: calc(2px* 2 + 1px) 0;
+        background: transparent;
+    }
+    .join-sanar-card button {
+        font-size: 14px;
+        padding: 0 10px;
+        height: 40px;
+        line-height: 40px;
+        margin-top: 20px;
+    }
+}

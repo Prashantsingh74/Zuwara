@@ -1,0 +1,290 @@
+/* CSS for the custom dropdown icon */
+.dropdown-icon {
+  font-size: 20px; /* Size of the dropdown arrow */
+  color: #666; /* Color of the dropdown arrow */
+}
+
+.zw_popup .card {
+  border: none;
+}
+
+.zw_popup .m-0 {
+  margin: 0px;
+}
+
+.zw_popup .zw_form_group {
+  border-radius: 2px;
+  margin-bottom: 15px;
+}
+
+.zw_popup .zw_form_control {
+  border: 2px solid #af2245;
+  border-radius: 6px;
+}
+.zw_popup .zw_form_control1 {
+  border: 2px solid #602d8a;
+  border-radius: 6px;
+}
+.zw_popup .form-control {
+  height: calc(2px * 25);
+}
+
+.zw_popup .form-icon {
+  top: 6px;
+}
+
+.zw_popup .zw_select_country {
+  background-color: #f7e9ec;
+}
+
+.zw_popup .zw_border_none {
+  border: none;
+}
+
+.zw_popup .zw_border_radius {
+  border-radius: 6px 0 0 6px;
+}
+
+.zw_popup .zw_sbmtbtn_radius {
+  border-radius: 0px;
+}
+
+.zw_popup .prog-bar-per {
+  background-color: #af2245;
+}
+
+.zw_popup .sps-dialog-close i {
+  color: #777777;
+  border: 2px solid #777777;
+}
+
+.zw_popup .zw_radio_btn_label {
+  vertical-align: middle;
+  align-self: center;
+  /* margin-right: 30px; */
+}
+
+.zw_popup .zw_radio_group {
+  margin-left: 20px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.zw_popup .zw_radio_btn {
+  border: 1px solid #af2245;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.radio-gender {
+  width: 10rem;
+  text-align: center;
+}
+
+.zw_popup .zw_date i {
+  padding-right: 10px;
+}
+
+.zw_popup #SignInPopUpModal3 .modal-dialog-centered {
+  max-width: 70%;
+  margin: auto;
+}
+
+.zw_popup #SignInPopUpModal3 .signin-dialog {
+  padding: 50px 10px;
+}
+
+.zw_popup #SignInPopUpModal3 .sps-dialog-close i {
+  color: #ff2626;
+  border: 2px solid #ff2626;
+}
+
+.zw_popup #SignInPopUpModal3 .zw_succ_p {
+  padding: 20px 85px;
+}
+
+.zw_popup .zw_icon_drop {
+  top: 18px;
+}
+
+.zw_popup .verifi-code {
+  margin: 40px;
+}
+
+/* .zw_popup .icon-reload::before {
+  content: url("../../public/images/captcha_reload.svg") !important;
+  cursor: pointer;
+  width: 10px;
+} */
+
+.zw_popup .zw_country_sec {
+  width: 100px;
+  position: absolute;
+  height: 42px;
+  margin-left: 2px;
+  margin-top: 2px;
+}
+
+.zw_popup .zw_country_flag {
+  position: relative;
+}
+
+.zw_popup .cuntry-plholder {
+  position: relative;
+  top: 8px;
+  left: 15px;
+  opacity: 1;
+}
+
+.signup-cuntry-plholder {
+  position: relative;
+  top: 13px;
+  left: 40px;
+  opacity: 1;
+}
+
+.zw_popup select:focus {
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.zw_popup .zw_lang_toggle {
+  display: flex;
+  justify-content: space-between;
+}
+
+.zw_popup .zw_btn_primary {
+  border: 1px solid #f7e9ec;
+  color: #af2245;
+  padding: 10px 35px;
+  width: 40%;
+  background-color: #f7e9ec;
+}
+
+.zw_popup .zw_btn_primary:hover {
+  color: #af2245;
+  background-color: #f7e9ec;
+  border: 1px solid #af2245;
+}
+
+.zw_popup .zw_btn_primary.select,
+.zw_popup .zw_btn_primary:active {
+  background: white !important;
+  border-radius: 6px;
+  color: #af2245 !important;
+}
+
+.zw_popup .zw_btn_primary:active {
+  border: 1px solid #af2245 !important;
+}
+
+.zw_popup .zw_Healthpackage .modal-dialog {
+  max-width: 80%;
+  margin: 20px auto;
+}
+.form-img {
+  width: 30px;
+  left: 10px;
+}
+
+.next-btn-signup {
+  margin-left: 6rem;
+  width: 65%;
+  border-radius: 6px;
+}
+
+.line-indicator-bg {
+  background-color: #d1d1d1;
+}
+.Date_type_bg {
+  background-color: #f7e9ec;
+}
+#date_selected {
+  background-color: white;
+  border: none;
+  border-radius: 6px;
+}
+.selected-date {
+  margin-top: 20px;
+}
+
+.otpfield {
+  width: 50px;
+  height: 50px;
+}
+.radio-btn-signup {
+  width: 2rem;
+}
+
+/* for phone no with country code  */
+.phone-input-container {
+  border: 2px solid #af2245; /* Light grey border */
+  border-radius: 4px; /* Rounded corners */
+  padding: 10px 12px; /* Padding around the text and flag */
+  display: flex;
+  align-items: center;
+  max-width: 450px; /* Adjust the width as needed */
+  font-size: 17px;
+}
+
+.phone-input-container .PhoneInputInput {
+  border: none;
+  outline: none;
+  width: 100%;
+}
+
+.phone-input-container .PhoneInputCountry {
+  /* background-color: #af2245; Red background for country code and flag */
+  color: rgb(238, 68, 68); /* White text for country code */
+  border-radius: 4px 0 0 4px; /* Rounded corners on the left side */
+  padding: 0 8px; /* Padding inside the country code area */
+  display: flex;
+  align-items: center;
+}
+
+.phone-input-container .PhoneInputCountryIcon {
+  margin-right: 4px; /* Space between the flag and country code */
+}
+
+.phone-input-container .PhoneInputCountryIcon--square {
+  border-radius: 4px 0 0 4px; /* Rounded corners matching the container */
+  border: none; /* Remove any border */
+}
+.phone-input-container input .value {
+  margin: 0 15px;
+}
+
+.phone-input-container.error {
+  border-color: red; /* Red border for invalid input */
+}
+
+.error-message {
+  color: red;
+  margin-top: 4px;
+  font-size: 0.875rem; /* Smaller font size for error message */
+}
+
+
+.dir-ltrrr{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.set-up {
+  gap: 8rem;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .set-up {
+    gap: 4rem;
+    margin-bottom: 45px;
+  }
+  
+}

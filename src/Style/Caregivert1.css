@@ -1,0 +1,449 @@
+.sa-container {
+  width: 1160px;
+  margin: 0 auto;
+  max-width: 1160px;
+}
+.sa-content {
+  box-sizing: border-box;
+  padding: 2px * 15 0 0;
+}
+div {
+  display: block;
+}
+.sa-btn-back {
+  display: inline;
+  font-size: 2px * 9;
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  margin: 0 0 2px * 10;
+  line-height: 2px * 10;
+  vertical-align: middle;
+  background: transparent;
+  margin-right: 15px;
+  color: #000;
+}
+
+.sa-btn-back i {
+  vertical-align: middle;
+  /* font-size: 4px * 14; */
+  font-size: 18px;
+  font-weight: 500;
+  margin-right: 15px;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  font-family: "icomoon" !important;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-arrow-left:before {
+  content: "\e9d9";
+}
+.sa-prog-grid {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.sa-prog-grid p {
+  width: 100px;
+}
+p {
+  margin: 2px * 2 + 1px 0;
+}
+/* 
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+} */
+.sa-prog-grid span {
+  color: #4fe765;
+  margin-right: 5px;
+}
+.sa-prog-bar {
+  width: calc(100% - 100px);
+  background-color: #dde0e6;
+  height: 4px;
+  border-radius: 10px;
+  position: relative;
+}
+
+.sa-d-none,
+.sa-dialog .sa-dialog-back-btn,
+.sa-mob-block,
+.sa-nav-mob,
+.sa-doc-det-block,
+.sa-mob-flex .sa-edit-pro i {
+  display: none;
+}
+h5,
+.h5 {
+  font-size: 2px * 8;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h1,
+.h2,
+h3,
+h4,
+h5,
+.h6 {
+  margin: 0;
+  color: #002a56;
+  font-weight: 600;
+}
+.sa-row {
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: 2px * -5;
+  margin-left: 2px * -5;
+}
+
+@media only screen and (max-width: 1366px),
+  only screen and (max-device-width: 1366px) {
+  .sa-col-md8 {
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+}
+[class*="col"] {
+  box-sizing: border-box;
+  min-height: 1px;
+  width: 2px * 50;
+  padding-right: 2px * 5;
+  padding-left: 2px * 5;
+  position: relative;
+}
+.sa-info-light-bg {
+  background-color: #f7e9ec;
+  border-radius: 6px;
+}
+
+:is(.sa-card-no-border, .sa-card-shadow) {
+  border: none;
+}
+
+:is(.sa-card, .sa-card-shadow, .sa-card-no-border) {
+  border-radius: 2px * 5;
+
+  overflow: hidden;
+  color: var(--sa-ebony);
+  transition: 0.3s;
+  padding: 2px * 10;
+  margin-bottom: 2px * 10;
+  position: relative;
+}
+
+.sa-caregiver-in {
+  padding-right: 110px;
+  position: relative;
+}
+h5 {
+  display: block;
+
+  margin-block-start: 1.67em;
+  margin-block-end: 1.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+:is(.sa-caregiver-work p, .sa-cargiver-task p, .sa-caregiver-in p) {
+  color: 9b9b9b;
+}
+
+p {
+  margin: 2px * 2 + 1px 0;
+}
+
+:is(.sa-caregiver-work p, .sa-cargiver-task p, .sa-caregiver-in p) {
+  color: #9b9b9b;
+}
+p {
+  margin: 2px * 2 + 1px 0;
+}
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+user agent stylesheet p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+:is(.sa-card, .sa-card-shadow, .sa-card-no-border) {
+  border-radius: 2px * 5;
+  border: 1px solid #e6e6e6;
+  background-color: fff;
+  overflow: hidden;
+  color: var(--sa-ebony);
+  transition: 0.3s;
+  padding: 2px * 10;
+  margin-bottom: 2px * 10;
+  position: relative;
+}
+.sa-caregiver-in figure {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  padding-right: 20px;
+}
+.sa-img-cover {
+  width: 2% * 50;
+  height: 47px;
+  object-fit: cover;
+}
+dl,
+ol,
+ul {
+  margin: 0;
+  padding: 0px;
+  list-style: none;
+}
+
+dl,
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+user agent stylesheet ul {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+.sa-caregiver-helper ul li:nth-last-of-type(1) {
+  margin-bottom: 0;
+}
+
+.sa-caregiver-helper ul li {
+  /* position: relative; */
+}
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+.sa-caregiver-helper ul li span {
+  padding-left: 30px;
+  display: block;
+}
+/*=============  Create the custom checkmark start =====*/
+
+/* input[type="radio"] {
+  display: none;
+} */
+/* Create the inner dot for the checked state */
+/* input[type="radio"]:checked + .checkmark::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 15px;
+  height: 15px;
+  background-color: #af2245;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+} */
+
+/* Create the custom checkmark */
+/* .custom-radio .checkmark {
+  width: 20px;
+  height: 20px;
+  background-color: transparent;
+  border: 1px solid #af2245;
+  border-radius: 50%;
+  position: relative;
+  margin-right: 10px;
+} */
+
+/* .custom-radio {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+  } */
+/*=============  Create the custom checkmark end =====*/
+
+.sa-caregiver-helper ul li span i {
+  width: 20px;
+  border: none;
+  height: 20px;
+  background: #4fe765;
+  z-index: 1;
+  border-radius: 50%;
+  color: #fff;
+  display: block;
+  position: absolute;
+  left: 0;
+  text-align: center;
+  line-height: 20px;
+  font-size: 12spx;
+}
+[class^="icon-"],
+[class*=" icon-"] {
+  font-family: "icomoon" !important;
+
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-checked2:before {
+  content: "\e9e2";
+}
+@media only screen and (max-width: 1366px),
+  only screen and (max-device-width: 1366px) {
+  .sa-col-md4 {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+}
+[class*="col"] {
+  box-sizing: border-box;
+  min-height: 1px;
+  width: 2% * 50;
+  padding-right: 2px * 5;
+  padding-left: 2px * 5;
+  position: relative;
+}
+
+/* .sa-fw500 {
+    font-weight: 500;
+  }
+  
+  .sa-mb20 {
+    margin-bottom: 2px * 10;
+  }
+  h5,
+  .h5 {
+    font-size: 2px * 8;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  h1,
+  .h2,
+  h3,
+  h4,
+  h5,
+  .h6 {
+    margin: 0;
+    color: #002a56;
+  } */
+
+/* .sa-card-shadow {
+    box-shadow: 0 0px 10px 0 rgba(0, 0, 0, 0.1);
+  }
+  :is(.sa-card-no-border, .sa-card-shadow) {
+    border: none;
+  }
+  :is(.sa-card, .sa-card-shadow, .sa-card-no-border) {
+    border-radius: 2px * 5;
+    background-color: #fff;
+    overflow: hidden;
+    color: var(--sa-ebony);
+    transition: 0.3s;
+    padding: 2px * 10;
+    margin-bottom: 2px * 10;
+    position: relative;
+  } */
+.sa-select-durationn {
+  /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+  /* background-color: #eaf7fc; */
+  /* padding: 2px * 5; */
+  border-radius: 2px * 4;
+  width: 98%;
+}
+.sa-select-duration p {
+  color: #26a9e0;
+}
+
+p {
+  margin: 2px * 2 + 1px 0;
+}
+.sa-select-duration p i {
+  color: #cccccc;
+  vertical-align: middle;
+  font-size: 16px;
+  margin-right: 6px;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  font-family: "icomoon" !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+.sa-select-duration p span {
+  margin-right: 3px;
+}
+.sa-mr5 {
+  margin-right: 5px;
+}
+strong {
+  font-weight: bold;
+}
+
+.sa-select-duration button {
+  border: none;
+  background-color: #26a9e0;
+  color: #ffffff;
+  height: 30px;
+  width: 35px;
+  margin: 0;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+button,
+.truncate,
+input {
+  font-family: avenir;
+  outline: none;
+}
+.sa-select-duration button i {
+  font-weight: 600;
+}
+.icon-tagnew:before {
+  content: "\e9e9";
+}
+.icon-arrow-right:before {
+  content: "\e9da";
+}

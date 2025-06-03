@@ -1,0 +1,1986 @@
+.zw_joinus {
+  padding-top: 70px;
+  text-align: left;
+}
+.zw_joinus img,
+.zw_joinus .zw_newsletter,
+.zw_joinus .zw_new_title,
+.zw_joinus .zw_news_des,
+.zw_joinus .zw_error {
+  text-align: left;
+  margin-top: auto;
+}
+
+.z-services-list {
+  justify-content: space-evenly;
+}
+
+.zw_joinus .zw_news_des {
+  color: #737373;
+}
+.zw_joinus button {
+  color: white;
+  background-image: linear-gradient(90deg, #af2245, #882767, #602d8a);
+  height: 50px;
+  font-size: 18px;
+  border-top-right-radius: 11px;
+  border-bottom-right-radius: 11px;
+}
+.zw_joinus .input-group {
+  width: 81%;
+}
+.zw_joinus .form-control:focus {
+  box-shadow: none;
+  outline: none;
+  border: 1px solid #898b9f;
+}
+
+.zw_select_location .zw_current_loc button {
+  color: #111535;
+}
+.zw_select_location .zw_loc_footer button {
+  color: white;
+  border: none;
+  width: 100%;
+  height: 50px;
+}
+.zw_select_location .zw_loc_footer .zw_btn_view {
+  background-image: linear-gradient(90deg, #af2245, #882767, #602d8a);
+}
+.zw_select_location .zw_loc_footer .zw_btn_confirm,
+.zw_select_location .zw_loc_footer .zw_btn_confirm:active {
+  background-color: #af2245;
+}
+.zw_select_location .zw_btn_confirm a {
+  display: block;
+  color: white;
+  text-decoration: none;
+}
+.zw_select_location .sps-lcn-card {
+  background: white;
+  border-radius: 8px;
+  border: 1px solid #898b9f;
+  padding: 5px 10px;
+}
+.zw_select_location .zw_loc_icon {
+  vertical-align: middle;
+}
+.zw_select_location .sps-dialog-close {
+  background: none;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  z-index: 1;
+}
+
+.zw_select_location .sps-dialog-close i {
+  color: #ff2626;
+  vertical-align: top;
+  border: 2px solid #ff2626;
+  padding: 5px;
+  font-size: 12px;
+  border-radius: 100px;
+  background: white;
+}
+
+.z-service-bg {
+  margin-top: 36px;
+}
+
+.pos-rel {
+  position: relative;
+}
+
+.z-services-location {
+  position: absolute;
+  background: linear-gradient(
+    45deg,
+    rgba(38, 169, 224, 0.45) 0%,
+    rgba(79, 231, 101, 0.45) 100%
+  );
+  color: white;
+  padding: 5px 15px;
+  border-radius: 5px;
+  z-index: 1;
+  top: 300px;
+  right: 20px;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 1080px) {
+  .z-services-list {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    position: relative;
+    border-radius: 20px;
+    background-color: #f7e9ec;
+    padding: 30px 15px 20px 15px;
+    margin-top: 30px;
+    width: 1160px;
+    margin-left: -20px;
+  }
+
+  .z-services-list li {
+    background: #fff;
+    /* width: calc(100%/5 - (1 - 1/5)*10px); */
+    height: 100px;
+    border-radius: 12px;
+    padding: 15px;
+    word-break: break-word;
+    display: flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+    font-weight: 600;
+    color: #002a56;
+    width: 222px;
+  }
+}
+
+.z-services-location .fa-location {
+  color: white;
+  vertical-align: middle;
+}
+
+.z-mob-block {
+  display: none;
+}
+
+/* .sa-services h1 {
+  color: #003084;
+  font-weight: 200;
+  text-align: center;
+  padding: 80px 50px 0;
+  font-weight: 900;
+  color: #FFF;
+} */
+
+.z-banner {
+  display: block;
+  color: #003084;
+  font-weight: 200;
+  text-align: center;
+  padding: 80px 50px 0;
+  font-weight: 900;
+  color: #fff;
+  font-size: 54px;
+}
+
+@media only screen and (max-width: 768px) {
+  .z-mob-block {
+    display: block;
+  }
+
+  .z-banner {
+    display: none;
+  }
+
+  .z-services-location h5 {
+    width: calc(100% - 100px);
+    font-size: 15px;
+    height: 2px;
+  }
+
+  .z-services-location {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    position: relative;
+    background: transparent;
+    color: black;
+    right: 0;
+    top: 0;
+    padding: 0;
+    z-index: unset;
+  }
+}
+/* .z-service-bg::before {
+  content: '';
+  position: absolute;
+  height: 600px;
+  background: url(https://sanar-assets.com/images/static/v5/home/banner-lines.png) 100% no-repeat #26A9E0;
+  clip-path: polygon(100% 0%, 100% 74.8%, 0% 100%, 0% 100%, 0% 0%);
+  left: 0;
+  right: 0;
+} */
+
+.sa-service-bg {
+  position: relative;
+}
+
+.sa-service-bg::before {
+  content: "";
+  position: absolute;
+  height: 600px;
+  background: url(https://sanar-assets.com/images/static/v5/home/banner-lines.png)
+    100% no-repeat var(--sa-primary);
+  clip-path: polygon(100% 0%, 100% 74.8%, 0% 100%, 0% 100%, 0% 0%);
+  left: 0;
+  right: 0;
+}
+
+.sa-services p {
+  color: #fff;
+  text-align: center;
+  font-size: 22px;
+  margin-top: -25px;
+}
+
+/* .z-services-list {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  position: relative;
+  border-radius: 20px;
+  background: linear-gradient(45deg, rgba(79, 231, 101, 0.45) 0%, rgba(38, 169, 224, 0.45) 100%);
+  padding: 70px 20px 20px;
+  margin-top: 30px
+} */
+
+/* .z-services-list li {
+  background: #FFF;
+  width: calc(100%/5 - (1 - 1/5)*10px);
+  height: 100px;
+  border-radius: 12px;
+  padding: 15px;
+  word-break: break-word;
+  display: flex;
+  align-items: center;
+  position: relative;
+  cursor: pointer;
+  font-weight: 600;
+  color: #002a56
+} */
+
+.z-services-list li img {
+  height: 40px;
+  margin: 0 10px 0 0;
+}
+
+.z-services-list li img:hover {
+  color: #fff;
+}
+
+.sa-health-ins {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+  align-items: flex-start;
+  color: #626262;
+}
+
+.sa-health-ins img {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.sa-services-list li:hover {
+  background: linear-gradient(
+    270deg,
+    #e2f8ea 6.35%,
+    #def2fa 65.71%,
+    #def2fa 93.23%
+  );
+}
+
+/* .......................... Zwaara Services CSS............................... */
+
+.z-gutter {
+  margin-top: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.z-zwaara-bg {
+  width: 500px;
+  height: 500px;
+}
+
+.z-business-prov {
+  width: 500px;
+  height: 500px;
+}
+
+.z-faq-bg {
+  content: "";
+  background: url(https://sanar-assets.com/images/static/new-theme/curve.png)
+    no-repeat;
+  background-size: 100%;
+  margin-left: 60px;
+}
+
+.service-img {
+  z-index: 12;
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 80px;
+  top: 8px;
+}
+
+.z-medical-img {
+  z-index: 12;
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 80px;
+  top: 8px;
+}
+
+.z-zwaara-bg .z-card-shadow {
+  z-index: 13;
+  background: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  bottom: 70px;
+  border-radius: 50px;
+  padding: 30px;
+  width: 90%;
+  box-shadow: 0 0px 10px 0 rgba(0, 0, 0, 0.1);
+  left: 25px;
+}
+
+.z-business-prov .z-card-shadow {
+  z-index: 13;
+  background: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  bottom: 70px;
+  border-radius: 50px;
+  padding: 30px;
+  width: 90%;
+  box-shadow: 0 0px 10px 0 rgba(0, 0, 0, 0.1);
+  left: 25px;
+}
+
+.z-app-stores {
+  justify-content: center;
+  margin-top: 20px;
+  display: flex;
+}
+
+.z-service-btn-primary {
+  height: 40px;
+  margin-left: 4px;
+  width: 230px;
+}
+
+.z-service-btn-primary p {
+  margin-top: -8px;
+  font-weight: 500;
+}
+
+.z-service-tit {
+  margin-bottom: 20px;
+  text-align: left;
+  font-weight: 700;
+}
+
+.z-service-card p {
+  font-weight: 400;
+  color: #474554;
+}
+
+.z-service-card .z-card-shadow strong {
+  font-size: 22px;
+  margin-left: 20px;
+}
+
+.z-service-card .z-card-shadow p {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.z-service-card .z-card-shadow:first-of-type {
+  margin-top: 30px;
+  height: 100px;
+  border-radius: 10px;
+}
+
+.z-service-card .z-card-shadow.active {
+  background-color: #e9f6fb;
+  border-color: #45b5e4;
+}
+
+.z-service-card .z-card-shadow {
+  border-left: 3px solid #d5d4dd;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  margin-bottom: 30px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: #f7f7f7;
+  cursor: pointer;
+}
+
+/* .......................... Home Join us............................ */
+
+.z-join-us-bg {
+  background-color: #f7e9ec;
+
+  /* display: block; */
+  /* height: 400px; */
+  text-align: center;
+  width: 100%;
+  margin-bottom: 80px;
+  /* margin-top: 120px; */
+  padding: 43px;
+}
+
+.z-join-plain {
+  background: #fff;
+  color: #26a9e0;
+  width: 25%;
+  border: 1px solid;
+}
+
+.z-join-btn-lg {
+  padding: 0 25px;
+  font-size: 16px;
+  line-height: 10px;
+  height: 50px;
+  border-radius: 10px;
+  margin-right: 25px;
+}
+
+.z-join-btn-lg i {
+  margin-right: 10px;
+}
+
+.z-join-plain:hover {
+  background-color: #003084;
+  color: #fff;
+}
+
+/* ...................... Virtual Consultation Popup CSS......................... */
+
+.z-row {
+  flex-wrap: wrap;
+}
+
+.z-clinic-card {
+  width: 600px;
+}
+
+.z-header-modal {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dialog-btn-close {
+  cursor: pointer;
+  position: absolute;
+  right: -70px;
+  top: 0;
+  background: white;
+  border: none;
+  border-radius: 15px;
+  height: 15px;
+  line-height: 30px;
+  font-size: 20px;
+}
+
+.z-modalheader {
+  height: 80px;
+  scroll-behavior: auto;
+  background-color: white;
+  border-bottom: none;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #26a9e0;
+}
+
+.z-eclinic {
+  display: flex;
+  align-items: center;
+  width: 94px;
+  justify-content: space-around;
+}
+
+.z-progress {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  margin-left: 450px;
+  margin-top: 33px;
+}
+
+.z-progress p {
+  color: black;
+  margin-top: 0px;
+  margin-right: 0px;
+}
+
+.z-clinic-btn {
+  cursor: pointer;
+  position: fixed;
+  background: #fff;
+  border: none;
+  border-radius: 15px;
+  width: 51px;
+  height: 51px;
+  line-height: 30px;
+  font-size: 20px;
+  margin-top: -30px;
+  margin-left: 900px;
+}
+
+.z-clinic-btn i {
+  appearance: none;
+  color: #000;
+  vertical-align: text-top;
+  border: 2px solid #000;
+  padding: 8px;
+  border-radius: 50%;
+}
+
+/* .z-clinic-btn{
+  top: 40px;
+  right: 40px;
+} */
+
+.e-clinic-title {
+  margin-top: 33px;
+}
+
+.z-progress span {
+  color: #4fe765;
+  margin-right: 5px;
+  width: 220px;
+  position: absolute;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.z-prog-step {
+  margin-left: 46px;
+  font-weight: 400;
+}
+
+.z-prog-bar {
+  background-color: #dde0e6;
+  height: 4px;
+  border-radius: 10px;
+  width: 105px;
+  margin-left: 200px;
+  margin-top: 3px;
+}
+
+.z-prog-bar-per {
+  background-image: linear-gradient(to right, #4fe765, #26a9e0);
+  height: 4px;
+  border-radius: 10px;
+}
+
+.z-modal-search {
+  text-align: center;
+  width: 280px;
+  margin-left: 420px;
+}
+
+.z-pos-rel {
+  position: relative;
+  margin-top: -32px;
+  margin-left: 50px;
+  width: 300px;
+  padding-left: 70px;
+}
+
+.z-form-icon {
+  position: absolute;
+  right: 15px;
+  top: 12px;
+  pointer-events: none;
+  cursor: pointer;
+  color: black;
+  font-size: 16px;
+}
+
+.z-form-control-sm {
+  height: 40px;
+  line-height: 40px;
+  font-size: 14px !important;
+  border: 1px solid #898b9f;
+  padding: 10px;
+  font-weight: 400 !important;
+}
+
+.z-clinic-card-list {
+  display: flex;
+  flex-wrap: wrap;
+  /* padding-top: 10px; */
+}
+.z-clinic-card-listt li {
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.08); */
+  border-radius: 10px;
+  padding: 0;
+  cursor: pointer;
+  background-color: #fff;
+  border: none;
+  width: 45%;
+}
+.z-clinic-card-list li {
+  min-height: 200px;
+  /* position: relative; */
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: #fff;
+  transition: 0.3s;
+  padding: 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  border: none;
+  line-height: normal;
+  width: calc(100% / 2 - (1 - 1 / 2) * 20px);
+  margin: 20px 10px 0 0;
+  overflow: hidden;
+  display: flex;
+}
+
+.z-clinic-card-listt li figure {
+  /* width: 100px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #EAF7FC; */
+  margin: 10px 0 10px 10px;
+}
+
+.z-clinic-img {
+  width: 200px;
+  height: 260px;
+  border-radius: 10px;
+  background-position: 77% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.each_line_indicator-bg {
+  background-color: #898b9f;
+}
+
+.z-clinic-card-list li figure img {
+  transition: all 0.6s ease-in-out;
+  width: 110px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.z-clinic-det {
+  width: 100%;
+  padding: 15px 13px;
+  /* margin-left: 120px; */
+  /* margin-top: -198px; */
+}
+
+.z-clinic-det-tit {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* padding: 0 2rem; */
+  /* align-items: center; */
+  /* width: 27rem; */
+  height: 100%;
+}
+
+.btn-conti {
+  border: none;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+  /* color: #FFF; */
+  width: 100%;
+  padding: 1rem;
+  border-radius: 6px;
+  margin-top: 2rem;
+}
+
+/* .z-clinic-card-list h6{
+  margin-bottom: 15px;
+  font-weight: 700;
+  width: 70%;
+  word-break: break-word;
+} */
+
+.z-clinic-arrow {
+  font-size: 10px;
+  font-weight: 600;
+  color: #26a9e0;
+  cursor: pointer;
+  position: absolute;
+  right: 10px;
+  bottom: 12px;
+}
+
+.z-clinic-arrow i {
+  vertical-align: middle;
+  margin-left: 3px;
+  font-size: 15px;
+  background: #eaf7fc;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  display: inline-block;
+}
+
+/* ........................ Browser Telemedicine CSS....................... */
+
+.z-browser-header {
+  padding: 20px 0;
+  margin-top: 80px;
+}
+
+.z-browser-header .z-btn-back {
+  margin-bottom: 0;
+  display: flex;
+  font-size: 18px;
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  margin: 0 0 20px;
+  line-height: 20px;
+  vertical-align: middle;
+  background: transparent;
+  margin-right: 15px;
+  color: black;
+  font-weight: 500;
+}
+
+.z-btn-back i {
+  vertical-align: middle;
+  font-size: 20px;
+  font-weight: 600;
+  margin-right: 16px;
+}
+
+.z-srch-field {
+  width: 450px;
+  position: relative;
+  margin-right: 30px;
+  margin-left: 100px;
+  margin-top: -48px;
+}
+
+.z-form-icon-left {
+  right: auto;
+  left: 15px;
+}
+
+.z-form-icon {
+  position: absolute;
+  top: 12px;
+  pointer-events: none;
+  cursor: pointer;
+  color: black;
+  font-size: 16px;
+}
+
+.horizontal-calendar {
+  /* width: 500px; */
+  box-sizing: border-box;
+  user-select: none;
+  display: flex;
+  /* margin-left: 560px; */
+  /* margin-top: -46px; */
+  justify-content: flex-end;
+}
+
+.z-date-list {
+  position: relative;
+  text-align: left;
+  overflow: hidden;
+  overflow-x: auto;
+}
+
+.z-date-list-scroll {
+  position: relative;
+  transition: transform 0.3s ease-in-out;
+  transform: translateX(0);
+  display: flex;
+}
+
+.horizontal-calendar .z-date-item {
+  position: relative;
+  width: 50px;
+  padding: 0;
+  line-height: normal;
+  font-size: 11px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 5px;
+  flex-shrink: 0;
+  font-weight: 500;
+  margin: 0 5px;
+}
+
+.horizontal-calendar .z-today {
+  display: block;
+  /* background: #FFF;
+  color: #26A9E0; */
+  width: 100%;
+  margin-bottom: 5px;
+  /* font-weight: 700; */
+}
+
+.horizontal-calendar .z-date-item-date {
+  /* background: #26A9E0; */
+  width: 24px;
+  line-height: 24px;
+  border-radius: 3px;
+  /* color: #FFF; */
+  margin: auto;
+}
+
+.horizontal-calendar .z-date-item-day {
+  /* color: #7F7F7F; */
+  /* text-transform: uppercase; */
+  /* font-weight: 700; */
+  margin-bottom: 5px;
+  /* margin-top: 5px; */
+}
+
+/* .horizontal-calendar .z-date-item-date{
+  color: #7F7F7F;
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 24px;
+} */
+
+.z-date-picker {
+  position: relative;
+  border: 1px solid #af2245;
+  border-radius: 5px;
+  /* padding: 4px 12px; */
+  background-color: white;
+}
+.z-date-picker i {
+  position: absolute;
+  left: 40px;
+}
+.custom-input {
+  width: 100%;
+  padding: 4px 0px 0 40px;
+  height: 30px;
+  /* box-shadow: 0 0 2px #0074d9; */
+}
+
+.custom-input:focus {
+  outline: none;
+  border: 1px solid #0c8af8;
+  box-shadow: 0 0 10px 2px #0074d9;
+}
+.z-cal {
+  position: absolute;
+  margin-left: -30px;
+  margin-top: 5px;
+  font-size: 20px;
+  z-index: 1;
+}
+
+.z-doc-prog {
+  margin-top: 30px;
+}
+
+.z-doc-progress {
+  margin-left: 4px;
+}
+
+.z-doc-progress span {
+  color: #4fe765;
+  width: 220px;
+  position: absolute;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: -10px;
+}
+
+.z-doc-prog-bar {
+  width: 1040px;
+  margin-left: 100px;
+}
+
+.z-result {
+  padding: 20px 0;
+}
+
+.z-filter {
+  border-radius: 10px;
+  background-color: #f4f9ff;
+  padding: 20px;
+}
+
+.z-filter-title {
+  margin-bottom: 20px;
+  text-align: left;
+  font-weight: 700;
+}
+
+.z-filter-list {
+  margin: 0 10px;
+  padding: 20px;
+}
+
+.z-primary-title {
+  color: #26a9e0;
+}
+
+.form-check-input {
+  height: 20px;
+  width: 20px;
+}
+
+.form-check-label {
+  margin-left: 10px;
+  margin-top: 2px;
+  /* font-size: 16px;
+  font-weight: 400;
+  font-family: 'Times New Roman', Times, serif; */
+}
+
+.form-check-input:checked {
+  background-color: #af2245;
+  border-color: #af2245;
+}
+.form-check-input:focus {
+  border-color: #af2245;
+  outline: 0;
+  box-shadow: none;
+}
+.z-doctor-card-list li {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #dde0e6;
+  transition: 0.3s;
+  font-size: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.z-card-list-box {
+  display: flex;
+  position: relative;
+}
+
+.z-doc-avtar-lg {
+  width: 100px;
+  height: 100px;
+}
+
+.z-doc-avtar {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: #dfefff;
+  border-radius: 8px;
+  position: relative;
+  text-align: center;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid transparent;
+}
+
+.z-doc-img-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.z-doctor-details {
+  display: flex;
+  position: relative;
+  width: calc(100% - 100px);
+  padding-left: 15px;
+}
+
+.z-doctor-details-data {
+  width: 75%;
+  border-right: 1px dashed #9b9b9b;
+  padding-right: 20px;
+}
+
+.z-doctor-details-data h6 {
+  color: #26a9e0;
+  font-weight: 700;
+}
+
+.z-desig {
+  margin-top: 3px;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 2;
+}
+
+.z-split p {
+  color: #9b9b9b;
+  line-height: 20px;
+  font-size: 13px;
+}
+
+.z-split p i {
+  font-size: 20px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.z-dark {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.z-doctor-price {
+  width: 25%;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.z-price-tag {
+  word-break: break-word;
+  color: #26a9e0;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.z-time-carousel-slide {
+  position: relative;
+}
+
+.z-time-carousel {
+  margin-top: 16px;
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  scroll-snap-type: mandatory;
+  gap: 2px;
+}
+
+.z-time-carousel li {
+  transition: left 0.4s cubic-bezier(0.47, 0.13, 0.15, 0.89);
+  border: none;
+  margin-left: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: -24px;
+  margin-top: 5px;
+  margin-bottom: -15px;
+}
+
+.z-time-carousel li p:hover {
+  background-color: #26a9e0;
+}
+
+.z-time-slot {
+  padding: 5px 14px;
+  border-radius: 4px;
+  border: 1px solid #26a9e0;
+  cursor: pointer;
+  font-weight: 500;
+  width: 80px;
+  margin: 11px 5px 10px 0;
+}
+
+.z-time-prev {
+  margin-left: 0;
+  position: absolute;
+  height: 30px;
+  top: 53px;
+  background: #e0edfa;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 34px;
+  border: 1px solid #26a9e0;
+}
+
+.z-time-next {
+  margin-left: 678px;
+  position: absolute;
+  height: 30px;
+  top: 53px;
+  background: #e0edfa;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 34px;
+  border: 1px solid #26a9e0;
+}
+
+/* .....................Review Page CSS......................... */
+
+.z-primary-light {
+  background-color: #eaf7fc;
+  padding-bottom: 20px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.z-fav-doc {
+  color: red;
+  position: absolute;
+  right: 30px;
+  cursor: pointer;
+  z-index: 9;
+  font-size: 15px;
+  padding-top: 20px;
+}
+
+.z-doc-info {
+  display: flex;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.z-doc-avtar {
+  width: 60px;
+  height: 60px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: #dfefff;
+  border-radius: 4px;
+  position: relative;
+  text-align: center;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid transparent;
+}
+.z-doc-img-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.z-doc-tit {
+  width: 135px;
+  padding-left: 15px;
+}
+
+.z-doc-tit h6 {
+  font-size: 14px;
+  color: #002a56;
+  font-weight: 700;
+}
+
+.z-doc-exp {
+  padding-top: 5px;
+  padding-left: 20px;
+  font-weight: 700;
+}
+
+.z-tab-fill {
+  position: relative;
+  display: flex;
+  padding-top: 20px;
+}
+
+.z-tab-fill li {
+  background-color: #eaf7fc;
+  border-radius: 10px 10px 0 0;
+  padding: 15px 30px;
+  color: #26a9e0;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.z-tab-cont {
+  background-color: #eaf7fc;
+  border-radius: 0 10px 10px 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.z-about {
+  padding-bottom: 20px;
+}
+
+.z-tab-cont h6 {
+  color: #002a56;
+  font-weight: 700;
+}
+
+.z-unorder-list li {
+  list-style: disc;
+  margin: 0 0 10px 16px;
+  color: #000000;
+  font-weight: 600;
+}
+
+.z-tit {
+  color: #26a9e0;
+  margin-bottom: 20px;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 700;
+  padding-top: 5px;
+}
+
+.z-ptn-details {
+  padding-left: 25px;
+}
+
+.z-review-header {
+  margin-top: -5px;
+}
+
+.z-patient-card {
+  border-radius: 10px;
+  border: 1px solid #e6e6e6;
+  background-color: #fff;
+  overflow: hidden;
+  color: gainsboro;
+  padding: 20px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.z-slct-ptn {
+  display: flex;
+  justify-content: space-between;
+  color: #26a9e0;
+  margin-bottom: 15px;
+  align-items: center;
+}
+
+.z-slct-ptn span {
+  color: #26a9e0;
+  font-weight: 600;
+}
+
+.z-slct-ptn button {
+  background-color: #26a9e0;
+  border: none;
+  color: #fff;
+  padding: 7px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+.z-slct-ptn button i {
+  border: 1px solid #fff;
+  border-radius: 50%;
+  padding: 5px;
+  font-size: 10px;
+  font-weight: 600;
+  margin-right: 6px;
+}
+
+.modal-header {
+  text-decoration: none;
+}
+
+/* ...................... Service Location Popup......................... */
+
+.sps-dialog {
+  z-index: 102;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  background: rgba(0, 0, 0, 0.35);
+  margin: auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sps-dialog-overflow-unset {
+  overflow: unset;
+}
+
+.sps-map {
+  padding: 0px;
+  height: 100%;
+}
+
+.curr-loc-align {
+  text-align: end;
+}
+
+.sps-dialog-body {
+  background-color: #fff;
+  transition: opacity 0.3s linear, right 0.3s ease-out;
+  box-shadow: 0 0 calc(var(--sa-pixel) * 5) rgb(0 0 0 / 15%);
+  position: relative;
+  width: 50%;
+  z-index: 102;
+  margin: auto;
+  border-radius: 10px;
+  max-height: 90vh;
+}
+
+.sps-dialog-close {
+  cursor: pointer;
+  position: absolute;
+
+  background: #fff;
+  border: none;
+  border-radius: 15px;
+  width: 51px;
+  height: 51px;
+  line-height: 30px;
+  font-size: 20px;
+
+  right: 5px;
+  top: 5px;
+  z-index: 1;
+}
+
+.sps-dialog-close i {
+  appearance: none;
+  color: #ff2626;
+  vertical-align: top;
+  border: 2px solid #ff2626;
+  padding: 1px;
+  font-size: 12px;
+  border-radius: 100px;
+}
+
+.sps-loc-map {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  border-radius: 10px;
+}
+
+.sps-mapboxgl-map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-radius: 8px 0 0 8px;
+
+  font: 12px/20px Helvetica Neue, Arial, Helvetica, sans-serif;
+  overflow: hidden;
+}
+
+.sps-loc-header {
+  position: absolute;
+  top: 68px;
+  left: 0;
+  right: 0;
+  z-index: 99;
+  display: flex;
+  padding: 0 20px;
+}
+
+.sps-loc-crnt-btn {
+  background-color: #fff;
+  color: #26a9e0;
+  width: 50px;
+  position: absolute;
+  right: 20px;
+  font-size: 18px;
+  outline: none;
+}
+
+:is(.sps-btn, .sps-loc-crnt-btn, .icon-current-location) {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: 0 15px;
+  line-height: 40px;
+  height: 40px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.8s;
+}
+
+.sps-loc-field {
+  width: calc(100% - 65px);
+  position: relative;
+}
+
+.sps-sprite::before {
+  content: "";
+  background: url(https://static.sanar.sa/images/sprite/sprite-new.png)
+    no-repeat;
+  display: inline-block;
+  background-size: 600px;
+}
+
+.sps-search::before {
+  background-position: -354px -289px;
+  width: 29px;
+  height: 31px;
+  position: absolute;
+  left: 10px;
+  top: 6px;
+}
+
+.sps-form-control {
+  background: #fff;
+  height: 40px;
+  line-height: 40px;
+  color: #000;
+  border: 1px solid #aca9bb;
+  padding: 0 35px 0 45px;
+  width: 100%;
+  border-radius: 6px;
+  box-sizing: border-box;
+  appearance: none;
+  white-space: normal;
+  text-overflow: ellipsis;
+}
+
+.sps-form-icon {
+  position: absolute;
+  right: 15px;
+  top: 12px;
+  pointer-events: none;
+  cursor: pointer;
+  color: #000;
+  font-size: 16px;
+}
+
+.sps-mapboxgl-canary {
+  background-color: salmon;
+}
+
+.sps-mapboxgl-canvas-container.sps-mapboxgl-touch-zoom-rotate.sps-mapboxgl-touch-drag-pan,
+.sps-mapboxgl-canvas-container.sps-mapboxgl-touch-zoom-rotate.sps-mapboxgl-touch-drag-pan.sps-mapboxgl-canvas {
+  touch-action: none;
+}
+
+.sps-mapboxgl-canvas-container.sps-mapboxgl-interactive,
+.sps-mapboxgl-ctrl-group button.sps-mapboxgl-ctrl-compass {
+  cursor: grab;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.sps-mapboxgl-canvas {
+  height: 100% !important;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.sps-mapboxgl-ctrl-top-left {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.sps-mapboxgl-ctrl-top-right {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.mapboxgl-ctrl-bottom-left {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  display: none;
+}
+
+.mapboxgl-ctrl-bottom-left .sps-mapboxgl-ctrl {
+  margin: 0 0 10px 10px;
+  float: left;
+}
+
+.sps-mapboxgl-ctrl {
+  clear: both;
+  pointer-events: auto;
+  transform: translate(0);
+}
+
+.sps-mapboxgl-ctrl-bottom-right {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  display: none;
+}
+
+.sps-mapboxgl-ctrl-bottom-right .sps-mapboxgl-ctrl {
+  float: right;
+}
+
+.sps-mapboxgl-ctrl-attrib-button {
+  display: none;
+  cursor: pointer;
+  position: absolute;
+  background-color: rgb(255 255 255/50%);
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+  border-radius: 12px;
+  outline: none;
+  top: 0;
+  right: 0;
+  border: 0;
+}
+
+.sps-mapboxgl-ctrl button .sps-mapboxgl-ctrl-icon {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+
+.sps-mapboxgl-ctrl-attrib a {
+  color: rgb(0 0 0/75%);
+  text-decoration: none;
+}
+
+.sps-mapboxgl-ctrl-attrib .sps-mapbox-improve-map {
+  font-weight: 700;
+  margin-left: 2px;
+}
+
+.sps-mapboxgl-ctrl-attrib a {
+  color: rgb(0 0 0/75%);
+  text-decoration: none;
+}
+
+.sps-my-loct {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  font-size: 40px;
+  color: #000;
+}
+
+.sps-loc-footer {
+  background: #fff;
+  position: absolute;
+  border-radius: 5px 5px 0 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px;
+  max-height: 50vh;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.sps-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: calc(var(--sa-pixel) * -5);
+  margin-left: calc(var(--sa-pixel) * -5);
+}
+
+.sps-d-f-sbetween {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sps-col12 {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+.sps-loc-footer .sps-loc-type {
+  position: relative;
+  padding-left: 40px;
+  width: 154px;
+}
+
+.sps-loc-footer .loc-loc-type {
+  position: relative;
+  padding-left: 40px;
+  width: 170px;
+}
+
+.sps-loc-footer .sps-loc-type::before {
+  left: 0;
+}
+
+.sps-loc-map-ico::before {
+  background-position: -106px -154px !important;
+  background-size: 130px;
+  width: 26px;
+  height: 24px;
+  position: absolute;
+  left: 8px;
+  top: 0px;
+}
+
+.sps-mt10 {
+  margin-top: 10px;
+}
+
+.sps-lcn-card {
+  background: #edf8ff;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.sps-d-f-sbetween {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sps-mr5 {
+  margin-right: 5px;
+}
+
+.sps-success-text {
+  color: #4fe765;
+}
+
+.sps-save-lcn-text {
+  color: #26a9e0;
+  cursor: pointer;
+}
+
+.sps-lcn-card p {
+  color: #474554;
+  font-weight: 400;
+  font-size: small;
+  margin: calc(var(--sa-pixel) * 2 + 1px) 0;
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+.sps-ftr-res-btn {
+  margin-top: calc(var(--sa-pixel) * 5 + 5px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sps-btn-view {
+  color: #26a9e0;
+  border-color: #26a9e0;
+  outline: solid;
+  border: var(--sa-border-solid) var(--sa-transparent);
+  display: block;
+  width: 50%;
+  padding: 0px 15px;
+  line-height: 0px;
+  /* height: 40px; */
+  /* margin-top: 20px; */
+  font-weight: 400;
+  text-align: center;
+}
+
+.sps-btn-confirm {
+  width: 48%;
+  padding: 0px 15px;
+  line-height: 0px;
+  /* height: 45px; */
+  /* margin-top: 20px; */
+}
+
+.location-btn-confirm {
+  width: 100%;
+  padding: 0px 15px;
+  line-height: 0px;
+  height: 45px;
+  margin-top: 20px;
+  margin-right: 130px;
+}
+
+.btn-conf-loc {
+  color: #fff;
+}
+/* prashant code start location  */
+.sps-loc-header-search-icon {
+  width: 20px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 10px;
+  margin: auto;
+}
+
+.sa-services {
+  margin-left: 100px;
+}
+
+.form-controll-news {
+  font-size: 16px !important ;
+  background-color: #ffffff !important;
+  padding: 24.5px 10px !important;
+  /* border-radius: 15px !important
+  ; */
+  border-top-left-radius: 11px !important;
+  border-bottom-left-radius: 11px !important;
+}
+
+/* #vertualCorporate .modal-{
+  width: 70rem;
+} */
+/* #vertualCorporate .modal-content{
+  width: 70rem;
+} */
+/* .vertualConsultationn .modal-content{
+  width: 120rem !important;
+ }
+ .vertualConsultationn .modal-dialog{
+  margin: -11px !important;
+ } */
+
+.vertualConsultationn .modal-dialog {
+  max-width: 100%;
+  margin: 1.75rem auto;
+}
+.vertualConsultationn .modal-header {
+  border: none !important;
+}
+
+/* .line_indicator_container {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.each_line_indicator {
+  width: 20px;
+  height: 5px;
+  background-color: #000;
+  margin-right: 5px;
+}
+
+.each_line_indicator.active {
+  background-color: #007bff;
+} */
+/* Custom scrollbar for the modal body */
+/* Custom scrollbar for the modal body */
+/* Custom scrollbar for the modal body */
+.vertualConsultationn .z-clinic-card-listt {
+  overflow-y: auto; 
+  overflow-x: hidden;
+  max-height: 70vh; 
+  /* padding-right: 1rem;  */
+}
+.consul-step{
+  margin: 25px 15px;
+}
+
+/* Customize the scrollbar */
+.vertualConsultationn .z-clinic-card-listt::-webkit-scrollbar {
+  width: 12px;
+}
+
+.vertualConsultationn .z-clinic-card-listt::-webkit-scrollbar-thumb {
+  background-color: #af2245;
+  /* border-radius: 10px;
+  width: 15px; */
+  height: 30%;
+  cursor: pointer;
+}
+
+.vertualConsultationn .z-clinic-card-listt::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+  border-radius: 10px;
+}
+
+.mapboxgl-ctrl-bottom-right {
+  display: none;
+}
+
+
+.virtual-card{
+  display: flex;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  margin:17px 8px;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.z-form-control-smm{
+  font-size: 15px !important;
+  font-weight: 500 !important;
+  color: #999999 !important;
+}
+
+@media (min-width: 576px) {
+  .vertualConsultationn .modal-dialog {
+    max-width: 90%;
+
+  }
+  .z-services-list {
+    width: 100%;
+  }
+ 
+  
+ 
+
+}
+
+@media (max-width: 576px) {
+  .zw_home_slider .banner-rights {
+    position: absolute;
+    max-width: 255px;
+    right: 10px;
+    bottom: 0px;
+  }
+  .email-subscribe {
+    flex-direction: column;
+    gap: 1.5rem;
+    width: 100% !important;
+  }
+  .email-input {
+    width: 100% !important;
+    border-radius: 11px !important;
+  }
+  .btn-joinus-subs{
+    border-radius: 11px !important;
+  }
+  .curr-loc-align {
+    text-align: left;
+    margin-left: 1rem;
+  }
+  .z-services-list li {
+    width: 135px;
+  }
+}
+
+@media (min-width: 768px) {
+  .vertualConsultationn .modal-dialog {
+    max-width: 70%;
+  }
+  .z-services-list {
+    width: 100%;
+  }
+  .zw_home_slider .banner-left h1 {
+    max-width: 490px;
+  }
+  .zw_home_slider .banner-left p {
+    width: 470px;
+    margin: 17px 0;
+  }
+  .zw_home_slider .banner-left h1 {
+    font-size: 44px;
+  }
+  
+}
+
+@media (max-width: 767px) {
+  .zw_home_slider .banner-rights {
+    display: none;
+  }
+  .zw_home_slider .banner-left h1 {
+    font-size: 26px;
+  }
+  .zw_home_slider .banner-left h1{
+    line-height: 35px;
+  }
+  .sps-dialog-body {
+    width: 95%;
+  }
+}
+
+@media (max-width: 992px) {
+  .zw_home_slider .banner-rights {
+    max-width: 245px !important;
+  }
+ 
+  
+}
+
+@media (min-width: 992px) {
+  .vertualConsultationn .modal-dialog {
+    max-width: 80%;
+  }
+  .z-services-list li {
+    height: auto;
+  }
+  .z-services-list li {
+    height: auto;
+  }
+  .zw_home_slider .banner-left h1 {
+    max-width: 640px;
+  }
+  .zw_home_slider .banner-left p {
+    width: 620px;
+    margin: 0 0;
+  }
+  
+}
+@media (max-width: 1024px) {
+  .sa-services {
+    margin: 0 20px;
+  }
+  .z-services-list li {
+    height: auto;
+  }
+  .z-services-list {
+    justify-content: space-evenly;
+  }
+  .z-clinic-card-listt li {
+    width: 96%;
+    box-sizing: border-box;
+  }
+}
+
+@media (max-width: 1200px) {
+  .zw_home_slider .banner-rights {
+    position: absolute;
+    max-width: 278px;
+    right: 20px;
+    bottom: 0px;
+  }
+}
+@media (max-width: 640px) {
+  .zw_joinus {
+    padding-top: 40px;
+  }
+  .z-join-us-bg{
+    margin-bottom: 40px;
+  }
+  .z-join-us-bg {
+    padding: 40px 15px;
+  }
+}
+
+@media (max-width: 600px) {
+
+  .virtual-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    /* margin: 10px; */
+    padding: 10px;
+    border-radius: 8px;
+  }
+
+  .virtual-card .z-clinic-det-tit{
+    align-items: center;
+  }
+  .vertualConsultationn .z-clinic-card-listt::-webkit-scrollbar {
+    width: 14px;
+  }
+  .consul-step {
+    margin: 1px 1px;
+}
+}

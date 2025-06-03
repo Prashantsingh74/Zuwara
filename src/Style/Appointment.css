@@ -1,0 +1,547 @@
+/* .container {
+  width: 1160px;
+  margin: 0 auto;
+  max-width: 1160px;
+}
+.content {
+  box-sizing: border-box;
+  padding: 2px * 15 0 0;
+  width: 2px * 50;
+}
+.btn-back {
+  display: inline-block;
+  font-size: 2px * 9;
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  margin: 0 0 2px * 10;
+  line-height: zpx * 10;
+  vertical-align: middle;
+  background: transparent;
+  margin-right: 15px;
+  color: #000;
+}
+
+.btn-back i {
+    vertical-align: middle;
+    font-size: 2px* 14;
+    font-weight: 300;
+    margin-right: 15px;
+}
+
+.appoint-header {
+    margin-bottom: 2px* 10;
+}
+.d-f-sbetween, .ftr-res-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.appoint-header .mob-header {
+    color:#808080;
+    font-weight: normal;
+}
+h4, .h4 {
+    font-size:2px* 9;
+}
+h1, h2, h3, h4, h5, h6, h1, .h2, h3, h4, h5, .h6 {
+    margin: 0;
+    
+}
+.select-field {
+    display: flex;
+    align-items: center;
+}
+
+.btn_bg{
+    background-color: aqua;
+} */
+
+.reporticonapp {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.bg-report-app {
+  background-color: #f0d5db;
+}
+
+a {
+  text-decoration: none;
+}
+
+.appiontments-YKE {
+  margin-top: 90px;
+}
+
+.appiontments-YKE .auto-group-uzrn-4Ha {
+  /* padding: 2.4rem 13rem 3.7rem 10rem; */
+}
+
+.appiontments-YKE .auto-group-uzrn-4Ha .auto-group-sqbn-mSt {
+  margin-bottom: 4.5999rem;
+  height: 6.5001rem;
+}
+
+.appiontments-YKE .auto-group-uzrn-4Ha .auto-group-fzyn-1Gg {
+  /* margin: 0rem 115.1rem 5.6rem 0rem; */
+  display: flex;
+}
+
+.appiontments-YKE
+  .auto-group-uzrn-4Ha
+  .auto-group-fzyn-1Gg
+  .group-1261154072-jTa {
+  margin-right: 15px;
+  width: 2.7598rem;
+}
+
+.appiontments-YKE .auto-group-uzrn-4Ha .group-1261154802-aUC {
+  margin-bottom: 2.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.appiontments-YKE .auto-group-uzrn-4Ha .group-1261154802-aUC .appointment-7yv {
+  /* margin-right: 80rem; */
+  /* margin-bottom: 0; */
+}
+
+.appointment-7y {
+  /* margin-right: 86rem; */
+}
+
+/* .dropdown-icon-appoint {
+  position: relative;
+  left: 10rem;
+  top: -2.5rem;
+}
+ */
+.appiontments-YKE .auto-group-uzrn-4Ha .auto-group-4het-P4G {
+  /* display: flex; */
+}
+
+.appiontments-YKE
+  .auto-group-uzrn-4Ha
+  .auto-group-4het-P4G
+  .group-1261154801-LEQ {
+  margin-right: 2.4rem;
+  padding: 1.8rem 1.9rem;
+  /* width: 34.8rem;
+  height: 24.9rem; */
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  border-radius: 0.5rem;
+}
+
+.appiontments-YKE
+  .auto-group-uzrn-4Ha
+  .auto-group-4het-P4G
+  .group-1261154801-LEQ
+  .group-1261154793-TZv {
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.auto-group-mqye-CXW {
+  padding: 1.6rem 8.8rem 1.5rem 3.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+
+.auto-group-mqye-CXW .group-1261154899-8RA {
+  margin: 0.165rem 3.143rem 0rem 0rem;
+  width: 2.4571rem;
+}
+
+.appiontments-YKE
+  .auto-group-uzrn-4Ha
+  .auto-group-4het-P4G
+  .auto-group-pzzj-Tdn {
+  /* width: 100%; */
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+
+.appiontments-YKE
+  .auto-group-uzrn-4Ha
+  .auto-group-4het-P4G
+  .auto-group-pzzj-Tdn
+  .auto-group-vvxk-nvx {
+  margin-bottom: 1rem;
+  /* height: 5.3rem; */
+  /* display: flex; */
+  column-gap: 1rem;
+}
+
+.select-drop-mod {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.appiontments-YKE
+  .auto-group-uzrn-4Ha
+  .auto-group-4het-P4G
+  .auto-group-pzzj-Tdn
+  .auto-group-vvxk-nvx
+  .group-1261154912-vnG {
+  /* width: 11rem; */
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-size: 1.8rem;
+  font-weight: 500;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #af2245;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  border-radius: 0.8rem;
+}
+
+.group-1261154912-vnGg {
+  border: solid 0.1rem #af2245;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  border-radius: 0.8rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  max-width: 113px !important;
+  margin: 10px;
+  padding: 15px;
+}
+
+.appiontments-YKE
+  .auto-group-uzrn-4Ha
+  .auto-group-4het-P4G
+  .auto-group-pzzj-Tdn
+  .auto-group-vvxk-nvx
+  .group-1261154912-vnG.active {
+  background-color: #af2245;
+  color: #ffffff;
+}
+
+.view-reports {
+  display: flex;
+  justify-content: space-between;
+}
+
+.group-1261154912-vnGg.active {
+  background-color: #af2245;
+  color: #ffffff;
+}
+
+.selecct-patients {
+  display: flex;
+  justify-content: end;
+}
+
+.upcoming {
+  justify-content: end;
+}
+
+.appiontments-YKE
+  .auto-group-uzrn-4Ha
+  .auto-group-4het-P4G
+  .auto-group-pzzj-Tdn
+  .rectangle-39641-w56 {
+  width: 100%;
+  min-height: 23rem;
+  /* height: 27.9rem; */
+  background-color: rgba(175, 34, 69, 0.1000000015);
+}
+
+/* Prescription */
+.auto-group-zydn-6se {
+  padding: 3.8rem 8.4rem 7.6rem 7.4rem;
+  width: 100%;
+  height: 27.9rem;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  flex-shrink: 0;
+}
+
+.found-2YL {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.group-1261154799-R1W {
+  height: 40px;
+  padding-left: 5px;
+}
+
+.head-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* report */
+
+.search-box {
+  width: 100%;
+  height: 40%;
+  background-color: #ffffff;
+  padding-left: 50px;
+  border-radius: 0.6rem;
+}
+
+.vector-1vL {
+  width: 25px;
+  position: relative;
+  top: -26px;
+  transform: translateY(-50%);
+  left: 10px;
+}
+
+.auto-6se {
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  height: 18.6rem;
+  width: 100%;
+  padding: 30px 70px 25px 25px;
+}
+
+.nodata {
+  text-align: center;
+}
+
+.selectpatient {
+  font-size: 100px;
+  font-weight: 300px;
+}
+
+/*added by vaibhavi*/
+.anypast {
+  font-size: large;
+  padding-left: 50px;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.col {
+  /* Adjust padding and any other styles here */
+  margin-right: 9px;
+  padding-left: 20px;
+  /* Example padding for left side */
+}
+
+.name {
+  font-size: 18px;
+  /* Adjust font size */
+  font-weight: bold;
+  /* Adjust font weight */
+  margin-bottom: 5px;
+  /* Adjust spacing between name and category */
+}
+
+.category {
+  font-size: 16px;
+  /* Adjust font size */
+  font-weight: bold;
+  /* Adjust font weight */
+}
+
+.pastblock .row-reverse {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.logoicon {
+  width: 16x;
+  height: 16.99px;
+  padding-right: 20px;
+}
+
+#timelogo {
+  padding-left: 20px;
+}
+
+#viewreport {
+  /* padding-left: 20%; */
+  height: 44px;
+  width: 180px;
+  border: none;
+  color: #af2245;
+  background: #f1d7df;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
+
+#viwrp {
+  width: 96px;
+  height: 18px;
+  padding-left: 20px;
+}
+
+.content {
+  position: relative;
+}
+
+.left-align {
+  position: absolute;
+  left: 72%;
+  bottom: 0;
+}
+
+#Telemedicine {
+  color: #af2245;
+}
+
+@media (max-width: 1024px) {
+  /* .appiontments-YKE .auto-group-uzrn-4Ha .auto-group-4het-P4G {
+    flex-direction: column;
+    gap: 4rem;
+  } */
+  .appiontments-YKE
+    .auto-group-uzrn-4Ha
+    .auto-group-4het-P4G
+    .group-1261154801-LEQ {
+    width: 100%;
+  }
+
+  .appiontments-YKE
+    .auto-group-uzrn-4Ha
+    .auto-group-4het-P4G
+    .auto-group-pzzj-Tdn {
+    width: 100%;
+  }
+
+  .auto-group-mqye-CXW {
+    padding: 1.6rem 6rem 1.5rem 2rem;
+    /* Adjust padding for medium screens */
+  }
+
+  .auto-group-mqye-CXW .group-1261154899-8RA {
+    margin: 0.165rem 1rem 0rem 0rem;
+    /* width: 2.4571rem; */
+  }
+}
+
+.grey-color {
+  color: grey;
+}
+
+.auto-group-vvxk-nvx {
+  /* display: flex; */
+  /* flex-wrap: wrap;
+  justify-content: space-between; */
+}
+
+.group-1261154912-vnG {
+  flex: 1 1 20%;
+  margin: 0.5rem;
+  min-width: 110px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .group-1261154912-vnG {
+    flex: 1 1 45%;
+    /* Adjust to take up 45% of the width on medium screens */
+  }
+
+  .auto-group-mqye-CXW {
+    padding: 1.6rem 4rem 1.5rem 1.5rem;
+    /* Further adjust padding for small screens */
+    flex-direction: column;
+    /* Stack items vertically on small screens */
+    align-items: flex-start;
+    /* Align items to the start */
+  }
+
+  .view-reports {
+    flex-direction: column;
+  }
+
+  .selecct-patients {
+    display: flex;
+    justify-content: start;
+    /* margin-top: 13px; */
+  }
+
+  .appiontments-YKE
+    .auto-group-uzrn-4Ha
+    .auto-group-4het-P4G
+    .auto-group-pzzj-Tdn
+    .auto-group-vvxk-nvx {
+    margin-top: 14px;
+    margin-bottom: 1rem;
+    column-gap: 1rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .upcoming {
+    justify-content: center;
+  }
+  .appiontments-YKE
+    .auto-group-uzrn-4Ha
+    .auto-group-4het-P4G
+    .auto-group-pzzj-Tdn {
+    align-items: center;
+  }
+  .group-1261154799-R1W {
+    margin-top: 13px;
+  }
+  .appiontments-YKE
+    .auto-group-uzrn-4Ha
+    .auto-group-fzyn-1Gg
+    .group-1261154072-jTa {
+    margin-right: 15px;
+    width: 2.4rem;
+  }
+
+  .appiontments-YKE .auto-group-uzrn-4Ha {
+    padding: 10px 10px 15px 10px;
+  }
+
+  .appiontments-YKE .auto-group-uzrn-4Ha .group-1261154802-aUC {
+    margin-bottom: 1.4rem;
+    margin-top: 9px;
+  }
+  .appiontments-YKE .auto-group-uzrn-4Ha .auto-group-fzyn-1Gg {
+    margin-left: 4px;
+  }
+  .app-select-patient {
+    width: 100%;
+  }
+  .app-select-patient #patientcode {
+    width: 100%;
+  }
+  .group-1261154912-vnGg {
+    max-width: 164px !important;
+  }
+  .auto-6se {
+    padding: 30px 23px 25px 25px;
+  }
+}
+@media (max-width: 480px) {
+  .group-1261154912-vnG {
+    flex: 1 1 100%;
+    /* Stack buttons to take full width on small screens */
+  }
+
+  .auto-group-mqye-CXW {
+    padding: 1rem 2rem;
+    /* Minimal padding for very small screens */
+    align-items: center;
+    /* Center items for better appearance */
+  }
+  .group-1261154912-vnGg {
+    max-width: 147px !important;
+  }
+}

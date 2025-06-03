@@ -1,0 +1,533 @@
+html {
+  font-size: 62.5%;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+ul,
+li {
+  list-style: none;
+}
+input {
+  border: none;
+}
+
+/* body {
+  width: 144rem;
+} */
+.cancelation-policy-MVv {
+  /* width: 80rem; */
+  /* height: 95rem; */
+  /* position: relative;
+  overflow: hidden; */
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+
+#Cancellationpage .modal-dialog {
+  margin-left: 350px;
+}
+
+.cancelation-policy-MVv .group-182-5Rv {
+  width: 124rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 10rem;
+  top: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.cancelation-policy-MVv .group-182-5Rv .logo-oMv {
+  width: 6.7997rem;
+  height: 6.5001rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv .group-182-5Rv .auto-group-c4ww-kHA {
+  box-sizing: border-box;
+  padding: 1.2rem 0rem 0.4rem 31.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv .group-182-5Rv .auto-group-c4ww-kHA .group-10-fQ8 {
+  margin: 1.2rem 12.2rem 1.1rem 0rem;
+  height: calc(100% - 2.3rem);
+  display: flex;
+  column-gap: 4.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .group-182-5Rv
+  .auto-group-c4ww-kHA
+  .group-10-fQ8
+  .home-yQp {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .group-182-5Rv
+  .auto-group-c4ww-kHA
+  .group-10-fQ8
+  .about-HwJ {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .group-182-5Rv
+  .auto-group-c4ww-kHA
+  .group-10-fQ8
+  .join-as-provider-SJQ {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .group-182-5Rv
+  .auto-group-c4ww-kHA
+  .group-10-fQ8
+  .get-care-BFz {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv .group-182-5Rv .auto-group-c4ww-kHA .group-179-XKr {
+  margin: 0.1rem 5.7rem 0rem 0rem;
+  width: 5.6rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .group-182-5Rv
+  .auto-group-c4ww-kHA
+  .auto-group-j8ha-3oz {
+  width: 14.9rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 0.8888888889;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv .rectangle-39544-JV2 {
+  width: 144rem;
+  height: 19.2rem;
+  position: absolute;
+  left: 0;
+  top: 12.2rem;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+}
+.cancelation-policy-MVv .group-1261154093-S5S {
+  width: 85.3rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 10rem;
+  top: 14.6rem;
+  display: flex;
+  align-items: center;
+}
+.cancelation-policy-MVv .group-1261154093-S5S .group-1261154076-ZA4 {
+  margin-right: 10.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .group-1261154093-S5S
+  .group-1261154076-ZA4
+  .group-1261154072-WLC {
+  margin: 0rem 1.64rem 0.1rem 0rem;
+  width: 2.7599rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv .group-1261154093-S5S .group-1261154076-ZA4 .back-cu2 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv .group-1261154093-S5S .group-1261154073-9tx {
+  margin: 1.21rem 0rem 1.292rem 0rem;
+  height: calc(100% - 2.502rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .group-1261154093-S5S
+  .group-1261154073-9tx
+  .rectangle-39545-URS {
+  margin-right: 1.0913rem;
+  width: 15.7066rem;
+  height: 0.198rem;
+  background-color: #af2245;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .group-1261154093-S5S
+  .group-1261154073-9tx
+  .rectangle-39546-c1r {
+  margin-right: 1.0913rem;
+  width: 15.7066rem;
+  height: 0.198rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .group-1261154093-S5S
+  .group-1261154073-9tx
+  .rectangle-39547-wpp {
+  margin-right: 1.0912rem;
+  width: 15.7066rem;
+  height: 0.198rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .group-1261154093-S5S
+  .group-1261154073-9tx
+  .rectangle-39548-VLY {
+  width: 15.7066rem;
+  height: 0.198rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv .frame-37120-37A {
+  box-sizing: border-box;
+  padding: 0.8rem 2.4rem;
+  width: 45.8rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 10rem;
+  top: 21.4rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.cancelation-policy-MVv .frame-37120-37A .search-your-lab-tests-packages-Lrx {
+  margin-right: 12.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #999999;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv .frame-37120-37A .line-1-sbz {
+  margin-right: 2.2rem;
+  width: 0rem;
+  height: 3.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv .frame-37120-37A .vector-DQx {
+  margin-top: 0.1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv .group-1261154677-M1N {
+  box-sizing: border-box;
+  padding: 2rem 3.2rem;
+  width: 51.7rem;
+  height: 19.2rem;
+  position: absolute;
+  left: 10rem;
+  top: 33.8rem;
+  background: linear-gradient(
+    90.28deg,
+    rgba(7, 162, 158, 0.1000000015) 3.59%,
+    rgba(7, 162, 158, 0.1000000015) 93.25%
+  );
+}
+.cancelation-policy-MVv .group-1261154677-M1N .group-1261154676-qx8 {
+  width: 36.5rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.cancelation-policy-MVv
+  .group-1261154677-M1N
+  .group-1261154676-qx8
+  .group-1261154660-za8 {
+  margin-right: 2.4rem;
+  width: 16.7rem;
+  height: 15.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .group-1261154677-M1N
+  .group-1261154676-qx8
+  .group-1261154672-vTn {
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .group-1261154677-M1N
+  .group-1261154676-qx8
+  .group-1261154672-vTn
+  .zwaara-fgG {
+  font-size: 1.605rem;
+  font-weight: 600;
+  line-height: 1.0177711424;
+  text-transform: capitalize;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .group-1261154677-M1N
+  .group-1261154676-qx8
+  .group-1261154672-vTn
+  .laboratory-home-visit-c5i {
+  font-size: 1.0052rem;
+  font-weight: 700;
+  line-height: 1.624999917;
+  text-transform: capitalize;
+  color: #86909d;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .group-1261154677-M1N
+  .group-1261154676-qx8
+  .group-1261154672-vTn
+  .view-selected-details-LnQ {
+  font-size: 1.605rem;
+  font-weight: 600;
+  line-height: 1.0177711424;
+  text-transform: capitalize;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv .select-patient-pxU {
+  width: 11.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 66.1rem;
+  top: 38.6rem;
+  font-size: 1.605rem;
+  font-weight: 600;
+  line-height: 1.0177711424;
+  text-transform: capitalize;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.cancelation-policy-MVv .rectangle-39553-jpY {
+  width: 67.9rem;
+  height: 22.1rem;
+  position: absolute;
+  left: 66.1rem;
+  top: 42.7rem;
+  border: solid 0.1rem #111535;
+  box-sizing: border-box;
+  border-radius: 0.7rem;
+}
+.cancelation-policy-MVv .rectangle-39611-G3n {
+  width: 144rem;
+  height: 120.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(166, 166, 166, 0.6000000238);
+}
+/* .cancelation-policy-MVv .group-1261154744-3Cx {
+  width: 79.4rem;
+  height: 95.1rem;
+  position: absolute;
+  left: 32.3rem;
+  top: 12.8rem;
+} */
+.cancelation-policy-MVv .group-1261154744-3Cx .group-1261154722-y6c {
+  width: 79.4rem;
+  height: 95.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cancelation-policy-MVv
+  .group-1261154744-3Cx
+  .cancellation-and-refund-policy-i4C {
+  /* width: 34.3rem; */
+  /* height: 2.6rem; */
+  /* position: absolute;
+  left: 3.2rem;
+  top: 5rem; */
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1818181818;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+/* .cancelation-policy-MVv .group-1261154744-3Cx .group-1261154755-btg {
+  width: 70rem;
+  height: 23.2rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 10.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+} */
+.cancelation-policy-MVv .group-1261154753-wBr {
+  margin-bottom: 6rem;
+  /* width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0; */
+}
+.cancelation-policy-MVv .home-visit-HFi {
+  margin-bottom: 1.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv
+  .refund-of-the-payment-only-when-appointment-is-canceled-before-5-hours-or-more-pFe {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+/* .cancelation-policy-MVv
+  .group-1261154744-3Cx
+  .group-1261154755-btg
+  .group-1261154752-7Ek {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+} */
+.cancelation-policy-MVv .telemedicine-TpQ {
+  margin-bottom: 1.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv .refund-of {
+  /* max-width: 70rem; */
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.cancelation-policy-MVv .group-1261154744-3Cx .group-1261154754-2FE {
+  /* width: 73rem; */
+  height: 5.8rem;
+  /* position: absolute;
+  left: 3.2rem;
+  top: 78.3rem; */
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 0.8125;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+  border-radius: 0.6rem;
+  margin-top: 10%;
+  cursor: pointer;
+}
+
+.modal-content1 {
+  /* overflow: visible; */
+  max-width: 57% !important;
+}
+
+.add-details-72t .auto-group-fd7r-3bz .frame-37121-wmn {
+  margin-right: 15.2rem;
+  width: 50%;
+  height: 5.3rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}

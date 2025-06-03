@@ -1,0 +1,1676 @@
+html {
+  font-size: 62.5%;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+ul,
+li {
+  list-style: none;
+}
+input {
+  border: none;
+}
+/* body {
+  width: 144rem;
+} */
+.add-patient-oKS {
+  width: 100%;
+  /* min-height: 95rem; */
+  position: relative;
+  /* overflow: hidden; */
+  background-color: #ffffff;
+}
+.add-patient-oKS .rectangle-39554-UwN {
+  width: 144rem;
+  height: 29.5rem;
+  position: absolute;
+  left: 0;
+  top: 12.2rem;
+  background: linear-gradient(
+    90.28deg,
+    rgba(7, 162, 158, 0.1000000015) 3.59%,
+    rgba(7, 162, 158, 0.1000000015) 93.25%
+  );
+}
+.add-patient-oKS .group-182-MEU {
+  width: 124rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 10rem;
+  top: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.add-patient-oKS .group-182-MEU .logo-4ua {
+  width: 6.7997rem;
+  height: 6.5001rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-patient-oKS .group-182-MEU .auto-group-p9b2-CF6 {
+  box-sizing: border-box;
+  padding: 1.2rem 0rem 0.4rem 31.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.add-patient-oKS .group-182-MEU .auto-group-p9b2-CF6 .group-1261154647-tdi {
+  margin: 1.2rem 12.2rem 1.1rem 0rem;
+  height: calc(100% - 2.3rem);
+  display: flex;
+  column-gap: 4.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-182-MEU
+  .auto-group-p9b2-CF6
+  .group-1261154647-tdi
+  .home-9pY {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-182-MEU
+  .auto-group-p9b2-CF6
+  .group-1261154647-tdi
+  .about-3Q8 {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-182-MEU
+  .auto-group-p9b2-CF6
+  .group-1261154647-tdi
+  .join-as-provider-wVW {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-182-MEU
+  .auto-group-p9b2-CF6
+  .group-1261154647-tdi
+  .get-care-55v {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .group-182-MEU .auto-group-p9b2-CF6 .group-179-1kG {
+  margin: 0.1rem 5.7rem 0rem 0rem;
+  width: 5.6rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-patient-oKS .group-182-MEU .auto-group-p9b2-CF6 .auto-group-q1up-wdv {
+  width: 14.9rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 0.8888888889;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #af2245;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-37119-DrL {
+  box-sizing: border-box;
+  padding: 2.05rem 2.364rem 1.977rem 3.208rem;
+  width: 38.5rem;
+  height: 6.9514rem;
+  position: absolute;
+  left: 10rem;
+  top: 52rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: rgba(7, 162, 158, 0.1000000015);
+  border-radius: 1.0694rem;
+}
+.add-patient-oKS .frame-37119-DrL .group-1261154759-JMz {
+  margin-right: 2.7628rem;
+  width: 2.4954rem;
+  height: 2.9243rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-37119-DrL .blood-donation-SDJ {
+  margin: 0.017rem 9.97rem 0rem 0rem;
+  display: flex;
+  font-size: 1.6042rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-37119-DrL .update-8bv {
+  margin-bottom: 0.0724rem;
+  display: flex;
+  font-size: 1.4259rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #07a29e;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154253-Scc {
+  box-sizing: border-box;
+  padding: 1.366rem 1.67rem 1.639rem 1.707rem;
+  width: 36.8757rem;
+  height: 9.9872rem;
+  position: absolute;
+  left: 54.4rem;
+  top: 50.7rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #e6f5f5;
+  border-radius: 1.0243rem;
+}
+.add-patient-oKS .frame-1261154253-Scc .auto-group-6f1n-KgQ {
+  margin: 0rem 0rem 0.341rem 0.341rem;
+  width: calc(100% - 0.3414rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .frame-1261154253-Scc
+  .auto-group-6f1n-KgQ
+  .group-1261154764-FKA {
+  margin-right: 16.5601rem;
+  width: 4.0973rem;
+  height: 4.0973rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154253-Scc .auto-group-6f1n-KgQ .appointments-nZz {
+  margin-bottom: 0.7682rem;
+  display: flex;
+  font-size: 1.5365rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154253-Scc .auto-group-izeg-K48 {
+  margin-right: 0.1055rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154253-Scc .auto-group-izeg-K48 .my-self-rZr {
+  margin-right: 22.0891rem;
+  display: flex;
+  font-size: 1.3658rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154253-Scc .auto-group-izeg-K48 .group-bGY {
+  margin: 0rem 0.734rem 0.581rem 0rem;
+  width: 1.5706rem;
+  height: 1.9633rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154253-Scc .auto-group-izeg-K48 .files-i6G {
+  margin-bottom: 0.0427rem;
+  display: flex;
+  font-size: 1.3658rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #07a29e;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154254-1bA {
+  box-sizing: border-box;
+  padding: 1.366rem 1.67rem 1.639rem 1.707rem;
+  width: 36.8757rem;
+  height: 9.9872rem;
+  position: absolute;
+  left: 97.2rem;
+  top: 50.7rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #e6f5f5;
+  border-radius: 1.0243rem;
+}
+.add-patient-oKS .frame-1261154254-1bA .auto-group-zbjk-78Q {
+  margin: 0rem 0rem 0.341rem 0.341rem;
+  width: calc(100% - 0.3414rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .frame-1261154254-1bA
+  .auto-group-zbjk-78Q
+  .group-1261154764-q4Q {
+  margin-right: 16.5597rem;
+  width: 4.0973rem;
+  height: 4.0973rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154254-1bA .auto-group-zbjk-78Q .appointments-Zm6 {
+  margin-bottom: 0.7682rem;
+  display: flex;
+  font-size: 1.5365rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154254-1bA .auto-group-58dz-Vek {
+  margin-right: 0.1051rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154254-1bA .auto-group-58dz-Vek .firends-SK6 {
+  margin-right: 21.9887rem;
+  display: flex;
+  font-size: 1.3658rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154254-1bA .auto-group-58dz-Vek .group-aAQ {
+  margin: 0rem 0.734rem 0.581rem 0rem;
+  width: 1.5706rem;
+  height: 1.9633rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154254-1bA .auto-group-58dz-Vek .files-W44 {
+  margin-bottom: 0.0427rem;
+  display: flex;
+  font-size: 1.3658rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154255-QQL {
+  box-sizing: border-box;
+  padding: 1.952rem 2.715rem 1.448rem 2.518rem;
+  width: 44.0111rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 24.4rem;
+  top: 31.2rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.7556rem;
+}
+.add-patient-oKS .frame-1261154255-QQL .auto-group-mmcy-JVi {
+  margin: 0rem 8.989rem 0.063rem 0rem;
+  height: 5.037rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154255-QQL .auto-group-mmcy-JVi .vector-RKS {
+  margin: 0rem 0.015rem 0.756rem 0rem;
+  width: 2.2667rem;
+  height: 2.5815rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154255-QQL .auto-group-mmcy-JVi .appointments-x4U {
+  display: flex;
+  font-size: 1.1333rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154255-QQL .group-1261154786-gmA {
+  margin-right: 10.3887rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154255-QQL .group-1261154786-gmA .vector-Eng {
+  margin: 0rem 0rem 0.567rem 0.064rem;
+  width: 2.5815rem;
+  height: 2.8333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154255-QQL .group-1261154786-gmA .prescription-BC8 {
+  display: flex;
+  font-size: 1.1333rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154255-QQL .auto-group-vjng-KZE {
+  margin: 0rem 0;
+  width: 4.4rem;
+  height: calc(100% - 0rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .frame-1261154255-QQL
+  .auto-group-vjng-KZE
+  .material-symbols-date-range-412 {
+  width: 1.5111rem;
+  height: 1.5111rem;
+  position: absolute;
+  left: 0.1891rem;
+  top: 0;
+  overflow: hidden;
+}
+.add-patient-oKS
+  .frame-1261154255-QQL
+  .auto-group-vjng-KZE
+  .group-1261154785-BbS {
+  box-sizing: border-box;
+  padding-top: 0.1rem;
+  width: 4.4rem;
+  height: 5.0518rem;
+  position: absolute;
+  left: 0;
+  top: 0.0481rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.add-patient-oKS
+  .frame-1261154255-QQL
+  .auto-group-vjng-KZE
+  .group-1261154785-BbS
+  .report-svgrepo-com-1-6iQ {
+  margin: 0rem 0rem 0.652rem 0.208rem;
+  width: 2.8rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .frame-1261154255-QQL
+  .auto-group-vjng-KZE
+  .group-1261154785-BbS
+  .reports-DY8 {
+  display: flex;
+  font-size: 1.1333rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .group-1261154747-jmN {
+  width: 93rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 24.4rem;
+  top: 18.7rem;
+}
+.add-patient-oKS .group-1261154747-jmN .my-zwaara-fuv {
+  margin-bottom: 3.4rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 0.3350815773;
+  text-transform: uppercase;
+  color: #43bda8;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS
+  .group-1261154747-jmN
+  .all-your-health-related-information-is-here-your-test-results-summary-of-previous-appointments-and-medical-reports-you-can-review-the-summaries-of-yours-and-your-dependents-whenever-you-want-in-your-zwaara-account-omE {
+  max-width: 93rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+}
+.add-patient-oKS .frame-1261154254-SpC {
+  box-sizing: border-box;
+  padding: 1.8rem 2.4rem 1.85rem 1.6rem;
+  width: 43.2rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 10rem;
+  top: 62.2rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #e6f5f5;
+  border-radius: 1.2rem;
+}
+.add-patient-oKS .frame-1261154254-SpC .image-87-Leg {
+  margin: 0.05rem 1.6rem 0rem 0rem;
+  width: 7.8rem;
+  height: 7.1rem;
+  position: relative;
+  background-size: 169.062% 113.506%;
+  background-position: -2.663rem -0.204rem;
+  /* background-image: url('../assets/image-87-Wse.png'); */
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154254-SpC .auto-group-kvsa-DCg {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .frame-1261154254-SpC
+  .auto-group-kvsa-DCg
+  .zwaara-is-a-licensed-company-by-the-saudi-ministry-of-health-with-license-Adi {
+  margin-bottom: 0.85rem;
+  max-width: 29.8rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.add-patient-oKS .frame-1261154254-SpC .auto-group-kvsa-DCg .no--fKa {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .aah-aBe {
+  width: 3.3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 12.3rem;
+  top: 24.9rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS .medical-records-fTz {
+  width: 13.5rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 10rem;
+  top: 45.3rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS .rectangle-39634-AvY {
+  width: 9.5rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 10rem;
+  top: 14.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.8rem;
+}
+.add-patient-oKS .group-1261154791-h9n {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 17.2rem;
+  top: 21.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-patient-oKS .patients-list-pVJ {
+  width: 9.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 20.8rem;
+  top: 76.65rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS .wallet-jMN {
+  width: 5.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 20.8rem;
+  top: 81.15rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS .my-doctor-3N4 {
+  width: 8.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 20.8rem;
+  top: 85.65rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS .logout-Mde {
+  width: 5.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 20.8rem;
+  top: 90.15rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS .group-1000002072-5Jk {
+  box-sizing: border-box;
+  padding: 6.083rem 25.7rem 6.05rem 10rem;
+  width: 144rem;
+  height: 33.8rem;
+  position: absolute;
+  left: 0;
+  top: 101.9rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+}
+.add-patient-oKS .group-1000002072-5Jk .group-1261154100-N2x {
+  margin: 0rem 22.767rem 1.767rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .group-1261154100-N2x
+  .group-1261154093-JhJ {
+  margin-bottom: 2.3rem;
+  width: 12.8rem;
+  height: 12.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .group-1261154100-N2x
+  .group-1261154040-eFN {
+  margin-left: 0.05rem;
+  width: 20.2667rem;
+  height: 4.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-patient-oKS .group-1000002072-5Jk .auto-group-2teq-NSG {
+  margin: 0rem 9.05rem 2.55rem 0rem;
+  width: 12.6164rem;
+  flex-shrink: 0;
+}
+.add-patient-oKS .group-1000002072-5Jk .auto-group-2teq-NSG .company-W2g {
+  margin-bottom: 1.7167rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS .group-1000002072-5Jk .auto-group-2teq-NSG .frame-37135-SS8 {
+  margin-left: 0.0164rem;
+  width: calc(100% - 0.0164rem);
+  row-gap: 1.1rem;
+  display: flex;
+  flex-direction: column;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-2teq-NSG
+  .frame-37135-SS8
+  .home-xfN {
+  font-size: 1.6667rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-2teq-NSG
+  .frame-37135-SS8
+  .about-hcx {
+  font-size: 1.6667rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-2teq-NSG
+  .frame-37135-SS8
+  .join-as-provider-eHJ {
+  font-size: 1.6667rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-2teq-NSG
+  .frame-37135-SS8
+  .get-care-NUC {
+  font-size: 1.6667rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-2teq-NSG
+  .frame-37135-SS8
+  .join-us-K8Y {
+  font-size: 1.6667rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .group-1000002072-5Jk .auto-group-rmh6-TEk {
+  margin: 0rem 11.717rem 5.45rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.add-patient-oKS .group-1000002072-5Jk .auto-group-rmh6-TEk .laboratory-nnp {
+  margin-bottom: 1.7167rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .group-1000002072-5Jk .auto-group-rmh6-TEk .frame-37136-L3e {
+  row-gap: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-rmh6-TEk
+  .frame-37136-L3e
+  .general-test-UQk {
+  font-size: 1.6667rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-rmh6-TEk
+  .frame-37136-L3e
+  .blood-test-R56 {
+  font-size: 1.6667rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-rmh6-TEk
+  .frame-37136-L3e
+  .urine-test-MjS {
+  font-size: 1.6667rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-rmh6-TEk
+  .frame-37136-L3e
+  .dna-test-ukx {
+  font-size: 1.6667rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-patient-oKS .group-1000002072-5Jk .auto-group-jrxr-rRJ {
+  margin-top: 0rem;
+  width: 21.1332rem;
+  height: calc(100% - 0rem);
+  flex-shrink: 0;
+}
+.add-patient-oKS .group-1000002072-5Jk .auto-group-jrxr-rRJ .contact-us-Awn {
+  margin-bottom: 1.8167rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-jrxr-rRJ
+  .item-923489934721-vAG {
+  margin: 0rem 0rem 1.1rem 0.033rem;
+  font-size: 1.6667rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-jrxr-rRJ
+  .sanarhealthcom-q2L {
+  margin: 0rem 0rem 1.2rem 0.033rem;
+  font-size: 1.6667rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-jrxr-rRJ
+  .riadh-2343-saudi-arabia-ZDE {
+  margin: 0rem 0rem 4.9rem 0.033rem;
+  font-size: 1.6667rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-jrxr-rRJ
+  .group-1261154039-5hN {
+  margin-left: 0.0332rem;
+  box-sizing: border-box;
+  padding: 0.9rem 2.3rem 0.85rem 1.5rem;
+  width: calc(100% - 0.0332rem);
+  height: 3.85rem;
+  border: solid 0.1rem #ffffff;
+  border-radius: 0.5rem;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-jrxr-rRJ
+  .group-1261154039-5hN
+  .group-1261154038-15E {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-jrxr-rRJ
+  .group-1261154039-5hN
+  .group-1261154038-15E
+  .android-globe-Met {
+  margin: 0rem 1.05rem 0.05rem 0rem;
+  width: 1.95rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-jrxr-rRJ
+  .group-1261154039-5hN
+  .group-1261154038-15E
+  .auto-group-q4ap-gSG {
+  width: 14.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-jrxr-rRJ
+  .group-1261154039-5hN
+  .group-1261154038-15E
+  .auto-group-q4ap-gSG
+  .group-ECt {
+  width: 13.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS
+  .group-1000002072-5Jk
+  .auto-group-jrxr-rRJ
+  .group-1261154039-5hN
+  .group-1261154038-15E
+  .auto-group-q4ap-gSG
+  .shape-wNC {
+  width: 1.5rem;
+  height: 0.8478rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 0.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-patient-oKS .rectangle-39644-Pzt {
+  width: 144rem;
+  height: 135.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.7400000095);
+}
+.add-patient-oKS .group-1261154829-vzp {
+  width: 79.4rem;
+  height: 95rem;
+  /* position: absolute; */
+  /* left: -0.2rem;
+  top: -0.2rem; */
+}
+.add-patient-oKS .group-1261154829-vzp .group-1261154792-4LL {
+  width: 86.4rem;
+  height: 145.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-patient-oKS .group-1261154829-vzp .add-record-Q9J {
+  width: 9.5rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 3.9rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS .group-1261154829-vzp .group-1261154828-VwS {
+  box-sizing: border-box;
+  padding: 3.3rem 1.8rem 2.4rem 3.2rem;
+  width: 66.8rem;
+  height: 95.2rem;
+  position: absolute;
+  left: 4.2rem;
+  /* top: 8rem; */
+  border: solid 0.2rem #848486;
+  border-radius: 0.6rem;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .select-patient-ybi {
+  margin-bottom: 1.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-wde4-Wbe {
+  margin-bottom: 3.2rem;
+  height: 9.9rem;
+  display: flex;
+  align-items: center;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-wde4-Wbe
+  .group-1261154819-FJL {
+  margin-right: 2.4rem;
+  width: 15.9rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #622d89;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-wde4-Wbe
+  .group-1261154820-jUQ {
+  margin-right: 7.1rem;
+  box-sizing: border-box;
+  padding: 2.9rem 1.6rem;
+  width: 15.9rem;
+  height: 100%;
+  background-color: rgba(175, 34, 69, 0.1000000015);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-wde4-Wbe
+  .group-1261154820-jUQ
+  .noha-abduallah-s4p {
+  max-width: 8.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2562500238;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+}
+  .group-1261154931-mvt {
+    max-width: 18rem;
+  margin: 3rem 0rem 2.9rem 0rem;
+  box-sizing: border-box;
+  /* padding: 0.85rem 2.8rem 0.75rem 2.8rem; */
+  padding: 13px 40px;
+  height: calc(100% - 5.9rem);
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  background: linear-gradient(100.93deg, #af2245 0%, #602d8a 100%);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+  .group-1261154930-5gg {
+  margin-right: 1.9rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+  .group-1261154931-mvt
+  .add-patient-DH6 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+  .select-type-report-W1J {
+  margin-bottom: 3.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-ipwr-QMa {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 11.5rem;
+  display: flex;
+  align-items: center;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-ipwr-QMa
+  .auto-group-7r4k-LW8 {
+  margin-right: 1.6rem;
+  width: 19.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+
+
+  .type-report-title {
+  /* width: 8.1rem;
+  height: 2.4rem; */
+  /* position: absolute;
+  left: 5.7rem;
+  top: 7.5rem; */
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: wrap;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-ipwr-QMa
+  .auto-group-7r4k-LW8
+  .rectangle-39649-nd2 {
+  width: 19.5rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #af2245;
+  box-sizing: border-box;
+  border-radius: 0.6rem;
+}
+
+.type-rep-card{
+ border: 1px solid #af2245;
+}
+  .type-report-img{
+  width: 3.4328rem;
+  height: 4.9234rem;
+  object-fit: contain;
+ 
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-ipwr-QMa
+  .auto-group-tp4g-pZi {
+  margin-right: 1.7rem;
+  width: 19.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-ipwr-QMa
+  .auto-group-tp4g-pZi
+  .lab-research-A7n {
+  width: 10.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 7.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-ipwr-QMa
+  .auto-group-tp4g-pZi
+  .rectangle-39650-4yr {
+  width: 19.5rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #939395;
+  box-sizing: border-box;
+  border-radius: 0.6rem;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-ipwr-QMa
+  .auto-group-tp4g-pZi
+  .group-1261154900-bTz {
+  width: 3.7562rem;
+  height: 3.7563rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-ipwr-QMa
+  .auto-group-g7mn-KPz {
+  width: 19.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-ipwr-QMa
+  .auto-group-g7mn-KPz
+  .prescription-4sN {
+  width: 9.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 7.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-ipwr-QMa
+  .auto-group-g7mn-KPz
+  .rectangle-39651-aqi {
+  width: 19.5rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #939395;
+  box-sizing: border-box;
+  border-radius: 0.6rem;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-ipwr-QMa
+  .auto-group-g7mn-KPz
+  .group-1261154902-Jmi {
+  width: 4.2rem;
+  height: 4.6005rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 1.8995rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-fyoa-RbS {
+  margin: 0rem 21.2rem 3.2rem 0rem;
+  width: calc(100% - 21.2rem);
+  height: 11.5rem;
+  display: flex;
+  align-items: center;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-fyoa-RbS
+  .auto-group-2ghz-wpg {
+  margin-right: 1.6rem;
+  width: 19.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-fyoa-RbS
+  .auto-group-2ghz-wpg
+  .documents-HtY {
+  width: 9.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 7.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-fyoa-RbS
+  .auto-group-2ghz-wpg
+  .rectangle-39652-CEp {
+  width: 19.5rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #939395;
+  box-sizing: border-box;
+  border-radius: 0.6rem;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-fyoa-RbS
+  .auto-group-2ghz-wpg
+  .folder-8eG {
+  width: 5rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-fyoa-RbS
+  .auto-group-1ppc-s64 {
+  box-sizing: border-box;
+  padding: 1.4rem 7rem 1.6rem 7.1rem;
+  width: 19.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #939395;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-fyoa-RbS
+  .auto-group-1ppc-s64
+  .group-1261154901-P4Q {
+  margin: 0rem 0rem 1.6rem 0.1rem;
+  width: 4.5rem;
+  height: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .auto-group-fyoa-RbS
+  .auto-group-1ppc-s64
+  .others-15n {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+
+
+  .group-1261154830-K6U {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  /* display: flex; */
+  /* flex-direction: column; */
+}
+
+  .group-1261154830-K6U
+  .file-name-fRE {
+  margin-bottom: 1.2rem;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+
+}
+
+  .group-1261154830-K6U
+  .auto-group-prhw-onL {
+  box-sizing: border-box;
+  padding: 2.3rem 3.2rem 2.3rem 56.5rem;
+  width: 100%;
+  border: solid 0.1rem #8e8e90;
+  border-radius: 0.6rem;
+
+}
+  .group-1261154830-K6U
+  .auto-group-prhw-onLl {
+  /* box-sizing: border-box; */
+  /* padding: 2.3rem 3.2rem 2.3rem 56.5rem; */
+  /* width: 100%; */
+  /* border: solid 0.1rem #8e8e90;
+  border-radius: 0.6rem; */
+
+}
+
+  .group-1261154830-K6U
+  .auto-group-prhw-onL
+  .vector-YV2 {
+  width: 2.1rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-patient-oKS
+  .group-1261154829-vzp
+  .group-1261154828-VwS
+  .group-1261154831-5E4 {
+  width: 60.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+  /* .auto-group-ojic-E6x {
+  box-sizing: border-box;
+  padding-bottom: 1.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+} */
+
+  .auto-group-ojic-E6x
+  .attachments-mMn {
+  margin-bottom: 1.2rem;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111535;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+  .auto-group-ojic-E6x
+  .group-1261154826-Jcc {
+  box-sizing: border-box;
+  padding: 2.2rem 4.2rem 2.2rem 4.2rem;
+  /* width: 14.6rem; */
+  height: 13.3rem;
+  border: solid 0.1rem #af2245;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+  .auto-group-ojic-E6x
+  .group-1261154826-Jcc
+  .group-1261154825-EFN {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+  .auto-group-ojic-E6x
+  .group-1261154826-Jcc
+  .group-1261154825-EFN
+  .group-1261154824-yye {
+  margin-bottom: 1.2609rem;
+  width: 5.8rem;
+  height: 5.0391rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+  .auto-group-ojic-E6x
+  .group-1261154826-Jcc
+  .group-1261154825-EFN
+  .upload-Knc {
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+  .group-1261154827-pzG {
+  /* height: 7rem; */
+  border-radius: 0.6rem;
+
+}
+
+  .group-1261154827-pzG
+  .group-1261154832-ayS {
+  width: 100%;
+  height: 100%;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 0.8125;
+  color: #fff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #AF2245;
+  border-radius: 0.6rem;
+}
+.custom-select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  /* background: url("path_to_your_custom_arrow_image.png") no-repeat right center; */
+  padding-right: 20px; /* Adjust according to the width of your custom arrow */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 8px 12px;
+  font-size: 16px;
+  width: 550px;
+}
+
+.custom-select::-ms-expand {
+  display: none;
+}
+.Insurance_account {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.error-message {
+  color: #dc3545;
+}
+#addpati .btn-close{
+border: 1px solid #777777;
+border-radius: 50%;
+font-size: 13px;
+margin-top: 60px !important;
+margin-right: -16px !important;
+z-index: 1;
+}
+
+.auto-group-prhw-onL {
+  appearance: none; 
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  /* position: relative; */
+  padding-right: 2.5rem; 
+}
+
+
+.custom-dropdown-icon {
+  pointer-events: none; 
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  font-size: 26px;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+
+
+/* Custom styles for the modal */
+#addpati .modal-content {
+  width: 80rem !important; /* Default width */
+  margin-left: -14rem; /* Centering adjustment */
+  margin-top: 10rem; /* Top margin */
+  border-radius: 20px; /* Rounded corners */
+}
+
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+  #addpati .modal-content {
+      width: 70rem !important; /* Adjust width for medium screens */
+      margin-left: -10rem;
+  }
+}
+
+@media (max-width: 992px) {
+  #addpati .modal-content {
+      width: 100% !important; /* Full width for smaller screens */
+      margin-left: 0; /* No left margin */
+      margin-top: 5rem; /* Adjust top margin */
+  }
+}
+
+@media (max-width: 768px) {
+  #addpati .modal-content {
+      width: 95% !important; /* Almost full width for mobile */
+      margin-top: 3rem; /* Further adjust top margin */
+  }
+}

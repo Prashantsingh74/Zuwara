@@ -1,0 +1,13 @@
+[
+    {
+      "imageUrl": "/images/banner.jpg",
+      "altText": "Image 1",
+      "text": "Item 1"
+    },
+    {
+      "imageUrl": "/images/banner.jpg",
+      "altText": "Image 2",
+      "text": "Item 2"
+    }
+  ]
+  

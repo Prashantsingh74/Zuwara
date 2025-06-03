@@ -1,0 +1,49 @@
+.iqama-card-lists {
+  max-width: 72rem;
+}
+.iqama-cards {
+  border-radius: 8px;box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px; /* Higher alpha and larger shadow */
+
+
+}
+
+.iqama-type {
+  /* width: 25rem; */
+  background-color: #af22451a;
+  /* margin: 4rem 2rem 0 0rem; */
+  padding: 3rem 1rem 0 3rem;
+  height: 25rem;
+  border-radius: 8px;
+}
+.iqama-cards-align {
+  gap: 10rem;
+}
+
+.iqama-expended-text {
+  border-radius: 8px;
+  margin-top: -21px;
+  background-color: #af22451a;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 5px 0px;
+}
+
+.iqama-type input[type="radio"]:checked + .checked_text_clr {
+  color: #af2245;
+}
+
+@media (max-width: 768px) {
+  .iqama-cards-align {
+    flex-direction: column;
+  }
+  .iqama-type {
+    order: -1; 
+  }
+  .sa-card-listt {
+    order: 1; 
+  }
+  .iqama-cards-align {
+    gap: 0rem;
+  }
+  .iqama-type {
+    height: 20rem;
+  }
+}

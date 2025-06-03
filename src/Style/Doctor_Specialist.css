@@ -1,0 +1,1485 @@
+.form-cont-border {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  height: 5px;
+}
+
+.error {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #af2245;
+  font-family: Poppins, "Source Sans Pro";
+}
+
+.dropdown-icons {
+  left: -2rem;
+  position: relative;
+}
+
+.btn-submit-form {
+  border: none;
+  margin: 5rem auto;
+}
+
+.form-check-input {
+  display: none;
+  /* Hide the default radio button */
+}
+
+.form-check-input + label {
+  position: relative;
+  padding-left: 3rem;
+  /* Adjust space for custom radio */
+  cursor: pointer;
+}
+
+.form-check-input + label::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  border: 2px solid #bcacb0;
+  background-color: transparent;
+}
+
+.form-check-input:checked + label::before {
+  background-color: #af2245 !important;
+}
+
+.btn_bg_color_provider {
+  background-color: #f7e9ec;
+  padding: 1rem;
+  border: 1px solid #898b9f;
+  border-radius: 6px;
+}
+
+.btn_pro_provider {
+  width: 4rem;
+}
+
+.progressbar_provider {
+  border: 1px solid #af2245;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  background-color: #898b9f;
+}
+.progressbar_provider.active {
+  background-color: #af2245;
+}
+
+.progress_bar_line {
+  border: 1px solid #898b9f;
+  width: 25%;
+}
+
+.upload-file-cont {
+  border: 2px solid #af2245;
+  border-radius: 1rem;
+  width: 10rem;
+  padding-top: 1rem;
+  text-align: center;
+}
+
+.doctor-request-form .logo {
+  width: 68px;
+  height: 65px;
+}
+
+.doctor-request-form .home {
+  margin-right: 13px;
+  width: 87px;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #af2245;
+}
+
+.doctor-request-form .about {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #111535;
+}
+
+.doctor-request-form .join-as-provider {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #111535;
+}
+
+.doctor-request-form .get-care {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #111535;
+}
+
+.doctor-request-form .group-10 {
+  margin: 11px 12.6px 12px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 470.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .vector-16 {
+  margin: 10px 0 7px 0;
+  width: 18px;
+  height: 9px;
+}
+
+.doctor-request-form .vector-14 {
+  margin-right: 12px;
+  width: 26px;
+  height: 26px;
+}
+
+.doctor-request-form .vector-15 {
+  margin: 8px 0 9px 0;
+  width: 18px;
+  height: 9px;
+}
+
+.doctor-request-form .container-3 {
+  display: flex;
+  flex-direction: row;
+  width: 56px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .group-179 {
+  margin: 11px 0 12px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 166px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .login {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 0.889;
+  color: #ffffff;
+}
+
+.doctor-request-form .group-1261155549 {
+  border-radius: 5px;
+  background: linear-gradient(90deg, #af2245, #882767, #602d8a);
+  position: relative;
+  display: flex;
+  padding: 16px 0 17px 0.7px;
+  width: 149px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container-24 {
+  margin: 8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 855px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .group-182 {
+  margin: 0 100px 24px 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1240px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .frame-1261154266 {
+  background: linear-gradient(180deg, #f6f7f9 1.93%, #ffffff 9.2%);
+  margin-bottom: 18px;
+  width: 1440px;
+  height: 50px;
+}
+
+.doctor-request-form .provide-my-services-via-zuwarh-request-form {
+  margin: 0 1px 24px 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--sub-headings-1-font-family, "Poppins");
+  font-weight: var(--sub-headings-1-font-weight, 600);
+  font-size: var(--sub-headings-1-font-size, 34px);
+  text-transform: var(--sub-headings-1-text-transform, capitalize);
+  color: #af2245;
+}
+
+.doctor-request-form
+  .we-are-pleased-to-cooperate-with-us-in-providing-and-facilitating-access-to-your-services-via-zuwarh-platform {
+  margin: 0 1px 40px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #333333;
+}
+
+.doctor-request-form .group-1261156060 {
+  width: 685px;
+  height: 24px;
+}
+
+.doctor-request-form .group-1261156058 {
+  margin: 0 13px 64px 0;
+  display: flex;
+  width: 685px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .first-name {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.3;
+  color: #111535;
+}
+
+.doctor-request-form .group-1261155225 {
+  border-radius: 6px;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .last-name {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.3;
+  color: #111535;
+}
+
+.doctor-request-form .group-1261155226 {
+  border-radius: 6px;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container-21 {
+  margin-bottom: 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 763.8px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .abdulrehman {
+  position: relative;
+  margin-right: 13px;
+  width: 645px;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #898b9f;
+}
+
+.doctor-request-form .abdulrehman-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #898b9f;
+}
+
+.doctor-request-form .container-1 {
+  margin: 0 24px 36px 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 782px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .known-languages {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.3;
+  color: #111535;
+}
+
+.doctor-request-form .group-12611552271 {
+  border-radius: 6px;
+  margin-bottom: 22px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .english {
+  margin: 0 24px 36px 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #898b9f;
+}
+
+.doctor-request-form .degree {
+  margin-bottom: 22px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.3;
+  color: #111535;
+}
+
+.doctor-request-form .enter-your-qualification {
+  margin: 0 24px 256px 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #898b9f;
+}
+
+.doctor-request-form .mobile-number {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.3;
+  color: #111535;
+}
+
+.doctor-request-form .vector-44 {
+  margin: 13px 0 7.5px 0;
+  width: 10px;
+  height: 5.5px;
+}
+
+.doctor-request-form .container-2 {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #898b9f;
+}
+
+.doctor-request-form .container-10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 273px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .vector-40 {
+  width: 10px;
+  height: 5.5px;
+}
+
+.doctor-request-form .group-12611552244 {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  position: absolute;
+  left: 0px;
+  top: 36px;
+  right: 0px;
+  display: flex;
+  padding: 22px 33px 22.5px 33px;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .vector-42 {
+  width: 10px;
+  height: 5.5px;
+}
+
+.doctor-request-form .container-4 {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  position: absolute;
+  left: 0px;
+  top: 146px;
+  right: 0px;
+  display: flex;
+  padding: 22px 33px 22.5px 33px;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .group-1261156042 {
+  position: relative;
+  margin-right: 196px;
+  display: flex;
+  padding-right: 0px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .department {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.3;
+  color: #111535;
+}
+
+.doctor-request-form .group-12611552281 {
+  border-radius: 6px;
+  margin-bottom: 22px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .abdulrehman-2 {
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #898b9f;
+}
+
+.doctor-request-form .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .vector-41 {
+  width: 10px;
+  height: 5.5px;
+}
+
+.doctor-request-form .group-12611552245 {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 22px 33px 22.5px 33px;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .group-1261156043 {
+  position: relative;
+  margin-bottom: 24px;
+  padding-bottom: 12px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .medical-registration-expiry {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.3;
+  color: #111535;
+}
+
+.doctor-request-form .group-12611552282 {
+  border-radius: 6px;
+  margin-bottom: 22px;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .select-date {
+  margin-right: 35.6px;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #898b9f;
+}
+
+.doctor-request-form .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .vector-43 {
+  width: 21.8px;
+  height: 24px;
+}
+
+.doctor-request-form .group-1261156046 {
+  display: flex;
+  width: 21.8px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .group-12611552246 {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding: 13px 24px;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .group-1261156045 {
+  border-radius: 6px;
+  position: relative;
+  margin-bottom: 182px;
+  padding-bottom: 12px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .female {
+  position: relative;
+  margin-right: 267.5px;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #898b9f;
+}
+
+.doctor-request-form .container-27 {
+  margin-bottom: 108px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 462px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container-8 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .gender {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.3;
+  color: #111535;
+}
+
+.doctor-request-form .ellipse-57 {
+  border-radius: 9px;
+  background: #af2245;
+  width: 18px;
+  height: 18px;
+}
+
+.doctor-request-form .group-1261155817 {
+  border-radius: 12px;
+  background: #bcacb0;
+  position: relative;
+  margin: 1px 13px 1px 0;
+  display: flex;
+  padding: 3px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .male {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #898b9f;
+}
+
+.doctor-request-form .group-1261156051 {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0 12px 24px;
+  width: 462px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .group-1261156052 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .ellipse-571 {
+  border-radius: 9px;
+  background: #ffffff;
+  width: 18px;
+  height: 18px;
+}
+
+.doctor-request-form .group-1261155818 {
+  border-radius: 12px;
+  background: #bcacb0;
+  position: relative;
+  margin: 49px 0 13px 0;
+  display: flex;
+  padding: 3px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .group-12611552241 {
+  position: absolute;
+  left: 0px;
+  bottom: 96px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 706px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .medical-registration-number-1 {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.3;
+  color: #111535;
+}
+
+.doctor-request-form .group-1261155227 {
+  border-radius: 6px;
+  margin-bottom: 22px;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .medical-registration-number {
+  margin: 0 5px 0 24px;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #898b9f;
+}
+
+.doctor-request-form .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .rectangle-39577 {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  width: 1120px;
+  height: 50px;
+}
+
+.doctor-request-form .group-1261155224 {
+  border-radius: 6px;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  width: 1120px;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .group-1261156047 {
+  border-radius: 6px;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 206px;
+  padding-bottom: 12px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .rectangle-395772 {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  width: 462px;
+  height: 50px;
+}
+
+.doctor-request-form .group-1261155228 {
+  border-radius: 6px;
+  position: absolute;
+  right: 0px;
+  bottom: 96px;
+  display: flex;
+  width: 462px;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container-14 {
+  position: relative;
+  margin-bottom: 38px;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .email-address {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.3;
+  color: #111535;
+}
+
+.doctor-request-form .group-1261156055 {
+  border-radius: 6px;
+  margin-bottom: 22px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .abdul-rehman-323-hotmail-com {
+  margin: 0 24px 85px 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #898b9f;
+}
+
+.doctor-request-form .select-country {
+  position: relative;
+  margin-right: 13px;
+  width: 645px;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #898b9f;
+}
+
+.doctor-request-form .select-city {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #898b9f;
+}
+
+.doctor-request-form .container-12 {
+  margin: 0 24px 116px 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 752.6px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .vector-48 {
+  width: 66px;
+  height: 37px;
+}
+
+.doctor-request-form .group-1261156056 {
+  display: flex;
+  width: 66px;
+  height: 37px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container-11 {
+  border-radius: 6px;
+  border: 1px solid #a9a9a9;
+  background: rgba(175, 34, 69, 0.1);
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  padding: 15px 1px 14px 0;
+  width: 131px;
+  height: 66px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .previous {
+  margin: 20px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--primary, #af2245);
+}
+
+.doctor-request-form .container-6 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .next {
+  margin: 20px 30px 20px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--primary, #af2245);
+}
+
+.doctor-request-form .vector-47 {
+  width: 66px;
+  height: 38px;
+}
+
+.doctor-request-form .group-1261156057 {
+  display: flex;
+  width: 66px;
+  height: 38px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container-13 {
+  border-radius: 6px;
+  border: 1px solid #a9a9a9;
+  background: rgba(175, 34, 69, 0.1);
+  position: relative;
+  display: flex;
+  padding: 14px 1px 14px 0;
+  width: 131px;
+  height: 66px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container-25 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .group-1261155357 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1120px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container-20 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .rectangle-395774 {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  width: 462px;
+  height: 50px;
+}
+
+.doctor-request-form .group-12611552242 {
+  border-radius: 6px;
+  position: absolute;
+  left: 0px;
+  top: 36px;
+  display: flex;
+  width: 462px;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .rectangle-3957710 {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  width: 1120px;
+  height: 50px;
+}
+
+.doctor-request-form .group-12611552247 {
+  border-radius: 6px;
+  position: absolute;
+  left: 50%;
+  bottom: 281px;
+  translate: -50% 0;
+  display: flex;
+  width: 1120px;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .rectangle-395775 {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  width: 462px;
+  height: 50px;
+}
+
+.doctor-request-form .group-12611552243 {
+  border-radius: 6px;
+  position: absolute;
+  top: 36px;
+  right: 0px;
+  display: flex;
+  width: 462px;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .vector-45 {
+  width: 10px;
+  height: 5.5px;
+}
+
+.doctor-request-form .container-9 {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  position: absolute;
+  left: 0px;
+  bottom: 170px;
+  display: flex;
+  padding: 22px 33px 22.5px 33px;
+  width: 462px;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .vector-46 {
+  width: 10px;
+  height: 5.5px;
+}
+
+.doctor-request-form .container-17 {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  position: absolute;
+  right: 0px;
+  bottom: 170px;
+  display: flex;
+  padding: 22px 33px 22.5px 33px;
+  width: 462px;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .rectangle-39578 {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  position: absolute;
+  right: 0px;
+  bottom: 391px;
+  width: 791px;
+  height: 50px;
+}
+
+.doctor-request-form .group-1261156053 {
+  margin-right: 16px;
+  width: 36px;
+  height: 26px;
+}
+
+.doctor-request-form .container-1 {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: #898b9f;
+}
+
+.doctor-request-form .group-1261155049 {
+  border-radius: 6px;
+  border-bottom: 2px solid #af2245;
+  position: absolute;
+  left: 0px;
+  bottom: 391px;
+  display: flex;
+  flex-direction: row;
+  padding: 13px 0 11px 0;
+  width: 223px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .group-1261156059 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container-23 {
+  border: 2px solid #ededed;
+  background: #ffffff;
+  position: relative;
+  margin: 0 100px 85px 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 32px 60px 94px 60px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .logo-1 {
+  width: 128px;
+  height: 122px;
+}
+
+.doctor-request-form .group-1261154093 {
+  margin-bottom: 23px;
+  display: flex;
+  align-self: flex-start;
+  width: 128px;
+  height: 122px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .vector-49 {
+  width: 9.2px;
+  height: 15px;
+}
+
+.doctor-request-form .evafacebook-fill {
+  display: flex;
+  width: 9.2px;
+  height: 15px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .fb {
+  box-shadow: -1.7px -1.7px 3.3px 0px rgba(245, 245, 245, 0.25),
+    1.7px 1.7px 3.3px 0px rgba(169, 169, 169, 0.21);
+  border-radius: 20.8px;
+  background: #ffffff;
+  position: relative;
+  margin-right: 12px;
+  display: flex;
+  padding: 13.3px 16.7px 13.3px 15.8px;
+  width: 41.7px;
+  height: 41.7px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .vector-50 {
+  width: 17.5px;
+  height: 14.3px;
+}
+
+.doctor-request-form .eisc-twitter {
+  display: flex;
+  width: 17.5px;
+  height: 14.3px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .twitter {
+  box-shadow: -1.7px -1.7px 3.3px 0px rgba(245, 245, 245, 0.25),
+    1.7px 1.7px 3.3px 0px rgba(169, 169, 169, 0.21);
+  border-radius: 20.8px;
+  background: #ffffff;
+  position: relative;
+  margin-right: 12px;
+  display: flex;
+  padding: 14.3px 12.3px 13px 11.8px;
+  width: 41.7px;
+  height: 41.7px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .vector-51 {
+  width: 16px;
+  height: 13.8px;
+}
+
+.doctor-request-form .akar-iconsvimeo-fill {
+  display: flex;
+  width: 16px;
+  height: 13.8px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .vimeo {
+  box-shadow: -1.7px -1.7px 3.3px 0px rgba(245, 245, 245, 0.25),
+    1.7px 1.7px 3.3px 0px rgba(169, 169, 169, 0.21);
+  border-radius: 20.8px;
+  background: #ffffff;
+  position: relative;
+  margin-right: 12px;
+  display: flex;
+  padding: 14.8px 13.2px 13.1px 12.4px;
+  width: 41.7px;
+  height: 41.7px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .vector-52 {
+  width: 16px;
+  height: 16px;
+}
+
+.doctor-request-form .ciblinkedin-in {
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .linkedin {
+  box-shadow: -1.7px -1.7px 3.3px 0px rgba(245, 245, 245, 0.25),
+    1.7px 1.7px 3.3px 0px rgba(169, 169, 169, 0.21);
+  border-radius: 20.8px;
+  background: #ffffff;
+  position: relative;
+  display: flex;
+  padding: 11.7px 12.8px 14px 12.8px;
+  width: 41.7px;
+  height: 41.7px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .group-1261154040 {
+  margin-left: 0.5px;
+  display: flex;
+  flex-direction: row;
+  width: 202.7px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .group-1261154099 {
+  margin: 6.2px 0 17.3px 0;
+  display: flex;
+  flex-direction: column;
+  width: 203.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .company {
+  margin-bottom: 22.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--title-font-family, "Poppins");
+  font-weight: var(--title-font-weight, 600);
+  font-size: var(--title-font-size, 16px);
+  line-height: var(--title-line-height, 1.256);
+  color: #ffffff;
+}
+
+.doctor-request-form .home-1 {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+
+.doctor-request-form .about-1 {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+
+.doctor-request-form .join-as-provider-1 {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+
+.doctor-request-form .get-care-1 {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+
+.doctor-request-form .join-us {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+
+.doctor-request-form .frame-37135 {
+  margin-left: 0.2px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container-18 {
+  margin-right: 89.3px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .laboratory {
+  margin: 0 8.3px 22.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--title-font-family, "Poppins");
+  font-weight: var(--title-font-weight, 600);
+  font-size: var(--title-font-size, 16px);
+  line-height: var(--title-line-height, 1.256);
+  color: #ffffff;
+}
+
+.doctor-request-form .general-test {
+  margin-bottom: 13px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+
+.doctor-request-form .blood-test {
+  margin: 0 18.2px 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+
+.doctor-request-form .urine-test {
+  margin-bottom: 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+
+.doctor-request-form .dna-test {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+
+.doctor-request-form .frame-37136 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container-15 {
+  margin: 0 126.7px 33px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .contact-us {
+  overflow-wrap: break-word;
+  font-family: var(--title-font-family, "Poppins");
+  font-weight: var(--title-font-weight, 600);
+  font-size: var(--title-font-size, 16px);
+  line-height: var(--title-line-height, 1.256);
+  color: #ffffff;
+}
+
+.doctor-request-form .fdoc-pages {
+  margin-bottom: 23.2px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container {
+  margin: 0 0.3px 8px 0.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+
+.doctor-request-form .zwaarahealth-com {
+  margin: 0 0.3px 9px 0.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+
+.doctor-request-form .riadh-2343-saudi-arabia {
+  margin-left: 0.3px;
+  overflow-wrap: break-word;
+  font-family: var(--sdgsdg-font-family, "Poppins");
+  font-weight: var(--sdgsdg-font-weight, 400);
+  font-size: var(--sdgsdg-font-size, 16px);
+  color: #ffffff;
+}
+
+.doctor-request-form .container-22 {
+  margin-bottom: 78px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container-16 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .group-1261154920 {
+  background: linear-gradient(90deg, #af2245, #882767, #602d8a);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 60.8px 0 67px 100px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .container-19 {
+  margin: 0 112px 563px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.doctor-request-form .rectangle-39712 {
+  background: #fff2f2;
+  margin-top: 1117px;
+  width: 1064px;
+  height: 1300px;
+}
+
+.doctor-request-form .container-26 {
+  display: flex;
+  flex-direction: row;
+  width: 2616px;
+  box-sizing: border-box;
+}
+
+.doctor-request-form {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 24px;
+  width: 1440px;
+  box-sizing: border-box;
+}

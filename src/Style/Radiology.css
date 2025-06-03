@@ -1,0 +1,59 @@
+.ultrasound-details {
+  background-color: #f7e9ec;
+  border-radius: 6px;
+  padding: 1rem;
+}
+.select-box-bg {
+  background-color: #af2245;
+}
+.btn-circle {
+  height: 4rem;
+  width: 4rem;
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+}
+.btn-minus {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600px;
+  font-size: 18px;
+}
+
+.btn-plus {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600px;
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.test-number {
+  display: flex;
+  align-items: center;
+  margin: 0 1rem;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600px;
+  font-size: 18px;
+}
+
+.selected-test-details {
+  border-radius: 12px;
+  background: rgba(175, 34, 69, 0.1);
+  padding: 18px 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.no-data-found {
+  max-width: 80rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+@media (max-width: 500px) {
+  .btn-circle {
+    height: 3rem;
+    width: 3rem;
+
+  }
+}

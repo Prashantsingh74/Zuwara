@@ -1,0 +1,655 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.nav-sec-content {
+  width: 70rem;
+  margin-left: 40px;
+}
+
+.about-zuwarh a {
+  text-decoration: none;
+}
+
+.nav-sec-img {
+  width: 54rem;
+  height: 51rem;
+  margin-top: -7.4rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-bar-img-sec {
+  display: flex;
+  flex-direction: column;
+  width: 41.5%;
+  gap: 1rem;
+}
+
+.nav-bar-img-sec-1 {
+  display: flex;
+  flex-direction: column;
+  width: 17%;
+  gap: 1rem;
+}
+
+.img-sec-39722 {
+  width: 210px;
+  height: 26rem;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.img-sec-39723 {
+  width: 210px;
+  height: 29rem;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.img-sec-39725 {
+  width: 210px;
+  height: 1.5rem;
+  overflow: hidden;
+}
+
+.img-sec-39719 {
+  width: 210px;
+  height: 12rem;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.img-sec-39720 {
+  width: 210px;
+  height: 27rem;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.img-sec-39724 {
+  width: 210px;
+  height: 10rem;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.img-sec-39721 {
+  width: 92px;
+  height: 27rem;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.about-zuwarh .zuwarh {
+  margin-right: 11.5px;
+}
+
+.about-zuwarh .primary-linear-gradient-text {
+  background: linear-gradient(90deg, #af2245, #882767, #602d8a);
+  color: var(--gradient, transparent);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.about-zuwarh .group-1261155549 {
+  border-radius: 5px;
+  background: linear-gradient(90deg, #af2245, #882767, #602d8a);
+  text-align: center;
+  padding: 16px 1.2px 17px 0;
+  width: 149px;
+}
+
+.about-zuwarh .lorem-ipsum-dolor {
+  margin-bottom: 2rem;
+  max-width: 73rem;
+}
+
+.about-zuwarh .frame-1261154268 {
+  background-image: linear-gradient(to top right, #d8ebe3, #e0c1da);
+  margin-bottom: 90px;
+  display: flex;
+  justify-content: space-between;
+  padding: 75px 0px 0px 86px;
+  width: 100%;
+}
+
+.about-zuwarh .our-card-text {
+  margin-top: 3rem;
+}
+
+.about-zuwarh .group-513385 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* width: 47rem; */
+}
+
+.about-zuwarh .imagination-cuate-1 {
+  max-width: 422px;
+  /* height: 422px; */
+}
+
+.about-zuwarh .group-1261155596 {
+  background: #f6f7f9;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 80px;
+  padding: 0px 50px 0 100px;
+}
+
+.about-zuwarh .group-1261154269 {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.about-zuwarh .oplossing-voor-gezinnen {
+  font-weight: 400;
+  /* font-size: 24px; */
+  /* letter-spacing: 1px; */
+  color: #818a97;
+}
+
+.about-zuwarh .group-1261154282 {
+  max-width: 77rem;
+  text-align: center;
+}
+
+.about-zuwarh .link-extra-security {
+  margin-bottom: 10.5px;
+  font-weight: 700;
+  font-size: 30px;
+  color: #ffffff;
+}
+
+.about-zuwarh .provide-awide-rang {
+  font-weight: 400;
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.about-zuwarh .see-services {
+  font-weight: 600;
+  font-size: 18px;
+  color: #ffffff;
+  margin-top: 10px;
+}
+
+.about-zuwarh .group-1261155601 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.377), rgba(0, 0, 0, 0.368)), url("/public/images/Rectangle5473.png");
+  /* background: 50% / cover no-repeat ; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+  margin-bottom: 24px;
+  height: 48%;
+  padding: 20px;
+  display: flex;
+  align-items: end;
+}
+
+.about-zuwarh .group-1261155599 {
+  background: url("/public/images/Rectangle 5474.png") 50% / cover no-repeat;
+  height: 49%;
+  padding: 20px;
+  display: flex;
+  align-items: end;
+}
+
+/* .about-zuwarh .container-12 {
+  width: 401px;
+} */
+.about-zuwarh .group-1261155597 {
+  background: linear-gradient(to bottom,
+      rgba(224, 223, 223, 0) 85%,
+      rgba(0, 0, 0, 1) 100%),
+    url("/public/images/Rectangle 5475.png") 50% / cover no-repeat;
+  padding: 20px;
+  padding-bottom: 40px;
+  /* width: 397px; */
+  display: flex;
+  align-items: end;
+}
+
+.about-zuwarh .group-1261155603 {
+  background: url("/public/images/Rectangle 5476.png") 50% / cover no-repeat;
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  padding: 234.5px 20px 22px 16px;
+}
+
+.about-zuwarh .group-1261155605 {
+  background: url("/public/images/Rectangle 5477.png");
+  padding: 229.5px 20px 17px 16px;
+}
+
+
+/* .about-zuwarh .container-15 {
+  width: 401px;
+} */
+
+
+/* .about-zuwarh .group-1261155606 {
+  display: flex;
+  column-gap: 20px;
+} */
+
+.about-zuwarh .group-1261155607 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+
+.about-zuwarh .why-zuwarh {
+  margin: 60px 0px;
+  justify-content: center;
+  display: flex;
+}
+
+#aboutus .why-zuwarh {
+  margin: 60px 0px;
+  justify-content: center;
+  display: flex;
+}
+
+.about-zuwarh .vector-1098 {
+  position: relative;
+  left: -50px;
+  top: 15px;
+  height: 36px;
+}
+
+#aboutus .vector-1098 {
+  position: relative;
+  left: -50px;
+  top: 15px;
+  height: 36px;
+}
+
+.about-zuwarh .group-5125081 {
+  display: flex;
+  justify-content: center;
+}
+
+#aboutus .group-5125081 {
+  display: flex;
+  justify-content: center;
+}
+
+.about-zuwarh .integrated-services-in-variety-of-medical-fields {
+  font-family: "IBM Plex Sans";
+  font-weight: 300;
+  font-size: 15.2px;
+  color: #111535;
+}
+
+.about-zuwarh .group-512508 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+#aboutus .group-512508 {
+  display: flex;
+  align-items: center;
+}
+
+.about-zuwarh .frame-1261155614 {
+  /* display: flex; */
+  /* gap: 1rem; */
+  /* flex-direction: column; */
+}
+
+#aboutus .frame-1261155614 {
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+}
+
+.about-zuwarh .group-1261155614 {
+  width: 559px;
+}
+
+#aboutus .group-1261155614 {
+  width: 559px;
+}
+
+.about-zuwarh .group-1261155615 {
+  /* display: flex;
+  justify-content: space-between; */
+  margin-bottom: 5rem;
+}
+
+
+.about-zuwarh .join-us-title {
+
+  text-align: center;
+  align-self: center;
+  max-width: 600px;
+  margin: auto;
+}
+
+#aboutus .join-us-and-get-benefits-from-zawaara-now {
+  text-align: center;
+  align-self: center;
+  width: 600px;
+}
+
+.about-zuwarh .container-1 {
+  width: 29.5px;
+}
+
+/* #aboutus .container-1 {
+  width: 29.5px;
+} */
+.about-zuwarh .service-svgrepo-com-1 {
+  margin-right: 17px;
+  display: flex;
+  height: 26.3px;
+}
+
+#aboutus .service-svgrepo-com-1 {
+  margin-right: 17px;
+  display: flex;
+  height: 26.3px;
+}
+
+.about-zuwarh .container-11 {
+  border-radius: 8px;
+  border: 1px solid #af2245;
+  background: rgba(175, 34, 69, 0.1);
+  margin-right: 27px;
+  display: flex;
+  padding: 14px 16.5px 14px 18.9px;
+}
+
+#aboutus .container-11 {
+  border-radius: 8px;
+  border: 1px solid #af2245;
+  background: rgba(175, 34, 69, 0.1);
+  margin-right: 27px;
+  display: flex;
+  padding: 14px 16.5px 14px 18.9px;
+}
+
+.about-zuwarh .container-16 {
+  border-radius: 8px;
+  border: 1px solid #af2245;
+  background: rgba(175, 34, 69, 0.1);
+  display: flex;
+  align-items: center;
+  padding: 13px 0 13px 16px;
+  width: 213px;
+}
+
+
+/* ============== */
+
+.about-zuwarh .joinus-btn {
+  padding: 15px 20px;
+
+  border-radius: 8px;
+  border: 1px solid #af2245;
+  background: rgba(175, 34, 69, 0.1);
+  display: flex;
+
+  min-width: 20%;
+}
+
+.join-us-container {
+  background-image: linear-gradient(to left bottom, #f5def4 10%, #cbf5e0 100%);
+  /* border-radius: 15px; */
+  padding: 50px 8px;
+  text-align: center;
+
+}
+
+.about-zuwarh .button-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+
+
+/* ============== */
+
+
+.about-zuwarh .container-18 {
+  display: flex;
+  margin-top: 2rem;
+}
+
+#aboutus .container-18 {
+  display: flex;
+  margin-top: 2rem;
+}
+
+.about-zuwarh .container-21 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#aboutus .container-21 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about-zuwarh .frame-1261154267 {
+  background: #f6f7f9;
+  background-image: linear-gradient(to left bottom, #f5def4 10%, #cbf5e0 100%);
+  padding-top: 5rem;
+  margin-bottom: 7rem;
+  /* width: 1240px; */
+  /* height: 385px; */
+}
+
+#aboutus .frame-1261154267 {
+  background: #f6f7f9;
+  background-image: linear-gradient(to left bottom, #f5def4 10%, #cbf5e0 100%);
+  padding-top: 5rem;
+  padding-bottom: 9rem;
+  margin-bottom: 7rem;
+  /* width: 1240px; */
+  /* height: 385px; */
+}
+
+.about-zuwarh {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 90px;
+}
+
+@media (max-width: 1024px) {
+  .about-zuwarh .frame-1261154268 {
+    display: block;
+    padding: 50px 16px 0px 17px;
+  }
+
+  /* .about-zuwarh .group-1261155606 {
+    flex-direction: column;
+  } */
+  .group-1261155615 {
+    /* flex-direction: column; */
+    padding: 0 1rem;
+  }
+
+  .about-zuwarh .group-1261155596 {
+    padding: 0;
+  }
+
+  .what-we-serve-img {
+    display: flex;
+    /* flex-direction: column; */
+  }
+
+  /* .container-15{
+    display: flex;
+  } */
+  .nav-sec-content {
+    width: 100%;
+    margin-left: 0px;
+  }
+
+  .group-1261155571 {
+    width: 100%;
+  }
+
+  .primary-linear-gradient-text {
+    width: 100%;
+  }
+
+  .about-zuwarh .lorem-ipsum-dolor {
+    width: 100%;
+  }
+
+  .container-content-section {
+    width: 100%;
+  }
+
+  .group-1261155606 {
+    /* width: 100%; */
+  }
+
+  .container-12 {
+    width: 33.3%;
+  }
+
+  .group-1261155597 {
+    width: 33.3%;
+  }
+
+  .container-15 {
+    width: 33.3%;
+  }
+
+  .frame-1261154267 {
+    width: 100%;
+  }
+
+  .about-zuwarh .group-1261155614 {
+    width: 100%;
+  }
+
+  .nav-sec-img {
+    width: 100%;
+    margin-top: 2rem;
+  }
+
+  .img-sec-39722 {
+    width: 100%;
+  }
+
+  .img-width {
+    width: 100%;
+  }
+
+  .about-zuwarh .group-1261155596 {
+    padding: 1rem;
+  }
+
+  .about-zuwarh .frame-1261155614 {
+    /* width: 69%; */
+    /* margin-right: 1rem; */
+  }
+
+  .about-zuwarh .imagination-cuate-1 {
+    max-width: 352px;
+  }
+
+  .about-zuwarh .group-1261155597 {
+    margin: 25px 1px;
+  }
+}
+
+@media (max-width: 820px) {
+  .about-zuwarh .group-1261154282 {
+    max-width: 58rem;
+    text-align: center;
+  }
+
+
+  .about-zuwarh .imagination-cuate-1 {
+    max-width: 315px;
+  }
+
+  .about-zuwarh .joinus-btn {
+    padding: 15px 20px;
+    border-radius: 8px;
+    border: 1px solid #af2245;
+    background: rgba(175, 34, 69, 0.1);
+    justify-content: center;
+  }
+
+}
+
+@media (max-width: 760px) {
+  .about-zuwarh .button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+  }
+}
+
+@media (max-width: 600px) {
+  .about-zuwarh .frame-1261154268 {
+    margin-bottom: 35px;
+  }
+
+  .about-zuwarh .group-1261155596 {
+    padding: 1rem 2rem;
+  }
+
+  .about-zuwarh .group-1261155596 {
+    margin-bottom: 37px;
+  }
+
+  .about-zuwarh .group-1261155607 {
+    padding: 2rem;
+    margin-bottom: 2px;
+  }
+
+  .about-zuwarh .group-1261154269>div {
+    font-size: 42px;
+  }
+
+  .group-1261155606 {
+    padding: 1.3rem;
+  }
+
+  .about-zuwarh .why-zuwarh {
+    margin: 18px 0px;
+  }
+
+  .group-126115561 {
+    padding: 2rem;
+  }
+
+  .join-us-container {
+    padding: 21px 1px;
+  }
+
+  .about-zuwarh .frame-1261155614 {
+    padding: 2rem;
+  }
+
+  .about-zuwarh .button-container {
+    padding: 2rem;
+  }
+
+  .about-zuwarh .group-512508 {
+    margin-bottom: 15px;
+  }
+  .heading-text-sm {
+    font-size: 26px !important;
+  }
+}
